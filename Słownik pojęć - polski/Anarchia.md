@@ -1,0 +1,1 @@
+Def. stan chaosu i nieporządku powstały wskutek braku lub bezsilności ośrodków władzy

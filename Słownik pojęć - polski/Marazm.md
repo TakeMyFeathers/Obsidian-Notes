@@ -1,0 +1,1 @@
+Def. stan apatii i zobojętnienia

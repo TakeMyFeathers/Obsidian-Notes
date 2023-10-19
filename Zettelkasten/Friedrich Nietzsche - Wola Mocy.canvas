@@ -1,0 +1,8 @@
+{
+	"nodes":[
+		{"id":"c4dd1f8cc5912bb6","type":"text","text":"Cynizm – postawa etyczna, charakteryzująca się <mark style=\"background: #FF5582A6;\">nieuznawaniem i podważaniem</mark> wartości i norm obowiązujących w danym środowisku.\n\nCynizm wiąże się z negatywnym poglądem na naturę ludzką. Zgodnie z tym uznaje, że jednostki dążą do realizacji swoich interesów i wątpią w autentyczność altruistycznych motywów działań. Według cyników nie istnieją „wyższe wartości”, „wzniosłe cele” czy ideały. Są one jedynie słowami, za pomocą których jednostki oszukują same siebie lub które służą jednym do manipulacji drugimi. Tym samym podając je w wątpliwość, obnaża się ludzkie zakłamanie.","x":-2031,"y":-1091,"width":654,"height":325},
+		{"id":"d007cc3d74127f98","type":"text","text":"Nihilizm (od łac. nihil – nic) – różnorodnie rozumiany termin filozoficzny, którego kluczowym pojęciem jest negacja. Nihilizm moralny neguje obowiązujące normy moralne (lub moralność jako taką), polityczny nihilizm neguje ustalone autorytety (lub wszelką władzę), nihilizm egzystencjalny głosi brak celu, sensu, wartości (w tym wartości życia).\n\nW filozofii społecznej nihilizm jest czasami wykorzystywany do określenia takiego stanu społecznego, w którym jednostki są przeświadczone o braku celowości wraz z doświadczeniem pustoty znaczeniowej wszelkich regulacji i unormowań prawnych, zwyczajowych czy kulturowych.","x":-2024,"y":-720,"width":753,"height":335},
+		{"id":"a37376ba9ecc1abf","type":"text","text":"Modus (łac. - miara, wzór, sposób) - ściśle określony sposób postępowania","x":-1225,"y":-1070,"width":422,"height":76}
+	],
+	"edges":[]
+}

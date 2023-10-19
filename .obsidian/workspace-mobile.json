@@ -1,0 +1,157 @@
+{
+  "main": {
+    "id": "5962ee37d991aefc",
+    "type": "split",
+    "children": [
+      {
+        "id": "a05a71f080a4c056",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a747b17a5a7ede49",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2023-07-12 18.57.30.excalidraw.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "984f0dadd3fdad90",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "246dbb4f129f0761",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "71fa7ab1e599b30d",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "8723ef994a2c09f7",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "ea3bea6b5212781b",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "c1b3f30d8eb9544f",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "58258ad437798dc9",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Excalidraw/Drawing 2023-07-12 18.57.30.excalidraw.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "5875baec49dcfe0b",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "Excalidraw/Drawing 2023-07-12 18.57.30.excalidraw.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "38f95ff2bf88ddfc",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Excalidraw/Drawing 2023-07-12 18.57.30.excalidraw.md"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "omnisearch:Omnisearch": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "a747b17a5a7ede49",
+  "lastOpenFiles": [
+    "Daily/2023-07-12.md",
+    "Zettelkasten/Twierdzenie Sylvestra.canvas",
+    "Excalidraw/Drawing 2023-07-12 18.57.30.excalidraw.md",
+    "Excalidraw",
+    "Files/Tw. Sylvestra.pdf",
+    "Untitled.canvas",
+    "Daily/2023-07-11.md",
+    "Zettelkasten/Brianchon's theorem.md",
+    "Zettelkasten/Drawing 2023-07-07 11.51.26.excalidraw.md",
+    "Files/matematyka_olimpijska_żółty_tom.pdf",
+    "Templates/Person template.md",
+    "Templates/Theorem template.md",
+    "Zettelkasten/Charles Julien Brianchon.md",
+    "Templates/Zettelkasten template.md",
+    "Templates/Quote template.md",
+    "Zettelkasten/Rust bevy.md",
+    "Files",
+    "Zettelkasten",
+    "Templates",
+    "Reference notes"
+  ]
+}

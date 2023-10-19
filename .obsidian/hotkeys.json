@@ -1,0 +1,73 @@
+{
+  "insert-template": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "T"
+    }
+  ],
+  "workspace:new-tab": [],
+  "app:toggle-left-sidebar": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "1"
+    }
+  ],
+  "obsidian-prozen:zenmode": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "F"
+    }
+  ],
+  "switcher:open": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "N"
+    }
+  ],
+  "file-explorer:new-file-in-new-pane": [],
+  "omnisearch:show-modal": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "F"
+    }
+  ],
+  "editor:open-search": [],
+  "command-palette:open": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "A"
+    }
+  ],
+  "obsidian-excalidraw-plugin:insert-link-to-element": [],
+  "app:toggle-right-sidebar": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "2"
+    }
+  ],
+  "global-search:open": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "F"
+    }
+  ]
+}

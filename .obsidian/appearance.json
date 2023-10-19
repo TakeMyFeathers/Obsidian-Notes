@@ -1,0 +1,14 @@
+{
+  "accentColor": "",
+  "cssTheme": "Dracula Gemini",
+  "translucency": false,
+  "theme": "obsidian",
+  "baseFontSize": 23,
+  "showViewHeader": false,
+  "textFontFamily": "Lora",
+  "enabledCssSnippets": [
+    "supercharged-links-gen",
+    "column-size"
+  ],
+  "nativeMenus": false
+}

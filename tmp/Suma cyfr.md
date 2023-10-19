@@ -1,0 +1,1 @@
+Obserwacja: Jeśli problem korzysta z sumy cyfr danej liczby pomocnym wydaje się rozważyć ją mod 3 lub mod 9.

@@ -1,0 +1,14 @@
+{
+	"nodes":[
+		{"type":"text","text":"# Kozackie przypinki\nhttps://www.vinted.pl/member/123409623-regiregi","id":"3e12454a46393fa0","x":-2523,"y":-1963,"width":520,"height":130},
+		{"type":"file","file":"Files/Pasted image 20230828161226.jpg","id":"2110b5f397d4652e","x":-2377,"y":-1676,"width":225,"height":400},
+		{"type":"file","file":"Files/Pasted image 20230828161339.jpg","id":"e5ba345c439d4ffa","x":-2208,"y":-1529,"width":300,"height":400},
+		{"type":"file","file":"Files/Pasted image 20230828161350.jpg","id":"291df3684db7959b","x":-2575,"y":-1320,"width":400,"height":400},
+		{"type":"text","text":"## Loose, Cozy","id":"4d3c35a1348e23ea","x":-1853,"y":-1999,"width":250,"height":60},
+		{"id":"ae45920d68b514d4","type":"file","file":"Files/Pasted image 20230828164746.jpg","x":-1660,"y":-1661,"width":400,"height":400},
+		{"id":"eb93def55c3178ea","type":"file","file":"Files/Pasted image 20230828164247.jpg","x":-1587,"y":-1127,"width":400,"height":400},
+		{"id":"ace2b1df5b6ad0f5","type":"file","file":"Files/Pasted image 20230828164804.jpg","x":-2224,"y":-1091,"width":339,"height":400},
+		{"id":"ef284276771de80d","type":"file","file":"Files/Pasted image 20230828164927.jpg","x":-2627,"y":-1027,"width":379,"height":505}
+	],
+	"edges":[]
+}

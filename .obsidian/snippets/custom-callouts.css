@@ -1,0 +1,24 @@
+.callout {
+  display: flex;
+  flex-direction: column;
+  padding: 0;
+}
+
+.callout-icon {
+  margin-top: 0;
+  color: white;
+}
+
+.callout-icon .svg-icon {
+  color: inherit;
+}
+
+.callout-title {
+  color: white;
+  padding: 10px;
+  border-bottom: 3px solid black;
+}
+
+.callout-content {
+  padding-inline: 10px;
+}
