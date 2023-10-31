@@ -1,11 +1,11 @@
 {
   "accentColor": "",
-  "cssTheme": "Dracula Gemini",
+  "cssTheme": "Royal Velvet",
   "translucency": false,
-  "theme": "obsidian",
-  "baseFontSize": 23,
-  "showViewHeader": false,
-  "textFontFamily": "Lora",
+  "theme": "moonstone",
+  "baseFontSize": 21,
+  "showViewHeader": true,
+  "textFontFamily": "Merriweather",
   "enabledCssSnippets": [
     "supercharged-links-gen",
     "column-size"

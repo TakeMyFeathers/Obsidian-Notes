@@ -1,0 +1,3 @@
+_Sygnał analogowy_ - inaczej sygnał ciągły, którego wartości przyjmują wartości z danego zakresu pomiarowego dla danego sygnału a dostęp do poszczególnych wartości jest możliwy w dowolnej jednostce czasu.
+
+Mikrokontrolery wyposażone są w przetworniki analogowo-cyfrowe o rozdzielczościach bitowych $2^{10}, 2^{11}, 2^{12}$ i większych, które zwracają nam liczbę odp. danemu poziomowi mierzonej wielkości.

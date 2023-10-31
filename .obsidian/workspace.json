@@ -4,52 +4,25 @@
     "type": "split",
     "children": [
       {
-        "id": "55b4c71e31f591a1",
+        "id": "2873a641afed24f0",
         "type": "tabs",
         "children": [
           {
-            "id": "0850169ceeaaf8e9",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "tmp/Słownik pojęć nieznanych.md",
-                "mode": "preview",
-                "backlinks": false,
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "fc9bc2314da1ef7e",
+            "id": "4d119f5d43cc9a00",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "tmp/Tako Rzecze Zaratustra.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "aa04409a760c248d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "tmp/O Czystości - Tako Rzecze Zaratustra.md",
-                "mode": "preview",
-                "backlinks": false,
-                "source": false
+                "file": "001 Boards/Dawni mistrzowie - interpretacja.canvas",
+                "viewState": {
+                  "x": -523.8400627201459,
+                  "y": 297.92778170406547,
+                  "zoom": 0.25666666666666293
+                }
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -84,8 +57,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 311.5,
-    "collapsed": true
+    "width": 311.5
   },
   "right": {
     "id": "68a4bbecffc25852",
@@ -101,7 +73,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "tmp/Tako Rzecze Zaratustra.md",
+                "file": "001 Boards/Dawni mistrzowie - interpretacja.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +90,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "tmp/Tako Rzecze Zaratustra.md",
+                "file": "001 Boards/Dawni mistrzowie - interpretacja.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "tmp/Tako Rzecze Zaratustra.md"
+                "file": "001 Boards/Dawni mistrzowie - interpretacja.canvas"
               }
             }
           },
@@ -165,74 +137,74 @@
       }
     ],
     "direction": "horizontal",
-    "width": 334.5,
+    "width": 472.5,
     "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
+      "omnisearch:Omnisearch": false,
+      "obsidian-omnivore:Omnivore": false,
       "daily-notes:Open today's daily note": true,
       "switcher:Open quick switcher": true,
       "canvas:Create new canvas": true,
       "templates:Insert template": true,
-      "obsidian-excalidraw-plugin:Create new drawing": true,
       "command-palette:Open command palette": true,
       "graph:Open graph view": true,
-      "omnisearch:Omnisearch": true,
       "workspaces:Manage workspace layouts": true,
-      "obsidian-omnivore:Omnivore": true
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "fc9bc2314da1ef7e",
+  "active": "4d119f5d43cc9a00",
   "lastOpenFiles": [
-    "tmp/O tarantulach - Tako Rzecze Zaratustra.md",
-    "tmp/O Czystości - Tako Rzecze Zaratustra.md",
-    "tmp/Tako Rzecze Zaratustra.md",
-    "O wolnej śmierci.md",
-    "tmp/Słownik pojęć nieznanych.md",
-    "tmp/Sofizmat.md",
-    "tmp/Notatki Heniu.md",
-    "tmp/Historia Filozofii.md",
-    "tmp/O cnotliwych - Tako Rzecze Zaratustra.md",
-    "tmp/Untitled.md",
-    "tmp/Antynomia.md",
-    "tmp/O starej i młodej kobiecie - Tako Rzecze Zaratustra.md",
-    "tmp/O drogach twórcy - Tako Rzecze Zaratustry.md",
-    "tmp/O miłości bliźniego - Tako Rzecze Zaratustra.md",
-    "tmp/Pytania.md",
-    "tmp/Trójkąt.md",
-    "tmp/Rachunek różniczkowy i całkowy 1.md",
-    "tmp/Logika.md",
-    "tmp/Ćw 1.56.md",
-    "tmp/Drawing 2023-10-13 21.00.44.excalidraw.md",
-    "tmp/Każdy trójkąt jest figurą wypukłą.md",
-    "tmp/Friedrich Nietzsche.md",
-    "tmp/Suma cyfr sześcianu równa 2004.md",
-    "tmp/Teoria czterech cnót.md",
-    "Files/Logika_dla_studentow_filozofii.pdf",
-    "tmp/Ciąg liczbowy.md",
-    "Files/filozofia-friedrich-nietzsche-poza-dobrem-i-zlem.pdf",
-    "Słownik pojęć - polski/Jurny.md",
-    "Files/kacik-olimpijski-algebra.pdf",
-    "Książki",
-    "tmp",
-    "Zettelkasten/Friedrich Nietzsche - Wola Mocy.canvas",
-    "Słownik pojęć - polski",
-    "Boards/Fashion board.canvas",
-    "Polski",
-    "Boards",
-    "Files/atmega328p-schemat.png",
-    "Files/matematyka_olimpijska_żółty_tom.pdf",
+    "000 Zettelkasten/Zbigniew Herbert.md",
+    "001 Boards/Dawni mistrzowie - interpretacja.canvas",
+    "000 Zettelkasten/Dawni Mistrzowie - Wiersz.md",
+    "000 Zettelkasten/agitacja.md",
+    "998 Templates/Glosariusz.md",
+    "999 Temporary/Sofizmat.md",
+    "Słownik pojęć - polski/Degrengolada.md",
+    "001 Boards/Fashion board.canvas",
+    "Polecajki.md",
+    "002 Files/Paintings/Madonna_z_książką_Sandra_Botticelli.png",
+    "002 Files/Books/filozofia-friedrich-nietzsche-poza-dobrem-i-zlem.pdf",
+    "002 Files/Books/matematyka_olimpijska_żółty_tom.pdf",
+    "002 Files/Images/atmega328p-schemat.png",
+    "002 Files/Books/Logika_dla_studentow_filozofii.pdf",
+    "002 Files/Books/kacik-olimpijski-algebra.pdf",
+    "002 Files/Books/Kącik Olimpijski - Algebra.md",
+    "000 Zettelkasten/Niezgoda na zło w poezji Zbigniewa Herberta.md",
+    "002 Files/Paintings",
+    "002 Files/Untitled.md",
+    "002 Files/Paintings/Miasto_nad_morzem_Ambrogio_Lorenzetti.png",
+    "002 Files/Pasted image 20230828152537.png",
+    "002 Files/Pasted image 20230828161226.jpg",
+    "002 Files/Pasted image 20230828161339.jpg",
+    "002 Files/Pasted image 20230828161350.jpg",
+    "002 Files/Pasted image 20230828164247.jpg",
+    "002 Files/Pasted image 20230828164746.jpg",
+    "002 Files/Pasted image 20230828164804.jpg",
+    "002 Files/Tw. Sylvestra.pdf",
+    "002 Files/Images",
+    "002 Files/Papers",
+    "000 Zettelkasten/Untitled.md",
+    "000 Zettelkasten/Sofizm.md",
+    "000 Zettelkasten/Rozprawka - ćwiczenia redakcyjne.md",
+    "000 Zettelkasten/Sokrates.md",
+    "000 Zettelkasten/Mikrokontrolery - notatki.md",
+    "000 Zettelkasten/Timery.md",
+    "000 Zettelkasten/Sterowanie sygnałem PWM.md",
+    "000 Zettelkasten/Zmienne w Arduino.md",
+    "000 Zettelkasten/Atmega 328P - omówienie.md",
+    "000 Zettelkasten/Funkcje konfiguracyjne w Arduino.md",
+    "000 Zettelkasten/Funkcje konfiguracyjne w Arduino 2.md",
+    "000 Zettelkasten/Chmury - Arystofanes.md",
+    "000 Zettelkasten/Intelektualizm etyczny.md",
+    "000 Zettelkasten/Arystofanes.md",
+    "000 Zettelkasten/Perykles.md",
+    "000 Zettelkasten/Nierówność Cauchy'ego-Schwarza.pdf",
+    "glosariusz",
+    "000 Zettelkasten/Friedrich Nietzsche - Wola Mocy.canvas",
     "Zettelkasten/Twierdzenie Sylvestra.canvas",
-    "Files/Pasted image 20230828164927.jpg",
-    "Files/Pasted image 20230828164804.jpg",
-    "Files/Pasted image 20230828164746.jpg",
-    "Files/Pasted image 20230828164247.jpg",
-    "Files/Pasted image 20230828161350.jpg",
-    "Files/Pasted image 20230828161339.jpg",
-    "Files/Pasted image 20230828161226.jpg",
-    "Files/Pasted image 20230828152537.png",
-    "Zettelkasten/Zettelkasten",
-    "Files/Pasted image 20230711134014.png",
     "Zettelkasten/olimpiada matematyczna - teoria liczb.canvas"
   ]
 }

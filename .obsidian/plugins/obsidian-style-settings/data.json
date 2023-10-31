@@ -1,5 +1,5 @@
 {
-  "obsidian-prism-theme@@color-schemes-dt": "pt-color-scheme-mocha-dt",
+  "obsidian-prism-theme@@color-schemes-dt": "pt-color-scheme-raven-dt",
   "obsidian-prism-theme@@color-schemes-lt": "pt-color-scheme-pistachio-lt",
   "blue-topaz-theme@@color-scheme-options": "color-scheme-options-topaz-nord",
   "supercharged-links@@d7da-e877-weight": "initial",
@@ -8,7 +8,7 @@
   "supercharged-links@@d7da-e877-after": "\"\"",
   "shiba-theme-settings@@shiba-colors-theme-dark": "warm-dark",
   "shiba-theme-settings@@shiba-colors-theme-light": "ivory-light",
-  "sanctum@@dark-mode-contrast-mode": "sanctum-contrast-dark",
+  "sanctum@@dark-mode-contrast-mode": "sanctum-black",
   "sanctum@@light-mode-contrast-mode": "sanctum-white",
   "ul-theme-settings@@ul-color-accent": "ul-cyan",
   "ul-theme-settings@@ul-theme-dark": "ul-obplus-dt",
@@ -53,5 +53,9 @@
   "anuppuccin-theme-settings@@anuppuccin-light-theme-accents": "ctp-accent-light-rosewater",
   "id@@callout-on": true,
   "catppuccin-theme-settings@@catppuccin-theme-dark": "ctp-frappe",
-  "catppuccin-theme-settings@@catppuccin-theme-accents": "ctp-full-palette"
+  "catppuccin-theme-settings@@catppuccin-theme-accents": "ctp-full-palette",
+  "sanctum@@file-line-width": 70,
+  "sanctum@@font-editor-theme": "\"\"",
+  "id@@colorblind_protan-deutan": true,
+  "id@@colorblind_tritan": true
 }

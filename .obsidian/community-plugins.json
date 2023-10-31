@@ -1,15 +1,19 @@
 [
   "obsidian-style-settings",
   "obsidian-outliner",
-  "dataview",
-  "obsidian-excalidraw-plugin",
   "omnisearch",
   "text-extractor",
-  "quickadd",
-  "no-dupe-leaves",
-  "editor-width-slider",
   "keyshots",
   "obsidian-omnivore",
   "obsidian-hider",
-  "obsidian-git"
+  "obsidian-git",
+  "templater-obsidian",
+  "obsidian-admonition",
+  "no-dupe-leaves",
+  "dataview",
+  "editor-width-slider",
+  "settings-search",
+  "image-captions",
+  "canvas-mindmap",
+  "optimize-canvas-connections"
 ]

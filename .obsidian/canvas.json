@@ -1,4 +1,6 @@
 {
-  "snapToObjects": false,
-  "snapToGrid": false
+  "snapToObjects": true,
+  "snapToGrid": false,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "001 Boards"
 }

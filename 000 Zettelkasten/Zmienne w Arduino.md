@@ -1,0 +1,11 @@
+## Typy zmiennych:
+- byte, 0-255 - 1 bajt
+- char, -128-127, 1 bajt
+- int, -32768-32767, 2 bajty
+- word, 0-65535, 2 bajty
+- long, signed 4 bajty
+- unsigned long, 4 bajty
+- float, 0.000001, 4 bajty
+- double, 0.0...1, 8 bajtów
+- bool - true/false
+- String, typ złożony
