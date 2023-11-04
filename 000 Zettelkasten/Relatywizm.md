@@ -5,4 +5,4 @@ _Odmiany:_
 - [[Relatywizm etyczny]]
 - [[Relatywizm poznawczy]]
 
-_Tagi._ #glosariusz #filozofia 
+_Tagi._ #definicja #filozofia #pogląd

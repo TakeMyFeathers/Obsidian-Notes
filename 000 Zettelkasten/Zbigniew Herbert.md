@@ -3,3 +3,5 @@ _Zarys_. Urodził się w Lwowie (**oddajcie Lwów**). Uważany za jednego z najw
 
 Wiersze:
 - [[Dawni mistrzowie - interpretacja.canvas|Dawni mistrzowie - interpretacja]]
+
+#TODO 

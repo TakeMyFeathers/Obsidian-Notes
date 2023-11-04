@@ -4,21 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "2873a641afed24f0",
+        "id": "21af6d6f6e9471d4",
         "type": "tabs",
         "children": [
           {
-            "id": "4d119f5d43cc9a00",
+            "id": "aad19abea9b582c2",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "001 Boards/Dawni mistrzowie - interpretacja.canvas",
-                "viewState": {
-                  "x": -523.8400627201459,
-                  "y": 297.92778170406547,
-                  "zoom": 0.25666666666666293
-                }
+                "file": "000 Zettelkasten/Aksjomat ciągłości.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           }
@@ -46,10 +44,10 @@
             }
           },
           {
-            "id": "effa0290d4b61010",
+            "id": "c1ae11701ccccec4",
             "type": "leaf",
             "state": {
-              "type": "bookmarks",
+              "type": "calendar",
               "state": {}
             }
           }
@@ -57,7 +55,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 311.5
+    "width": 311.5,
+    "collapsed": true
   },
   "right": {
     "id": "68a4bbecffc25852",
@@ -67,56 +66,6 @@
         "id": "fd4eeb090c5ad1d6",
         "type": "tabs",
         "children": [
-          {
-            "id": "a898e3f1bb35ca60",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "001 Boards/Dawni mistrzowie - interpretacja.canvas",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "5538956832fe3c1c",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "001 Boards/Dawni mistrzowie - interpretacja.canvas",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "85d3501659327737",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
-              }
-            }
-          },
-          {
-            "id": "3f2ce8f637359e0b",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "001 Boards/Dawni mistrzowie - interpretacja.canvas"
-              }
-            }
-          },
           {
             "id": "4210a66e02566d35",
             "type": "leaf",
@@ -131,18 +80,62 @@
                 "sortOrder": "alphabetical"
               }
             }
+          },
+          {
+            "id": "c76fe45fb0e80452",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "000 Zettelkasten/Aksjomat ciągłości.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1,
+                  "close": true
+                }
+              }
+            }
+          },
+          {
+            "id": "85d3501659327737",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false
+              }
+            }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 472.5,
+    "width": 323.5,
     "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "omnisearch:Omnisearch": false,
       "obsidian-omnivore:Omnivore": false,
       "daily-notes:Open today's daily note": true,
       "switcher:Open quick switcher": true,
@@ -151,59 +144,63 @@
       "command-palette:Open command palette": true,
       "graph:Open graph view": true,
       "workspaces:Manage workspace layouts": true,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "periodic-notes:Open today": false,
+      "obsidian-book-search-plugin:Create new book note": false,
+      "omnisearch:Omnisearch": false
     }
   },
-  "active": "4d119f5d43cc9a00",
+  "active": "aad19abea9b582c2",
   "lastOpenFiles": [
-    "000 Zettelkasten/Zbigniew Herbert.md",
+    "Books",
+    "000 Zettelkasten/Untitled.md",
+    "Journal/002 Monthly",
+    "Journal/001 Weekly",
+    "Journal/000 Daily",
+    "Journal",
+    "000 Zettelkasten/Relatywizm poznawczy.md",
+    "000 Zettelkasten/Anaksymander.md",
+    "000 Zettelkasten/Granica » Pierwiastek n-tego stopnia z n.md",
+    "000 Zettelkasten/Hylozoizm.md",
     "001 Boards/Dawni mistrzowie - interpretacja.canvas",
-    "000 Zettelkasten/Dawni Mistrzowie - Wiersz.md",
-    "000 Zettelkasten/agitacja.md",
-    "998 Templates/Glosariusz.md",
-    "999 Temporary/Sofizmat.md",
-    "Słownik pojęć - polski/Degrengolada.md",
+    "000 Zettelkasten/Zmienne w Arduino.md",
+    "000 Zettelkasten/Zbigniew Herbert.md",
+    "000 Zettelkasten/Wichrzycielstwo.md",
+    "000 Zettelkasten/Transcendencji.md",
+    "000 Zettelkasten/Tożsamość nieśmiertelna.md",
+    "000 Zettelkasten/Timery.md",
+    "000 Zettelkasten/Tales z Miletu.md",
+    "000 Zettelkasten/Stoicyzm.md",
+    "000 Zettelkasten/Sterowanie sygnałem PWM.md",
+    "000 Zettelkasten/Sprawa gardłowa.md",
+    "000 Zettelkasten/Sokrates.md",
+    "000 Zettelkasten/Sofizm.md",
+    "000 Zettelkasten/Sofisteria.md",
+    "000 Zettelkasten/Schematy połączeń urządzeń instalacyjnych.md",
+    "000 Zettelkasten/Rozprawka - ćwiczenia redakcyjne.md",
+    "000 Zettelkasten/Rywalizacja związku radzieckiego i stanów zjednoczonych.md",
+    "000 Zettelkasten/Richard Dedekind.md",
+    "000 Zettelkasten/Retoryka.md",
+    "000 Zettelkasten/Relatywizm etyczny.md",
+    "000 Zettelkasten/Relatywizm estetyczny.md",
+    "000 Zettelkasten/Friedrich Nietzsche - Wola Mocy.canvas",
+    "Pasted image 20231103223925.png",
+    "002 Files/Paintings/Miasto_nad_morzem_Ambrogio_Lorenzetti.png",
+    "Ciąg 1",
     "001 Boards/Fashion board.canvas",
-    "Polecajki.md",
     "002 Files/Paintings/Madonna_z_książką_Sandra_Botticelli.png",
     "002 Files/Books/filozofia-friedrich-nietzsche-poza-dobrem-i-zlem.pdf",
     "002 Files/Books/matematyka_olimpijska_żółty_tom.pdf",
     "002 Files/Images/atmega328p-schemat.png",
     "002 Files/Books/Logika_dla_studentow_filozofii.pdf",
     "002 Files/Books/kacik-olimpijski-algebra.pdf",
-    "002 Files/Books/Kącik Olimpijski - Algebra.md",
-    "000 Zettelkasten/Niezgoda na zło w poezji Zbigniewa Herberta.md",
     "002 Files/Paintings",
-    "002 Files/Untitled.md",
-    "002 Files/Paintings/Miasto_nad_morzem_Ambrogio_Lorenzetti.png",
     "002 Files/Pasted image 20230828152537.png",
     "002 Files/Pasted image 20230828161226.jpg",
     "002 Files/Pasted image 20230828161339.jpg",
     "002 Files/Pasted image 20230828161350.jpg",
     "002 Files/Pasted image 20230828164247.jpg",
     "002 Files/Pasted image 20230828164746.jpg",
-    "002 Files/Pasted image 20230828164804.jpg",
-    "002 Files/Tw. Sylvestra.pdf",
-    "002 Files/Images",
-    "002 Files/Papers",
-    "000 Zettelkasten/Untitled.md",
-    "000 Zettelkasten/Sofizm.md",
-    "000 Zettelkasten/Rozprawka - ćwiczenia redakcyjne.md",
-    "000 Zettelkasten/Sokrates.md",
-    "000 Zettelkasten/Mikrokontrolery - notatki.md",
-    "000 Zettelkasten/Timery.md",
-    "000 Zettelkasten/Sterowanie sygnałem PWM.md",
-    "000 Zettelkasten/Zmienne w Arduino.md",
-    "000 Zettelkasten/Atmega 328P - omówienie.md",
-    "000 Zettelkasten/Funkcje konfiguracyjne w Arduino.md",
-    "000 Zettelkasten/Funkcje konfiguracyjne w Arduino 2.md",
-    "000 Zettelkasten/Chmury - Arystofanes.md",
-    "000 Zettelkasten/Intelektualizm etyczny.md",
-    "000 Zettelkasten/Arystofanes.md",
-    "000 Zettelkasten/Perykles.md",
-    "000 Zettelkasten/Nierówność Cauchy'ego-Schwarza.pdf",
-    "glosariusz",
-    "000 Zettelkasten/Friedrich Nietzsche - Wola Mocy.canvas",
     "Zettelkasten/Twierdzenie Sylvestra.canvas",
     "Zettelkasten/olimpiada matematyczna - teoria liczb.canvas"
   ]

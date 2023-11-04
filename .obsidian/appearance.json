@@ -1,14 +1,15 @@
 {
   "accentColor": "",
-  "cssTheme": "Royal Velvet",
+  "cssTheme": "Typewriter",
   "translucency": false,
-  "theme": "moonstone",
+  "theme": "obsidian",
   "baseFontSize": 21,
   "showViewHeader": true,
-  "textFontFamily": "Merriweather",
+  "textFontFamily": "iA Writer Mono S,Merriweather",
   "enabledCssSnippets": [
     "supercharged-links-gen",
     "column-size"
   ],
-  "nativeMenus": false
+  "nativeMenus": false,
+  "monospaceFontFamily": "JetBrainsMono Nerd Font"
 }

@@ -2,3 +2,5 @@ Pogląd sformułowany przez Sokratesa, który streszcza sformułowanie: cnota je
 
 _Kontrargument._ Choć wiemy, iż robienie pewnych rzeczy jest szkodliwe albo przeszkadza w osiągnięciu czegoś, na czym nam zależy, czynimy to nie mogąc się oprzeć sile nałogu bądź pożądania.
 _Odpowiedź._ 
+
+_Tagi:_ #definicja #filozofia #pogląd

@@ -4,4 +4,4 @@ Takie wnioski miał wyciągnąć Kalikles: _racja jest po stronie silniejszego
 _Źródła:_
 - https://sady.up.krakow.pl/sady.dzieje.02.htm ^d94e1f
 
-_Tagi:_ #filozofia #filozof #sofista
+_Tagi:_ #osoba #filozofia #sofizm 

@@ -11,7 +11,6 @@ _Cechy sofistów:_
 - Za pieniądze uczyli różnych umiejętności, a przede wszystkim [[Retoryka|retoryki]].
 - Nie zakładali szkół a raczej wędrowali z miejsca na miejsce w poszukiwaniu uczniów.
 
-
 _Przedstawiciele:_
 - [[Protagoras z Abdery]]
 - [[Gorgiasz z Leontinoi]]
@@ -20,4 +19,4 @@ _Przedstawiciele:_
 _Źródła:_
 - https://sady.up.krakow.pl/sady.dzieje.02.htm
 
-_Tagi._ #filozofia #nurt_filozoficzny 
+_Tagi._ #nurt_filozoficzny #filozofia 

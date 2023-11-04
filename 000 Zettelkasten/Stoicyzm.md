@@ -1,6 +1,8 @@
 ## Pierwotne założenia
 Stoicyzm był pierwotnie programem określającym, jak ludzkość może być zbawiona i jak powinna żyć, i zajmował się przede wszystkim zdefiniowaniem natury szczęścia ludzkiego oraz wykryciem środków osiągnięcia go.
 
+#TODO
+
 Założyciel: Zenon z Kition
 
 

@@ -1,3 +1,3 @@
-_Def._ 
+___Def.___ 
 
-_Tagi._ #glosariusz  
+___Tagi.___ #definicja  

@@ -9,4 +9,4 @@ _Zarys._ Podróżował od miasta do miasta wygłaszając publiczne mowy, wielki 
 _Źródła:_
 - https://sady.up.krakow.pl/sady.dzieje.02.htm
 
-_Tagi:_ #filozofia #filozof #sofista
+_Tagi:_ #osoba #filozofia #sofizm
