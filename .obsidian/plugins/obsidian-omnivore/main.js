@@ -10919,6 +10919,7 @@ var loadArticles = async (endpoint, apiKey, after = 0, first = 10, updatedAt = "
                     updatedAt
                     type
                     highlightPositionPercent
+                    highlightPositionAnchorIndex
                     labels {
                       name
                     }
@@ -10972,8 +10973,8 @@ var deleteArticleById = async (endpoint, apiKey, articleId) => {
               }`,
       variables: {
         input: {
-          "articleID": articleId,
-          "bookmark": false
+          articleID: articleId,
+          bookmark: false
         }
       }
     }),
@@ -12297,9 +12298,9 @@ function formatDate(date, format) {
 var getQueryFromFilter = (filter, customQuery) => {
   switch (filter) {
     case "ALL":
-      return "";
+      return "in:all";
     case "HIGHLIGHTS":
-      return `has:highlights`;
+      return `has:highlights in:all`;
     case "ADVANCED":
       return customQuery;
     default:
@@ -12386,10 +12387,21 @@ function upperCaseFirst() {
     return str.charAt(0).toUpperCase() + str.slice(1).toLowerCase();
   };
 }
+function formatDateFunc() {
+  return function(text, render3) {
+    const [dateVariable, format] = text.split(",", 2);
+    const date = render3(dateVariable);
+    if (!date) {
+      return "";
+    }
+    return formatDate(date, format);
+  };
+}
 var functionMap = {
   lowerCase,
   upperCase,
-  upperCaseFirst
+  upperCaseFirst,
+  formatDate: formatDateFunc
 };
 var renderFilename = (article, filename, dateFormat) => {
   var _a;
@@ -12400,7 +12412,8 @@ var renderFilename = (article, filename, dateFormat) => {
     author: (_a = article.author) != null ? _a : "unknown-author",
     date,
     dateSaved: date,
-    datePublished
+    datePublished,
+    id: article.id
   });
   return (0, import_lodash.truncate)(renderedFilename, {
     length: 100
@@ -12436,7 +12449,9 @@ var renderArticleContnet = async (article, template, highlightOrder, dateHighlig
       dateHighlighted: formatDate(highlight.updatedAt, dateHighlightedFormat),
       note: (_a2 = highlight.annotation) != null ? _a2 : void 0,
       labels: renderLabels(highlight.labels),
-      color: (_b2 = highlight.color) != null ? _b2 : "yellow"
+      color: (_b2 = highlight.color) != null ? _b2 : "yellow",
+      positionPercent: highlight.highlightPositionPercent,
+      positionAnchorIndex: highlight.highlightPositionAnchorIndex + 1
     };
   });
   const dateSaved = formatDate(article.savedAt, dateSavedFormat);
@@ -12559,7 +12574,7 @@ var DEFAULT_SETTINGS = {
   dateHighlightedFormat: "yyyy-MM-dd HH:mm:ss",
   dateSavedFormat: "yyyy-MM-dd HH:mm:ss",
   apiKey: "",
-  filter: "HIGHLIGHTS",
+  filter: "ALL",
   syncAt: "",
   customQuery: "",
   template: DEFAULT_TEMPLATE,
@@ -14113,6 +14128,7 @@ var TextInputSuggest = class {
     }
   }
   open(container, inputEl) {
+    ;
     this.app.keymap.pushScope(this.scope);
     container.appendChild(this.suggestEl);
     this.popper = createPopper(inputEl, this.suggestEl, {
@@ -14136,6 +14152,7 @@ var TextInputSuggest = class {
     });
   }
   close() {
+    ;
     this.app.keymap.popScope(this.scope);
     this.suggest.setSuggestions([]);
     this.popper.destroy();
@@ -14184,7 +14201,7 @@ var OmnivorePlugin = class extends import_obsidian6.Plugin {
     }
     this.addCommand({
       id: "sync",
-      name: "Sync",
+      name: "Sync new changes",
       callback: () => {
         this.fetchOmnivore();
       }
@@ -14213,6 +14230,7 @@ var OmnivorePlugin = class extends import_obsidian6.Plugin {
     });
     this.addSettingTab(new OmnivoreSettingTab(this.app, this));
     this.scheduleSync();
+    await this.fetchOmnivore();
   }
   onunload() {
   }
@@ -14424,10 +14442,11 @@ var OmnivoreSettingTab = class extends import_obsidian6.PluginSettingTab {
       this.plugin.settings.apiKey = value;
       await this.plugin.saveSettings();
     }));
-    new import_obsidian6.Setting(containerEl).setName("Filter").setDesc("Select an Omnivore search filter type").addDropdown((dropdown) => {
+    new import_obsidian6.Setting(containerEl).setName("Filter").setDesc("Select an Omnivore search filter type. Changing this would reset the 'Last sync' timestamp").addDropdown((dropdown) => {
       dropdown.addOptions(Filter);
       dropdown.setValue(this.plugin.settings.filter).onChange(async (value) => {
         this.plugin.settings.filter = value;
+        this.plugin.settings.syncAt = "";
         await this.plugin.saveSettings();
       });
     });
@@ -14435,12 +14454,13 @@ var OmnivoreSettingTab = class extends import_obsidian6.PluginSettingTab {
       fragment.append("See ", fragment.createEl("a", {
         text: "https://docs.omnivore.app/using/search",
         href: "https://docs.omnivore.app/using/search"
-      }), " for more info on search query syntax. Make sure your Filter (in the section above) is set to advanced when using a custom query.");
+      }), " for more info on search query syntax. Make sure your Filter (in the section above) is set to advanced when using a custom query.", " Changing this would reset the 'Last Sync' timestamp");
     })).addText((text) => text.setPlaceholder("Enter an Omnivore custom search query if advanced filter is selected").setValue(this.plugin.settings.customQuery).onChange(async (value) => {
       this.plugin.settings.customQuery = value;
+      this.plugin.settings.syncAt = "";
       await this.plugin.saveSettings();
     }));
-    new import_obsidian6.Setting(containerEl).setName("Last Sync").setDesc("Last time the plugin synced with Omnivore").addMomentFormat((momentFormat) => momentFormat.setPlaceholder("Last Sync").setValue(this.plugin.settings.syncAt).setDefaultFormat("yyyy-MM-dd'T'HH:mm:ss").onChange(async (value) => {
+    new import_obsidian6.Setting(containerEl).setName("Last Sync").setDesc("Last time the plugin synced with Omnivore. The 'Sync' command fetches articles updated after this timestamp").addMomentFormat((momentFormat) => momentFormat.setPlaceholder("Last Sync").setValue(this.plugin.settings.syncAt).setDefaultFormat("yyyy-MM-dd'T'HH:mm:ss").onChange(async (value) => {
       this.plugin.settings.syncAt = value;
       await this.plugin.saveSettings();
     }));
@@ -14512,7 +14532,7 @@ var OmnivoreSettingTab = class extends import_obsidian6.PluginSettingTab {
       this.plugin.settings.isSingleFile = value;
       await this.plugin.saveSettings();
     }));
-    new import_obsidian6.Setting(containerEl).setName("Filename").setDesc("Enter the filename where the data will be stored. {{{title}}}, {{{dateSaved}}} and {{{datePublished}}} could be used in the filename").addText((text) => text.setPlaceholder("Enter the filename").setValue(this.plugin.settings.filename).onChange(async (value) => {
+    new import_obsidian6.Setting(containerEl).setName("Filename").setDesc("Enter the filename where the data will be stored. {{id}}, {{{title}}}, {{{dateSaved}}} and {{{datePublished}}} could be used in the filename").addText((text) => text.setPlaceholder("Enter the filename").setValue(this.plugin.settings.filename).onChange(async (value) => {
       this.plugin.settings.filename = value;
       await this.plugin.saveSettings();
     }));

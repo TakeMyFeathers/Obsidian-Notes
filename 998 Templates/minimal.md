@@ -1,4 +1,2 @@
----
-created_at: "{{date:YYYY-MM-DD}} {{time:HH:mm}}"
----
-
+_Creation date._ <% tp.file.creation_date("DD/MM/YYYY HH:MM") %>
+_Tags._ 

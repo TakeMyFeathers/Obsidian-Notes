@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "",
+  "search": "path:\"000 Zettelkasten/Słowniczek/Polski\"  ",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -17,6 +17,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.7469084703358692,
-  "close": true
+  "scale": 1.5601505380706038,
+  "close": false
 }

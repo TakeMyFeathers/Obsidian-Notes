@@ -1,5 +1,5 @@
 {
-  "newFileLocation": "folder",
+  "newFileLocation": "current",
   "newFileFolderPath": "000 Zettelkasten",
   "attachmentFolderPath": "Files",
   "livePreview": true,
@@ -8,8 +8,8 @@
   "showInlineTitle": true,
   "showFrontmatter": false,
   "focusNewTab": true,
-  "showLineNumber": true,
-  "showIndentGuide": true,
+  "showLineNumber": false,
+  "showIndentGuide": false,
   "readableLineLength": true,
   "strictLineBreaks": false,
   "foldHeading": true,
@@ -24,5 +24,5 @@
     "margin": "2",
     "downscalePercent": 100
   },
-  "propertiesInDocument": "visible"
+  "propertiesInDocument": "source"
 }

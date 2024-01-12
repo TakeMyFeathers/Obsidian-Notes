@@ -34,16 +34,6 @@
     }
   ],
   "file-explorer:new-file-in-new-pane": [],
-  "omnisearch:show-modal": [
-    {
-      "modifiers": [
-        "Mod",
-        "Shift"
-      ],
-      "key": "F"
-    }
-  ],
-  "editor:open-search": [],
   "command-palette:open": [
     {
       "modifiers": [
@@ -60,14 +50,6 @@
         "Alt"
       ],
       "key": "2"
-    }
-  ],
-  "global-search:open": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "F"
     }
   ]
 }

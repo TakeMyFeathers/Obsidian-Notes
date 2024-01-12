@@ -1,3 +1,3 @@
 [[Zbigniew Herbert]]
 
-Cogito ergo sum - 
+Cogito ergo sum - myślę, więc jestem

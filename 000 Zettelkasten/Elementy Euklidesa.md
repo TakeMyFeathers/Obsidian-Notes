@@ -1,0 +1,1 @@
+[[Elementy Euklidesa - PROPOSITION II]]

@@ -1,14 +1,16 @@
 {
   "accentColor": "",
-  "cssTheme": "Typewriter",
+  "cssTheme": "Minimal",
   "translucency": false,
   "theme": "obsidian",
-  "baseFontSize": 21,
+  "baseFontSize": 20,
   "showViewHeader": true,
-  "textFontFamily": "iA Writer Mono S,Merriweather",
+  "textFontFamily": "Merriweather,iA Writer Mono S,Times New Roman,JetBrainsMono Nerd Font",
   "enabledCssSnippets": [
     "supercharged-links-gen",
-    "column-size"
+    "column-size",
+    "theorem-callout",
+    "simple-callout"
   ],
   "nativeMenus": false,
   "monospaceFontFamily": "JetBrainsMono Nerd Font"

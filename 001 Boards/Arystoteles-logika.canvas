@@ -1,0 +1,31 @@
+{
+	"nodes":[
+		{"id":"f9b66b215344f973","type":"text","text":"__Logika__\nPodstawowe pojęcia stanowią:\n- Pojęcia i definicja\n- Sąd i dowód\n\nJeżeli chodzi o stosunki panujące pomiędzy teorią pojęć a teorią sądów to są one całkowicie analogiczne, tj. tworzą hierarchię, posiadają kres w postaci bytów najogólniejszych.  ","x":-597,"y":-591,"width":1070,"height":286},
+		{"id":"cc9992ad268a3f34","type":"text","text":"__Logika jako narzędzie__\n\n![[Historia filozofii. T. 1, Filozofia starożytna i średniowieczna#^e265f6]]\n\nPisma logiczne Arystotelesa przyjęło się oznaczać wspólną nazwą _Organon_, czyli narzędzie, zgodnie z intencją ich twórcy.","x":-452,"y":-1000,"width":781,"height":320},
+		{"id":"f9df361a874b72c3","type":"text","text":"__Wstęp__\n\n![[Historia filozofii. T. 1, Filozofia starożytna i średniowieczna#^30f221]]","x":-1273,"y":60,"width":781,"height":286},
+		{"id":"463f248d6d4b6f67","type":"text","text":"__Podejście Platona__\n\n![[Historia filozofii. T. 1, Filozofia starożytna i średniowieczna#^789c2b]]","x":-452,"y":60,"width":781,"height":286},
+		{"id":"eb834d1f86308f24","type":"text","text":"__Definicja sądu__\n\n![[Historia filozofii. T. 1, Filozofia starożytna i średniowieczna#^e2eb11]]","x":-1497,"y":-588,"width":781,"height":295},
+		{"id":"0a1c8268057063b0","type":"text","text":"__Hierarchiczność__\n\n![[Historia filozofii. T. 1, Filozofia starożytna i średniowieczna#^626891]]","x":717,"y":-820,"width":781,"height":195},
+		{"id":"1fcaa0952e40df6d","type":"text","text":"__Kres górny__\n\n![[Historia filozofii. T. 1, Filozofia starożytna i średniowieczna#^f17630]]","x":717,"y":-605,"width":781,"height":312},
+		{"id":"5ee46133bbb5af71","type":"text","text":"__Jak definiować__\n\n![[Historia filozofii. T. 1, Filozofia starożytna i średniowieczna#^ac4533]]","x":717,"y":-273,"width":781,"height":168},
+		{"id":"2efba14caa546a26","type":"text","text":"__Rola rozumu__\n\n![[Historia filozofii. T. 1, Filozofia starożytna i średniowieczna#^e9d390]]","x":-452,"y":720,"width":781,"height":300},
+		{"id":"fc1614f0d8c69103","type":"text","text":"# Psychologia poznania","x":-226,"y":-190,"width":329,"height":65},
+		{"id":"285cc962c3018085","type":"text","text":"__Podejście Arystotelesa__\n\n![[Historia filozofii. T. 1, Filozofia starożytna i średniowieczna#^cd626d]]","x":-452,"y":366,"width":781,"height":334},
+		{"id":"0eb9fe3418accf9c","type":"text","text":"__Hierarchia poznania__\n\n![[Historia filozofii. T. 1, Filozofia starożytna i średniowieczna#^1f24aa]]","x":369,"y":60,"width":868,"height":286},
+		{"id":"51d469673187a24c","type":"text","text":"__Dogmatyzm logiki__\n\n![[Historia filozofii. T. 1, Filozofia starożytna i średniowieczna#^c4850b]]","x":369,"y":366,"width":868,"height":174}
+	],
+	"edges":[
+		{"id":"944ed2862b6d7ed4","fromNode":"f9b66b215344f973","fromSide":"right","toNode":"0a1c8268057063b0","toSide":"left"},
+		{"id":"0fd45dd126cbd766","fromNode":"f9b66b215344f973","fromSide":"right","toNode":"5ee46133bbb5af71","toSide":"left"},
+		{"id":"5eee67a231fb9b47","fromNode":"f9b66b215344f973","fromSide":"right","toNode":"1fcaa0952e40df6d","toSide":"left"},
+		{"id":"e9da8ac4a19ee637","fromNode":"f9b66b215344f973","fromSide":"left","toNode":"eb834d1f86308f24","toSide":"right"},
+		{"id":"e9e47e5f6872fa4b","fromNode":"f9b66b215344f973","fromSide":"top","toNode":"cc9992ad268a3f34","toSide":"bottom"},
+		{"id":"5a12abc93a692107","fromNode":"f9b66b215344f973","fromSide":"bottom","toNode":"fc1614f0d8c69103","toSide":"top"},
+		{"id":"508d79c51d4bb7ac","fromNode":"fc1614f0d8c69103","fromSide":"bottom","toNode":"f9df361a874b72c3","toSide":"top"},
+		{"id":"2370f9ba69c62936","fromNode":"fc1614f0d8c69103","fromSide":"bottom","toNode":"0eb9fe3418accf9c","toSide":"top"},
+		{"id":"2dda188bb0106a83","fromNode":"fc1614f0d8c69103","fromSide":"bottom","toNode":"463f248d6d4b6f67","toSide":"top"},
+		{"id":"d5166c3233e70a09","fromNode":"463f248d6d4b6f67","fromSide":"bottom","toNode":"285cc962c3018085","toSide":"top"},
+		{"id":"572bfd9c3b6497e9","fromNode":"285cc962c3018085","fromSide":"bottom","toNode":"2efba14caa546a26","toSide":"top"},
+		{"id":"1b51741ee1beee27","fromNode":"0eb9fe3418accf9c","fromSide":"bottom","toNode":"51d469673187a24c","toSide":"top"}
+	]
+}

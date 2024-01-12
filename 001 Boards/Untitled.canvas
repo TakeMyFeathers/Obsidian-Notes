@@ -1,0 +1,16 @@
+{
+	"nodes":[
+		{"id":"fb9ab45fec924287","type":"text","text":"# Treść\nUdowodnić, że jeżeli $a\\neq b$ są liczbami naturalnymi, to $$NWD(a,b)\\leq \\frac{a+b}{3}$$","x":-500,"y":-420,"width":751,"height":201},
+		{"id":"c3a4411e1d06fec7","type":"text","text":"# Rozwiązanie","x":-400,"y":-120,"width":316,"height":60},
+		{"id":"10d543c610537fe7","type":"text","text":"$NWD(a,b)=d$","x":-750,"y":20,"width":210,"height":36},
+		{"id":"fe7a9c25ea159ba5","type":"text","text":"$a=da'$ i $b=db'$, dla $a',b'\\in\\mathbb{N}$.","x":-943,"y":208,"width":383,"height":36},
+		{"id":"dec0de4e9ae95f74","type":"text","text":" $a'\\perp b'$ i z faktu, że $a\\neq b$ mamy $a'+b'\\geq3$","x":-750,"y":440,"width":475,"height":73},
+		{"id":"460e77fdf8cf9206","type":"file","file":"000 Zettelkasten/Wykładniki p-adyczne - NWD.md","subpath":"#^cca66c","x":-440,"y":217,"width":600,"height":83}
+	],
+	"edges":[
+		{"id":"9af5bc2e5599a8e1","fromNode":"c3a4411e1d06fec7","fromSide":"bottom","toNode":"10d543c610537fe7","toSide":"top","label":"Założenia"},
+		{"id":"c633189587eb50ef","fromNode":"10d543c610537fe7","fromSide":"bottom","toNode":"fe7a9c25ea159ba5","toSide":"top","label":"Wtedy"},
+		{"id":"b99f82ff477de096","fromNode":"fe7a9c25ea159ba5","fromSide":"bottom","toNode":"dec0de4e9ae95f74","toSide":"top"},
+		{"id":"2e44776686f014c7","fromNode":"dec0de4e9ae95f74","fromSide":"top","toNode":"460e77fdf8cf9206","toSide":"bottom"}
+	]
+}

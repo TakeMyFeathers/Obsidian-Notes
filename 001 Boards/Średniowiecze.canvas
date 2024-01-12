@@ -1,0 +1,18 @@
+{
+	"nodes":[
+		{"id":"9b0e6453b401b1c2","type":"text","text":"# Uniwersalizm średniowieczny\n- monoteizm, chrześcijaństwo, „Nami rządzi papież“\n- Łacina językiem dominującym\n- Feudalizm - ustrój oparty na hierarchicznej zależności jednostek między sobą\n- styl romański i gotycki\n- teocentryzm - dosł. Bóg w centrum","x":-1224,"y":-53,"width":698,"height":435},
+		{"id":"1c87c4ce0836ad51","type":"text","text":"# Zakres czasowy\n_Początek epoki:_ 476 r. upadek cesarstwa zachodnio rzymskiego\n_„Koniec“ epoki:_ 1492 r. Krzysztof Kolumb odkrywa Amerykę","x":-1067,"y":465,"width":541,"height":256},
+		{"id":"a32e1c8472fe1f8e","type":"text","text":"# Nazwa\n_Etymologia nazwy:_ (łac. Medium aevum); sformułowana przez przedstawicieli włoskiego renesansu, którzy krytykowali epokę jako okres przejściowy między okresem barbarzyńskim i odrodzeniem w renesansie.","x":-1194,"y":827,"width":668,"height":294},
+		{"id":"6d9aaabb2ebeace7","type":"text","text":"# Wzorce osobowe średniowiecza","x":389,"y":527,"width":428,"height":133},
+		{"id":"94fb9dc9921d5da2","type":"text","text":"_literatura parenetyczna_ - przedstawiała wzorce osobowe","x":190,"y":721,"width":827,"height":39},
+		{"id":"db589bc1cb6c8f01","type":"text","text":"# Święty","x":478,"y":286,"width":250,"height":64},
+		{"id":"aab77504267bc6a5","type":"text","text":"# Władca","x":843,"y":286,"width":250,"height":64},
+		{"id":"3d9bdfdfc4a03cab","type":"text","text":"# Rycerz","x":139,"y":286,"width":250,"height":64}
+	],
+	"edges":[
+		{"id":"df8693e8c66aeebc","fromNode":"6d9aaabb2ebeace7","fromSide":"bottom","toNode":"94fb9dc9921d5da2","toSide":"top"},
+		{"id":"089131aed2e48e69","fromNode":"6d9aaabb2ebeace7","fromSide":"top","toNode":"3d9bdfdfc4a03cab","toSide":"bottom"},
+		{"id":"3143bec2138aa17d","fromNode":"6d9aaabb2ebeace7","fromSide":"top","toNode":"db589bc1cb6c8f01","toSide":"bottom"},
+		{"id":"b1ccb1e981beb9cf","fromNode":"6d9aaabb2ebeace7","fromSide":"top","toNode":"aab77504267bc6a5","toSide":"bottom"}
+	]
+}

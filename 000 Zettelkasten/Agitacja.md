@@ -1,3 +1,3 @@
-_Def._ zjednywanie zwolenników dla jakiejś sprawy
+_Tagi:_ #słowniczek/polski 
 
-_Tagi._ #definicja #ogólne
+_Def._ zjednywanie zwolenników dla jakiejś sprawy

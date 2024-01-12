@@ -1,0 +1,43 @@
+{
+	"nodes":[
+		{"id":"75c3ce9cce167edc","type":"text","text":"__Jak Filon pojmował filozofię?__\n\n![[Historia filozofii. T. 1, Filozofia starożytna i średniowieczna#^f6b4ec]]","x":-2600,"y":980,"width":710,"height":160},
+		{"id":"2a5ac9163f653b80","type":"text","text":"__Problem materii i nadejście ducha__\n\n![[Historia filozofii. T. 1, Filozofia starożytna i średniowieczna#^e0dd89]]\n\nZamiast materializmu przechodzimy do spirytualizmu.","x":-2600,"y":1285,"width":710,"height":542},
+		{"id":"5c3409453eb15f96","type":"text","text":"__Gradualizm__\n\n_Jak wywieść materię z ducha, a zwłaszcza zło z Boga?_\n\n![[Historia filozofii. T. 1, Filozofia starożytna i średniowieczna#^2b004e]]\n\nUzasadnienie:\n\n![[Historia filozofii. T. 1, Filozofia starożytna i średniowieczna#^27f57d]]","x":-1807,"y":1285,"width":782,"height":542},
+		{"id":"23537833a6693950","type":"text","text":"__Wstęp__\n\nSystem Filona powstał na podstawie greckich pojęć, lecz na podstawie wierzeń żydowskich.","x":-2600,"y":693,"width":710,"height":145},
+		{"id":"a85352ff78513d99","type":"text","text":"__Jak połączyć Boga z materią?__\n\n![[Historia filozofii. T. 1, Filozofia starożytna i średniowieczna#^dbd3a5]]\n","x":-905,"y":1285,"width":782,"height":542},
+		{"id":"3af4acaa1cdff0d0","type":"text","text":"__Dualizm przeciwieństw__\n\n![[Historia filozofii. T. 1, Filozofia starożytna i średniowieczna#^5ba529]]","x":-1807,"y":1860,"width":782,"height":542},
+		{"id":"28a014c537a7dad9","type":"text","text":"__Cechy materii__\n\n![[Historia filozofii. T. 1, Filozofia starożytna i średniowieczna#^a89d7d]]","x":-905,"y":1860,"width":782,"height":542},
+		{"id":"5c367a0f91ce08ae","type":"text","text":"__Obraz Boga__\n\nBył on pojmowany synkretycznie, łącząc w jedno własności greckiego absolutu z właściwościami Boga żydowskiego.\n\nBóg był punktem wyjścia. To on miał tłumaczyć świat, a nie odwrotnie.","x":-905,"y":1020,"width":782,"height":225},
+		{"id":"e9f2c6c467128ed0","type":"text","text":"__Własności Boga__\n\n![[Historia filozofii. T. 1, Filozofia starożytna i średniowieczna#^2adc37]]\n\n\n","x":-905,"y":540,"width":782,"height":438},
+		{"id":"48087a027ee12f61","type":"text","text":"__Dualizm i monizm__\n\nWyróżniano trzy podstawowe przeciwieństwa:\n- Bóg i świat\n- Duch i materia\n- Dobro i zło\n\n_Celem filozofii mimo tych dwoistości bytu odnaleźć jedność wszechświata_","x":-2600,"y":1860,"width":710,"height":542},
+		{"id":"f2ea6cd72da7841b","type":"text","text":"__Ogniwo pośrednie__\n\n![[Historia filozofii. T. 1, Filozofia starożytna i średniowieczna#^95817f]]","x":-40,"y":1285,"width":758,"height":542},
+		{"id":"82a987e42c56cc06","type":"text","text":"__Cechy logosu__","x":800,"y":1516,"width":758,"height":80},
+		{"id":"758be140eeb9a302","type":"text","text":"__Idee to myśli boże__\n\n![[Historia filozofii. T. 1, Filozofia starożytna i średniowieczna#^279e15]]","x":800,"y":1285,"width":758,"height":140},
+		{"id":"4df01e22a8649b05","type":"text","text":"__Idee to siły boże__\n\n![[Historia filozofii. T. 1, Filozofia starożytna i średniowieczna#^954e31]]","x":800,"y":1689,"width":758,"height":252},
+		{"id":"e697775b5ac37373","type":"text","text":"__Logos jest osobą__\n\n![[Historia filozofii. T. 1, Filozofia starożytna i średniowieczna#^ebf9b1]]","x":1680,"y":1413,"width":758,"height":286},
+		{"id":"c1cbb4eafb1682a6","type":"text","text":"__Hierarchia bytów__\n\n![[Historia filozofii. T. 1, Filozofia starożytna i średniowieczna#^ec5613]]","x":-1807,"y":978,"width":782,"height":178},
+		{"id":"cfdf2b08a54843ca","type":"text","text":"__Etyka__\n\n![[Historia filozofii. T. 1, Filozofia starożytna i średniowieczna#^dbde65]]","x":-2591,"y":2560,"width":710,"height":222},
+		{"id":"db360db2fa5e6335","type":"text","text":"__Typowa religia__\n\n![[Historia filozofii. T. 1, Filozofia starożytna i średniowieczna#^353364]]\n\n![[Historia filozofii. T. 1, Filozofia starożytna i średniowieczna#^071873]]","x":-2591,"y":3082,"width":710,"height":310},
+		{"id":"e2eca66c09136789","type":"text","text":"__Transcedentalizm etyki__\n\n![[Historia filozofii. T. 1, Filozofia starożytna i średniowieczna#^b936fc]]","x":-2591,"y":2802,"width":710,"height":260},
+		{"id":"bb4261e50cc54f11","type":"text","text":"__Psychologia__\n\n![[Historia filozofii. T. 1, Filozofia starożytna i średniowieczna#^77f639]]\n\n![[Historia filozofii. T. 1, Filozofia starożytna i średniowieczna#^bab3af]]","x":-1807,"y":2560,"width":1139,"height":280}
+	],
+	"edges":[
+		{"id":"c0338d06714ad19c","fromNode":"2a5ac9163f653b80","fromSide":"right","toNode":"5c3409453eb15f96","toSide":"left"},
+		{"id":"71e1fcc9899d20a6","fromNode":"5c3409453eb15f96","fromSide":"right","toNode":"a85352ff78513d99","toSide":"left"},
+		{"id":"081b9e6dd4ec7e38","fromNode":"a85352ff78513d99","fromSide":"bottom","toNode":"28a014c537a7dad9","toSide":"top"},
+		{"id":"924bd679cd2407cd","fromNode":"75c3ce9cce167edc","fromSide":"bottom","toNode":"2a5ac9163f653b80","toSide":"top"},
+		{"id":"445da25b29fe4495","fromNode":"23537833a6693950","fromSide":"bottom","toNode":"75c3ce9cce167edc","toSide":"top"},
+		{"id":"295b1faf23fbcbb2","fromNode":"a85352ff78513d99","fromSide":"left","toNode":"3af4acaa1cdff0d0","toSide":"right"},
+		{"id":"eb9d4f6a516f7880","fromNode":"a85352ff78513d99","fromSide":"top","toNode":"5c367a0f91ce08ae","toSide":"bottom"},
+		{"id":"8c1d6977e5c34430","fromNode":"5c367a0f91ce08ae","fromSide":"top","toNode":"e9f2c6c467128ed0","toSide":"bottom"},
+		{"id":"9de900d9a9c1210f","fromNode":"3af4acaa1cdff0d0","fromSide":"left","toNode":"48087a027ee12f61","toSide":"right"},
+		{"id":"dd8db94cb052d200","fromNode":"a85352ff78513d99","fromSide":"right","toNode":"f2ea6cd72da7841b","toSide":"left"},
+		{"id":"9c2d544e8e30b2f0","fromNode":"f2ea6cd72da7841b","fromSide":"right","toNode":"82a987e42c56cc06","toSide":"left"},
+		{"id":"26ce485d95f2fdfc","fromNode":"82a987e42c56cc06","fromSide":"top","toNode":"758be140eeb9a302","toSide":"bottom"},
+		{"id":"7a219615424bf748","fromNode":"82a987e42c56cc06","fromSide":"bottom","toNode":"4df01e22a8649b05","toSide":"top"},
+		{"id":"03a99ef6c533c6f3","fromNode":"82a987e42c56cc06","fromSide":"right","toNode":"e697775b5ac37373","toSide":"left"},
+		{"id":"6b2dd85d02c00a69","fromNode":"5c3409453eb15f96","fromSide":"top","toNode":"c1cbb4eafb1682a6","toSide":"bottom"},
+		{"id":"e0aadcb9d90487b6","fromNode":"cfdf2b08a54843ca","fromSide":"bottom","toNode":"e2eca66c09136789","toSide":"top"},
+		{"id":"c213b8e9af1b2994","fromNode":"e2eca66c09136789","fromSide":"bottom","toNode":"db360db2fa5e6335","toSide":"top"}
+	]
+}

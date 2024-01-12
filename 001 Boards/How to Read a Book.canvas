@@ -1,0 +1,7 @@
+{
+	"nodes":[
+		{"id":"0620266c2b16d74f","x":-875,"y":-68,"width":756,"height":207,"type":"text","text":">[!basic-info]\n> __Podstawowe informacje__\n> _Tytuł:_ How to Read a Book: The classical guide to intelligent reading\n> _Autorzy:_ Mortimer J. Adler, Charles Van Doren"},
+		{"id":"77faf2b364ddb157","x":-20,"y":-68,"width":1162,"height":418,"type":"text","text":"# Współczesne media\nWspółczesne media takie jak radio, telewizja czy nawet internet, tworzone są jako skondensowane, bardzo łatwe do przyswojenia paczki informacji przez co są łatwo przyswajane i nie poddawane kolejnej analizie\n>[!example]\n> __Przykład (kaseta).__ Spakowane opinie przypominają kasetę, którą umieszczamy w naszej głowie niczym odtwarzaczu i wciskamy przycisk „playback“, kiedy dana opinia wyda się nam adekwatna. Wtedy podejmujemy decyzję akceptowalną, bez żadego myślenia."}
+	],
+	"edges":[]
+}

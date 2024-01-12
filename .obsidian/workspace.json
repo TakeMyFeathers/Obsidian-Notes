@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "21af6d6f6e9471d4",
+        "id": "c1f3964ae01ca0ba",
         "type": "tabs",
         "children": [
           {
-            "id": "aad19abea9b582c2",
+            "id": "8fb678e29c00cf87",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "000 Zettelkasten/Aksjomat ciągłości.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
+                "file": "001 Boards/Postawy człowieka wobec zła.canvas",
+                "viewState": {
+                  "x": -2554.685187973211,
+                  "y": 2073.065554355855,
+                  "zoom": -0.6236466812025697
+                }
               }
             }
           }
@@ -44,29 +46,6 @@
             }
           },
           {
-            "id": "c1ae11701ccccec4",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
-            }
-          }
-        ]
-      }
-    ],
-    "direction": "horizontal",
-    "width": 311.5,
-    "collapsed": true
-  },
-  "right": {
-    "id": "68a4bbecffc25852",
-    "type": "split",
-    "children": [
-      {
-        "id": "fd4eeb090c5ad1d6",
-        "type": "tabs",
-        "children": [
-          {
             "id": "4210a66e02566d35",
             "type": "leaf",
             "state": {
@@ -82,40 +61,36 @@
             }
           },
           {
-            "id": "c76fe45fb0e80452",
+            "id": "adef31577d22b591",
             "type": "leaf",
             "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "000 Zettelkasten/Aksjomat ciągłości.md",
-                "options": {
-                  "collapse-filter": true,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 1,
-                  "close": true
-                }
-              }
+              "type": "bookmarks",
+              "state": {}
             }
           },
+          {
+            "id": "a5642547f231766b",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 311.5,
+    "collapsed": true
+  },
+  "right": {
+    "id": "68a4bbecffc25852",
+    "type": "split",
+    "children": [
+      {
+        "id": "98eda2aa5fedb5d9",
+        "type": "tabs",
+        "children": [
           {
             "id": "85d3501659327737",
             "type": "leaf",
@@ -123,20 +98,79 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": false
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "bb2313b8bdee7317",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "738df6879b9d255e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "001 Boards/Postawy człowieka wobec zła.canvas",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "20506ea76df46e68",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "001 Boards/Postawy człowieka wobec zła.canvas",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "df52f5b99e0a31ba",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
+          },
+          {
+            "id": "4b2bb35122daadec",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "001 Boards/Postawy człowieka wobec zła.canvas"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 323.5,
+    "width": 357.5,
     "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-omnivore:Omnivore": false,
       "daily-notes:Open today's daily note": true,
       "switcher:Open quick switcher": true,
       "canvas:Create new canvas": true,
@@ -144,64 +178,71 @@
       "command-palette:Open command palette": true,
       "graph:Open graph view": true,
       "workspaces:Manage workspace layouts": true,
-      "templater-obsidian:Templater": false,
-      "periodic-notes:Open today": false,
-      "obsidian-book-search-plugin:Create new book note": false,
-      "omnisearch:Omnisearch": false
+      "obsidian-media-db-plugin:Add new Media DB entry": false,
+      "omnisearch:Omnisearch": false,
+      "obsidian-omnivore:Omnivore": false,
+      "obsidian-textgenerator-plugin:Generate Text!": false,
+      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false,
+      "periodic-notes:Open today": false
     }
   },
-  "active": "aad19abea9b582c2",
+  "active": "8fb678e29c00cf87",
   "lastOpenFiles": [
-    "Books",
-    "000 Zettelkasten/Untitled.md",
-    "Journal/002 Monthly",
-    "Journal/001 Weekly",
-    "Journal/000 Daily",
-    "Journal",
-    "000 Zettelkasten/Relatywizm poznawczy.md",
-    "000 Zettelkasten/Anaksymander.md",
-    "000 Zettelkasten/Granica » Pierwiastek n-tego stopnia z n.md",
-    "000 Zettelkasten/Hylozoizm.md",
-    "001 Boards/Dawni mistrzowie - interpretacja.canvas",
-    "000 Zettelkasten/Zmienne w Arduino.md",
-    "000 Zettelkasten/Zbigniew Herbert.md",
-    "000 Zettelkasten/Wichrzycielstwo.md",
-    "000 Zettelkasten/Transcendencji.md",
-    "000 Zettelkasten/Tożsamość nieśmiertelna.md",
-    "000 Zettelkasten/Timery.md",
-    "000 Zettelkasten/Tales z Miletu.md",
+    "rgb-rsstatus",
+    "001 Boards/ok.md",
+    "001 Boards/Postawy człowieka wobec zła.canvas",
+    "001 Boards/Stoicyzm.canvas",
+    "001 Boards/Gorgiasz - Platon.canvas",
+    "Readwise/Articles/Analiza matematyczna I (skrypt wykładu).md",
+    "Readwise/Articles/Cala_matematyka_to_wlasciwie_geometria.pdf.md",
+    "Readwise/Articles/the_analytic_art.pdf.md",
+    "001 Boards/Polski tematy.canvas",
+    "Books/Ocean na końcu drogi.md",
+    "Books/Król Lear.md",
+    "Books/Boska komedia.md",
+    "Books/Cyberiada.md",
     "000 Zettelkasten/Stoicyzm.md",
-    "000 Zettelkasten/Sterowanie sygnałem PWM.md",
-    "000 Zettelkasten/Sprawa gardłowa.md",
-    "000 Zettelkasten/Sokrates.md",
-    "000 Zettelkasten/Sofizm.md",
-    "000 Zettelkasten/Sofisteria.md",
-    "000 Zettelkasten/Schematy połączeń urządzeń instalacyjnych.md",
-    "000 Zettelkasten/Rozprawka - ćwiczenia redakcyjne.md",
-    "000 Zettelkasten/Rywalizacja związku radzieckiego i stanów zjednoczonych.md",
-    "000 Zettelkasten/Richard Dedekind.md",
-    "000 Zettelkasten/Retoryka.md",
-    "000 Zettelkasten/Relatywizm etyczny.md",
-    "000 Zettelkasten/Relatywizm estetyczny.md",
-    "000 Zettelkasten/Friedrich Nietzsche - Wola Mocy.canvas",
-    "Pasted image 20231103223925.png",
-    "002 Files/Paintings/Miasto_nad_morzem_Ambrogio_Lorenzetti.png",
-    "Ciąg 1",
-    "001 Boards/Fashion board.canvas",
-    "002 Files/Paintings/Madonna_z_książką_Sandra_Botticelli.png",
-    "002 Files/Books/filozofia-friedrich-nietzsche-poza-dobrem-i-zlem.pdf",
-    "002 Files/Books/matematyka_olimpijska_żółty_tom.pdf",
-    "002 Files/Images/atmega328p-schemat.png",
-    "002 Files/Books/Logika_dla_studentow_filozofii.pdf",
-    "002 Files/Books/kacik-olimpijski-algebra.pdf",
-    "002 Files/Paintings",
-    "002 Files/Pasted image 20230828152537.png",
-    "002 Files/Pasted image 20230828161226.jpg",
-    "002 Files/Pasted image 20230828161339.jpg",
-    "002 Files/Pasted image 20230828161350.jpg",
-    "002 Files/Pasted image 20230828164247.jpg",
-    "002 Files/Pasted image 20230828164746.jpg",
-    "Zettelkasten/Twierdzenie Sylvestra.canvas",
-    "Zettelkasten/olimpiada matematyczna - teoria liczb.canvas"
+    "001 Boards/Synteza wiadomości - renesans.md",
+    "001 Boards/Postawy człowieka wobec zła.md",
+    "000 Zettelkasten/Mikrokontrolery/Mikrokontrolery - INDEX.md",
+    "001 Boards/Arystoteles-wstęp.canvas",
+    "001 Boards/Arystoteles.canvas",
+    "Readwise/Books/Gorgiasz.md",
+    "Readwise/Books/The Greek Myths.md",
+    "001 Boards/Arystoteles-logika.canvas",
+    "Books/The History of the Calculus and Its Conceptual Development Dover Books on Mathematics.md",
+    "Bookshelf - raw.md",
+    "Books/Rachunek różniczkowy i całkowy - Stefan Banach.md",
+    "Books/Rachunek różniczkowy i całkowy Wydanie 6 poprawione - Stefan Banach.md",
+    "Bookshelf.md",
+    "Books/The Iliad.md",
+    "Średniowiecze test.md",
+    "Media DB/manga/Tokyo Ghoul (2013).md",
+    "Media DB/manga",
+    "Media DB",
+    "998 Templates/Book.md",
+    "Books/Król Lear - William Shakespeare.md",
+    "Readwise/Books/Cyberiada.md",
+    "Books",
+    "001 Boards/Arystoteles-substancja.canvas",
+    "001 Boards/Arystoteles-podział-filozofii.canvas",
+    "001 Boards/Arystoteles-zalążki-systemu.canvas",
+    "Pasted image 20231215210554.png",
+    "Readwise/Articles",
+    "Readwise/Books",
+    "Readwise",
+    "000 Zettelkasten/Matematyka - pojęcia",
+    "000 Zettelkasten/Matematyka - pojęcia/Wykładniki p-adyczne",
+    "$d=NWD(a,b) /iff v_{p}(d) = ",
+    "$d=NWD(a,b) ",
+    "002 Files/Images/Zdania złożone.png",
+    "002 Files/Images/Wyświetlacze LCD alfanumeryczne.png",
+    "path2.svg",
+    "path5.svg",
+    "path5.svg",
+    "Pasted image 20231121131627.png",
+    "dupadupa.png",
+    "002 Files/Images/DS18B20 - schemat.png",
+    "Pasted image 20231103223925.png"
   ]
 }

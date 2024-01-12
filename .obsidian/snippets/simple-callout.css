@@ -1,0 +1,30 @@
+/* Inspiracja: https://github.com/sleepymalc/LaTeX-Template/blob/cc3e4c6017a26de2f31e819b149adc4ea4c59e8f/Note/header.tex#L237 */
+
+/* Reference colors: https://latexcolor.com/ */
+
+:root{
+  --callout-color: 46, 138, 86;
+}
+
+.callout{
+  border-left: 5px solid rgba(var(--callout-color), 1);
+  padding-left: 30px;
+  border-radius: 0;
+  background-color: rgba(var(--callout-color), .15);
+}
+
+.callout[data-callout="basic-info"]{
+  --callout-color: 	229, 42, 79;
+}
+
+.callout[data-callout="example"]{
+  --callout-color: 153, 102, 204;
+}
+
+.callout[data-callout="question"]{
+  --callout-color: 255, 225, 53;
+}
+
+.callout-title{
+  display: none;
+}

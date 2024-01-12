@@ -13,18 +13,18 @@
   "note-composer": true,
   "command-palette": true,
   "slash-command": true,
-  "editor-status": true,
+  "editor-status": false,
   "bookmarks": true,
   "markdown-importer": false,
   "zk-prefixer": false,
   "random-note": false,
   "outline": true,
-  "word-count": true,
+  "word-count": false,
   "slides": false,
   "audio-recorder": false,
   "workspaces": true,
   "file-recovery": true,
   "publish": false,
   "sync": false,
-  "properties": false
+  "properties": true
 }
