@@ -93,7 +93,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "001 Boards/Arystoteles.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +109,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "001 Boards/Arystoteles.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,9 +131,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "001 Boards/Arystoteles.canvas"
-              }
+              "state": {}
             }
           },
           {
@@ -164,12 +160,12 @@
       "obsidian-omnivore:Omnivore": false
     }
   },
-  "active": "b8886ed1b3fd8af9",
+  "active": "a20f85b8e62cccf6",
   "lastOpenFiles": [
+    "001 Boards/Arystoteles.canvas",
     "001 Boards/Początki kapitalizmu w Polsce. Górą Edek.md",
     "001 Boards/Kartezjusz.md",
     "001 Boards/Kartezjusz.canvas",
-    "001 Boards/Arystoteles.canvas",
     "001 Boards/Arystoteles-wstęp.canvas",
     "Średniowiecze test.md",
     "Porażenie prądem elektrycznym.md",
