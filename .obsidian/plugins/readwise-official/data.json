@@ -4,8 +4,8 @@
   "frequency": "0",
   "triggerOnLoad": true,
   "isSyncing": false,
-  "lastSyncFailed": false,
-  "lastSavedStatusID": 12276195,
+  "lastSyncFailed": true,
+  "lastSavedStatusID": 12744328,
   "currentSyncStatusID": 0,
   "refreshBooks": true,
   "booksToRefresh": [],
@@ -43,7 +43,14 @@
     "Readwise/Books/Gorgiasz.md": "36374511",
     "Readwise/Articles/the_analytic_art.pdf.md": "35505544",
     "Readwise/Articles/Cala_matematyka_to_wlasciwie_geometria.pdf.md": "35505543",
-    "Readwise/Articles/Analiza matematyczna I (skrypt wykładu).md": "35505541"
+    "Readwise/Articles/Analiza matematyczna I (skrypt wykładu).md": "35505541",
+    "Readwise/Books/List Do Ojca.md": "36646064",
+    "Readwise/Books/Listy Do Rodziny, Przyjaciół, Wydawców.md": "36755893",
+    "Readwise/Books/Measurement.md": "36791316",
+    "Readwise/Books/Ziemiomorze.md": "36798263",
+    "Readwise/Articles/Henri Poincaré.md": "36865664",
+    "Readwise/Books/Lalka.md": "36948075",
+    "Readwise/Books/Golem XIV.md": "37042159"
   },
   "reimportShowConfirmation": true
 }

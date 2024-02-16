@@ -4,22 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "c1f3964ae01ca0ba",
+        "id": "3c70511ef33cff64",
         "type": "tabs",
         "children": [
           {
-            "id": "8fb678e29c00cf87",
+            "id": "a20f85b8e62cccf6",
             "type": "leaf",
             "state": {
-              "type": "canvas",
-              "state": {
-                "file": "001 Boards/Postawy człowieka wobec zła.canvas",
-                "viewState": {
-                  "x": -2554.685187973211,
-                  "y": 2073.065554355855,
-                  "zoom": -0.6236466812025697
-                }
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -51,21 +44,13 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "epik",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
-            }
-          },
-          {
-            "id": "adef31577d22b591",
-            "type": "leaf",
-            "state": {
-              "type": "bookmarks",
-              "state": {}
             }
           },
           {
@@ -103,20 +88,12 @@
             }
           },
           {
-            "id": "bb2313b8bdee7317",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
-            }
-          },
-          {
             "id": "738df6879b9d255e",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "001 Boards/Postawy człowieka wobec zła.canvas",
+                "file": "001 Boards/Arystoteles.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "001 Boards/Postawy człowieka wobec zła.canvas",
+                "file": "001 Boards/Arystoteles.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,17 +129,24 @@
             }
           },
           {
-            "id": "4b2bb35122daadec",
+            "id": "0aa9ca36a4b7ac22",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "001 Boards/Postawy człowieka wobec zła.canvas"
+                "file": "001 Boards/Arystoteles.canvas"
               }
             }
+          },
+          {
+            "id": "8aba4897d8a95f29",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -171,78 +155,71 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "daily-notes:Open today's daily note": true,
       "switcher:Open quick switcher": true,
       "canvas:Create new canvas": true,
       "templates:Insert template": true,
       "command-palette:Open command palette": true,
       "graph:Open graph view": true,
-      "workspaces:Manage workspace layouts": true,
-      "obsidian-media-db-plugin:Add new Media DB entry": false,
       "omnisearch:Omnisearch": false,
-      "obsidian-omnivore:Omnivore": false,
-      "obsidian-textgenerator-plugin:Generate Text!": false,
-      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false,
-      "periodic-notes:Open today": false
+      "obsidian-omnivore:Omnivore": false
     }
   },
-  "active": "8fb678e29c00cf87",
+  "active": "b8886ed1b3fd8af9",
   "lastOpenFiles": [
-    "rgb-rsstatus",
-    "001 Boards/ok.md",
-    "001 Boards/Postawy człowieka wobec zła.canvas",
-    "001 Boards/Stoicyzm.canvas",
-    "001 Boards/Gorgiasz - Platon.canvas",
-    "Readwise/Articles/Analiza matematyczna I (skrypt wykładu).md",
-    "Readwise/Articles/Cala_matematyka_to_wlasciwie_geometria.pdf.md",
-    "Readwise/Articles/the_analytic_art.pdf.md",
-    "001 Boards/Polski tematy.canvas",
-    "Books/Ocean na końcu drogi.md",
-    "Books/Król Lear.md",
-    "Books/Boska komedia.md",
-    "Books/Cyberiada.md",
-    "000 Zettelkasten/Stoicyzm.md",
-    "001 Boards/Synteza wiadomości - renesans.md",
-    "001 Boards/Postawy człowieka wobec zła.md",
-    "000 Zettelkasten/Mikrokontrolery/Mikrokontrolery - INDEX.md",
-    "001 Boards/Arystoteles-wstęp.canvas",
+    "001 Boards/Początki kapitalizmu w Polsce. Górą Edek.md",
+    "001 Boards/Kartezjusz.md",
+    "001 Boards/Kartezjusz.canvas",
     "001 Boards/Arystoteles.canvas",
-    "Readwise/Books/Gorgiasz.md",
-    "Readwise/Books/The Greek Myths.md",
-    "001 Boards/Arystoteles-logika.canvas",
-    "Books/The History of the Calculus and Its Conceptual Development Dover Books on Mathematics.md",
-    "Bookshelf - raw.md",
-    "Books/Rachunek różniczkowy i całkowy - Stefan Banach.md",
-    "Books/Rachunek różniczkowy i całkowy Wydanie 6 poprawione - Stefan Banach.md",
-    "Bookshelf.md",
-    "Books/The Iliad.md",
+    "001 Boards/Arystoteles-wstęp.canvas",
     "Średniowiecze test.md",
-    "Media DB/manga/Tokyo Ghoul (2013).md",
-    "Media DB/manga",
-    "Media DB",
-    "998 Templates/Book.md",
-    "Books/Król Lear - William Shakespeare.md",
-    "Readwise/Books/Cyberiada.md",
-    "Books",
-    "001 Boards/Arystoteles-substancja.canvas",
-    "001 Boards/Arystoteles-podział-filozofii.canvas",
-    "001 Boards/Arystoteles-zalążki-systemu.canvas",
-    "Pasted image 20231215210554.png",
-    "Readwise/Articles",
-    "Readwise/Books",
-    "Readwise",
-    "000 Zettelkasten/Matematyka - pojęcia",
-    "000 Zettelkasten/Matematyka - pojęcia/Wykładniki p-adyczne",
-    "$d=NWD(a,b) /iff v_{p}(d) = ",
-    "$d=NWD(a,b) ",
+    "Porażenie prądem elektrycznym.md",
+    "001 Boards/Untitled 3.canvas",
+    "001 Boards/Test historyczno-literacki.md",
+    "Journal/000 Daily/2024-02-07.md",
+    "Omnivore/2024-02-01/Albert Camus (Stanford Encyclopedia of Philosophy).md",
+    "Omnivore/2024-02-01",
+    "001 Boards/Test Historycznoliteracki RENESANS.canvas",
+    "001 Boards/Polski tematy.canvas",
+    "001 Boards/Synteza wiadomości - renesans.md",
+    "000 Zettelkasten/Mikrokontrolery/Mikrokontrolery - INDEX.md",
+    "000 Zettelkasten/Mikrokontrolery/Układ detekcji przejścia przez zero.md",
+    "Smart home.md",
+    "999 Temporary/Słownik pojęć nieznanych.md",
+    "001 Boards/Arystoteles-logika.canvas",
+    "Słownik pojęć - polski/Zblazowany.md",
+    "002 Files/Papers/Euclid-Second-Proposition-Math-Intell.pdf",
+    "002 Files/Papers/Marcin_Brzozowski_fun_czas_w_arduino.pdf",
+    "002 Files/Paintings/Miasto_nad_morzem_Ambrogio_Lorenzetti.png",
+    "002 Files/Paintings/Madonna_z_książką_Sandra_Botticelli.png",
     "002 Files/Images/Zdania złożone.png",
     "002 Files/Images/Wyświetlacze LCD alfanumeryczne.png",
+    "002 Files/Images/DS18B20 - schemat.png",
+    "002 Files/Images/atmega328p-schemat.png",
+    "002 Files/Books/Logika_dla_studentow_filozofii.pdf",
+    "999 Temporary/Teoria czterech cnót.md",
+    "999 Temporary/Tako Rzecze Zaratustra.md",
+    "999 Temporary/Suma cyfr sześcianu równa 2004.md",
+    "999 Temporary/Suma cyfr.md",
+    "999 Temporary/Sofizmat.md",
+    "999 Temporary/O miłości bliźniego - Tako Rzecze Zaratustra.md",
+    "999 Temporary/O drogach twórcy - Tako Rzecze Zaratustry.md",
+    "999 Temporary/O Czystości - Tako Rzecze Zaratustra.md",
+    "999 Temporary/O cnotliwych - Tako Rzecze Zaratustra.md",
+    "Omnivore/2024-01-26/Henri Poincaré (Stanford Encyclopedia of Philosophy).md",
+    "Słownik pojęć - polski/Marazm.md",
+    "Słownik pojęć - polski/Kontensacja.md",
+    "Glossary/English",
+    "Glossary",
+    "001 Boards/Arystoteles-zalążki-systemu.canvas",
+    "001 Boards/Postawy człowieka wobec zła.canvas",
+    "rgb-rsstatus",
+    "001 Boards/Stoicyzm.canvas",
+    "Media DB/manga",
+    "Media DB",
+    "Books",
+    "Pasted image 20231215210554.png",
     "path2.svg",
     "path5.svg",
-    "path5.svg",
-    "Pasted image 20231121131627.png",
-    "dupadupa.png",
-    "002 Files/Images/DS18B20 - schemat.png",
-    "Pasted image 20231103223925.png"
+    "path5.svg"
   ]
 }

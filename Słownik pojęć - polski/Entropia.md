@@ -1,1 +1,0 @@
-Def. chaos, bezład

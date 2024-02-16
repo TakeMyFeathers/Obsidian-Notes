@@ -2,7 +2,7 @@
 	"nodes":[
 		{"id":"b4396a2a934b68e4","type":"text","text":"__Poprzednicy__\n\nArystoteles wiele czerpał z nauk Platona, którego pojęcia przekształcał na swoją potrzebę, jednakże zwalczał platońskie idee. Czerpał również wiele z edukacji ojca, który był lekarza, na temat biologii. W związku, z czym jego system dążył do syntezy tych dwóch spojrzeń.","x":-736,"y":-580,"width":1472,"height":200},
 		{"id":"4f2b0967d7dcaec2","type":"text","text":"__Nauki empiryczne__\n\n![[Historia filozofii. T. 1, Filozofia starożytna i średniowieczna#^113780]]","x":18,"y":-200,"width":714,"height":220},
-		{"id":"9d3e79e1340f90b1","type":"text","text":"__Nauki platońskie__\n\n![[Historia filozofii. T. 1, Filozofia starożytna i średniowieczna#^ed193d]]","x":-736,"y":-200,"width":714,"height":220},
+		{"id":"9d3e79e1340f90b1","type":"text","text":"__Nauki platońskie__\n\n![[Historia filozofii. T. 1, Filozofia starożytna i średniowieczna#^ed193d]]","collapsed":false,"x":-736,"y":-200,"width":714,"height":220},
 		{"id":"87b6c15c18554fe6","type":"text","text":"__Synteza__\n\n![[Historia filozofii. T. 1, Filozofia starożytna i średniowieczna#^d8fc3b]]","x":-357,"y":160,"width":714,"height":260},
 		{"id":"fbc2ed85113e7a13","type":"text","text":"__Particulam veri__\n\n_Dosł._ cząstka prawdy","x":-160,"y":480,"width":320,"height":100}
 	],

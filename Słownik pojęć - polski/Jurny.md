@@ -1,1 +1,0 @@
-pełen temperamentu, żywotności

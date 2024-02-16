@@ -2,7 +2,7 @@
 	"nodes":[
 		{"id":"e317533ab1066005","type":"file","file":"001 Boards/Arystoteles-podział-filozofii.canvas","x":-700,"y":760,"width":400,"height":400,"color":"6"},
 		{"id":"8f4c497aba3de384","type":"file","file":"001 Boards/Arystoteles-logika.canvas","x":-260,"y":760,"width":400,"height":400,"color":"3"},
-		{"id":"823b3d2360ef247d","type":"file","file":"001 Boards/Arystoteles-zalążki-systemu.canvas","x":-1140,"y":760,"width":400,"height":400,"color":"5"},
+		{"id":"823b3d2360ef247d","type":"file","file":"001 Boards/Arystoteles-zalążki-systemu.canvas","collapsed":false,"x":-1140,"y":760,"width":400,"height":400,"color":"5"},
 		{"id":"a178f1d9f36a3f5a","type":"file","file":"001 Boards/Arystoteles-wstęp.canvas","x":-1580,"y":760,"width":400,"height":400,"color":"1"},
 		{"id":"abfb369d7b0d93e2","type":"file","file":"001 Boards/Arystoteles-substancja.canvas","x":-260,"y":1200,"width":400,"height":400,"color":"2"}
 	],

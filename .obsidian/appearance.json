@@ -1,17 +1,18 @@
 {
   "accentColor": "",
-  "cssTheme": "Minimal",
+  "cssTheme": "Catppuccin",
   "translucency": false,
   "theme": "obsidian",
   "baseFontSize": 20,
   "showViewHeader": true,
-  "textFontFamily": "Merriweather,iA Writer Mono S,Times New Roman,JetBrainsMono Nerd Font",
+  "textFontFamily": "Bookerly,Lexend",
   "enabledCssSnippets": [
     "supercharged-links-gen",
     "column-size",
     "theorem-callout",
-    "simple-callout"
+    "simple-callout",
+    "custom-inline-title-font"
   ],
   "nativeMenus": false,
-  "monospaceFontFamily": "JetBrainsMono Nerd Font"
+  "monospaceFontFamily": "Lexend"
 }

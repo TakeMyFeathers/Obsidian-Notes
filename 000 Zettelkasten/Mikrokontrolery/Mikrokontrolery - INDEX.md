@@ -10,6 +10,4 @@ _Lista:_
 - [[Scalone sensory temperatury]]
 - [[Wyświetlacze LCD alfanumeryczne]]
 - [[Ciekłokrystaliczne wyświetlacze graficzne]]
-
-## Praca domowa
-Opisz schemat inteligentnej domowej instalacji automatyki. Opisz rodzaje sensorów, sposoby połączeń oraz protokoły komunikacyjne . Narysuj przykładowy schemat.
+- [[Układ detekcji przejścia przez zero]]

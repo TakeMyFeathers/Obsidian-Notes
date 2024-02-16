@@ -81,3 +81,7 @@ nikt umyślnie krzywdy nie wyrządza ([View Highlight](https://read.readwise.io/
 
 *Wyspy Szczęśliwych* a. *Wyspy Szczęśliwe* (mit. gr.) — wyspy na zachodnim krańcu ziemi, gdzie w nagrodę za dobre życie przebywają po śmierci sławni bohaterowie. ([View Highlight](https://read.readwise.io/read/01hkqfjpehvqrhdfzzfymcnb7n))
 
+## New highlights added January 25, 2024 at 2:13 PM
+
+Uczył Marcin Marcina ([View Highlight](https://read.readwise.io/read/01hmyf18xyvxd2n17203xnx3em))
+

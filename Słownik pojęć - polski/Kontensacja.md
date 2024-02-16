@@ -1,1 +1,0 @@
-Kontestacja (fr. contestation – spór, negacja; od łac. contestari protestować) – sprzeciw, najczęściej przeciwko systemowi społecznemu i politycznemu, wyrażany publicznie poprzez wypowiedzi i zachowanie. Wypowiedzi kontestujące mogą mieć charakter werbalny lub pozawerbalny, np. poprzez sztukę. Kontestacja jest skrajnym przeciwieństwem [[Konformizm|konformizmu]].

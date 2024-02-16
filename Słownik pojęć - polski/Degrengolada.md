@@ -1,1 +1,0 @@
-Def. zupełny rozkład wartości moralnych w jakimś środowisku
