@@ -5,7 +5,7 @@
   "livePreview": true,
   "defaultViewMode": "source",
   "vimMode": false,
-  "showInlineTitle": true,
+  "showInlineTitle": false,
   "showFrontmatter": false,
   "focusNewTab": true,
   "showLineNumber": false,

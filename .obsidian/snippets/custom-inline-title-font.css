@@ -1,4 +1,24 @@
+@import "./bookerly/stylesheet.css";
+@import "./Mailchamp/stylesheet.css";
+
 body{
   --inline-title-font: "Means Web Light" !important;
   --inline-title-weight: 300;
+}
+
+h1, .HyperMD-header-1{
+  font-family: "Means Web Light" !important;
+  font-size: 2em !important;
+  font-weight: 300 !important;
+  font-style: normal !important;
+  font-variant: normal !important;
+  line-height: 1.5 !important;
+  color: inherit !important;
+}
+
+h2,.HyperMD-header-2, h3,.HyperMD-header-3, h4, .HyperMD-header-4, h5, .HyperMD-header-5, h6, .HyperMD-header-6{
+  font-family: "Means Web Light" !important;
+  font-weight: 300 !important;
+  font-style: normal !important;
+  font-variant: normal !important;
 }

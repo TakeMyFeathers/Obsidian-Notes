@@ -12,6 +12,7 @@
   "templates",
   "command-palette",
   "slash-command",
+  "zk-prefixer",
   "outline",
   "file-recovery"
 ]

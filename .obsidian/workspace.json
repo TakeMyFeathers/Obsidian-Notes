@@ -4,15 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "3c70511ef33cff64",
+        "id": "858ab6067ff4c095",
         "type": "tabs",
         "children": [
           {
-            "id": "a20f85b8e62cccf6",
+            "id": "144777c1fe5bb78d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "001 Boards/czym-była-zasłona-mai-u-szchopenchauera.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ]
@@ -44,10 +49,10 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "epik",
+                "query": "\"zasłona Mai\"",
                 "matchingCase": false,
                 "explainSearch": false,
-                "collapseAll": false,
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
@@ -61,7 +66,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -93,6 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "001 Boards/czym-była-zasłona-mai-u-szchopenchauera.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,6 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "001 Boards/czym-była-zasłona-mai-u-szchopenchauera.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +139,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "001 Boards/czym-była-zasłona-mai-u-szchopenchauera.md"
+              }
             }
           },
           {
@@ -142,7 +152,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -157,11 +168,19 @@
       "command-palette:Open command palette": true,
       "graph:Open graph view": true,
       "omnisearch:Omnisearch": false,
-      "obsidian-omnivore:Omnivore": false
+      "obsidian-omnivore:Omnivore": false,
+      "zk-prefixer:Create new unique note": false,
+      "darlal-switcher-plus:Open in Headings Mode": false,
+      "darlal-switcher-plus:Open Symbols for the active editor": false
     }
   },
-  "active": "a20f85b8e62cccf6",
+  "active": "144777c1fe5bb78d",
   "lastOpenFiles": [
+    "Readwise/Books/Dzieje Filozofii Zachodu I Jej Związki Z Rzeczywistością Społeczno-Polityczną Od Czasów Najdawniejszych Do Dnia Dzisiejszego.md",
+    "001 Boards/czym-była-zasłona-mai-u-szchopenchauera.md",
+    "000 Zettelkasten/Polski tematy/OK.md",
+    "000 Zettelkasten/202402162238.md",
+    "000 Zettelkasten/Polski tematy/Etos człowieka myślącego - Zbigniew Herbert Przesłanie Pana Cogito.md",
     "001 Boards/Arystoteles.canvas",
     "001 Boards/Początki kapitalizmu w Polsce. Górą Edek.md",
     "001 Boards/Kartezjusz.md",
@@ -200,10 +219,6 @@
     "999 Temporary/O miłości bliźniego - Tako Rzecze Zaratustra.md",
     "999 Temporary/O drogach twórcy - Tako Rzecze Zaratustry.md",
     "999 Temporary/O Czystości - Tako Rzecze Zaratustra.md",
-    "999 Temporary/O cnotliwych - Tako Rzecze Zaratustra.md",
-    "Omnivore/2024-01-26/Henri Poincaré (Stanford Encyclopedia of Philosophy).md",
-    "Słownik pojęć - polski/Marazm.md",
-    "Słownik pojęć - polski/Kontensacja.md",
     "Glossary/English",
     "Glossary",
     "001 Boards/Arystoteles-zalążki-systemu.canvas",
