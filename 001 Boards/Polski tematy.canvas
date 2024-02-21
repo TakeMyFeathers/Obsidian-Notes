@@ -2,7 +2,8 @@
 	"nodes":[
 		{"id":"50b5c4469305095a","type":"file","file":"001 Boards/Synteza wiadomości - renesans.md","x":-920,"y":-160,"width":920,"height":640},
 		{"id":"39271830ff4fc831","type":"file","file":"001 Boards/Stan wojenny w oczach zachodu.md","x":-920,"y":520,"width":920,"height":658},
-		{"id":"29d0010a265f3b01","x":200,"y":520,"width":400,"height":400,"type":"file","file":"001 Boards/Postawy człowieka wobec zła.canvas"}
+		{"id":"29d0010a265f3b01","type":"file","file":"001 Boards/Postawy człowieka wobec zła.canvas","x":200,"y":520,"width":400,"height":400},
+		{"id":"5c8d3785b05119ef","x":80,"y":-154,"width":720,"height":434,"type":"file","file":"001 Boards/omówienie-próbnej-matury.md","subpath":"#Omówienie matury próbnej"}
 	],
 	"edges":[]
 }

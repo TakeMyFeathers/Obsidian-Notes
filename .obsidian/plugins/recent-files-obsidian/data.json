@@ -1,6 +1,34 @@
 {
   "recentFiles": [
     {
+      "basename": "2024-02-21",
+      "path": "2024-02-21.md"
+    },
+    {
+      "basename": "Polski tematy",
+      "path": "001 Boards/Polski tematy.canvas"
+    },
+    {
+      "basename": "omówienie-próbnej-matury",
+      "path": "001 Boards/omówienie-próbnej-matury.md"
+    },
+    {
+      "basename": "2024-02-07",
+      "path": "Journal/000 Daily/2024-02-07.md"
+    },
+    {
+      "basename": "tyrystorowy-regulator-fazowy",
+      "path": "000 Zettelkasten/Mikrokontrolery/tyrystorowy-regulator-fazowy.md"
+    },
+    {
+      "basename": "Mikrokontrolery - INDEX",
+      "path": "000 Zettelkasten/Mikrokontrolery/Mikrokontrolery - INDEX.md"
+    },
+    {
+      "basename": "combinatorics",
+      "path": "001 Boards/combinatorics.canvas"
+    },
+    {
       "basename": "czym-była-zasłona-mai-u-szchopenchauera",
       "path": "001 Boards/czym-była-zasłona-mai-u-szchopenchauera.md"
     },
@@ -57,24 +85,12 @@
       "path": "001 Boards/Test historyczno-literacki.md"
     },
     {
-      "basename": "2024-02-07",
-      "path": "Journal/000 Daily/2024-02-07.md"
-    },
-    {
       "basename": "Test Historycznoliteracki RENESANS",
       "path": "001 Boards/Test Historycznoliteracki RENESANS.canvas"
     },
     {
-      "basename": "Polski tematy",
-      "path": "001 Boards/Polski tematy.canvas"
-    },
-    {
       "basename": "Synteza wiadomości - renesans",
       "path": "001 Boards/Synteza wiadomości - renesans.md"
-    },
-    {
-      "basename": "Mikrokontrolery - INDEX",
-      "path": "000 Zettelkasten/Mikrokontrolery/Mikrokontrolery - INDEX.md"
     },
     {
       "basename": "Układ detekcji przejścia przez zero",
@@ -183,22 +199,6 @@
     {
       "basename": "Henri Poincaré",
       "path": "Readwise/Articles/Henri Poincaré.md"
-    },
-    {
-      "basename": "Form vs. Matter",
-      "path": "Readwise/Articles/Form vs. Matter.md"
-    },
-    {
-      "basename": "Historia Filozofii",
-      "path": "999 Temporary/Historia Filozofii.md"
-    },
-    {
-      "basename": "Arystoteles-zalążki-systemu",
-      "path": "001 Boards/Arystoteles-zalążki-systemu.canvas"
-    },
-    {
-      "basename": "Arystoteles-podział-filozofii",
-      "path": "001 Boards/Arystoteles-podział-filozofii.canvas"
     }
   ],
   "omittedPaths": [],

@@ -11,3 +11,4 @@ _Lista:_
 - [[Wyświetlacze LCD alfanumeryczne]]
 - [[Ciekłokrystaliczne wyświetlacze graficzne]]
 - [[Układ detekcji przejścia przez zero]]
+- [[tyrystorowy-regulator-fazowy|Tyrystorowy regulator fazowy]]
