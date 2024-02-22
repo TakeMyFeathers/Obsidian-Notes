@@ -5,7 +5,7 @@
   "theme": "obsidian",
   "baseFontSize": 20,
   "showViewHeader": true,
-  "textFontFamily": "Lexend,Bookerly",
+  "textFontFamily": "Bookerly,Lexend",
   "enabledCssSnippets": [
     "supercharged-links-gen",
     "column-size",

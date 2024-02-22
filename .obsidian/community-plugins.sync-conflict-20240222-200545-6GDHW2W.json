@@ -15,10 +15,13 @@
   "obsidian-paste-image-rename",
   "better-fn",
   "math-booster",
+  "url-into-selection",
+  "list-style",
   "obsidian-outliner",
   "better-word-count",
   "obsidian-zotero-desktop-connector",
   "obsidian-copy-block-link",
+  "obsidian-hider",
   "obsidian-minimal-settings",
   "obsidian-sortable",
   "recent-files-obsidian",
@@ -27,9 +30,5 @@
   "calendar",
   "obsidian-git",
   "periodic-notes",
-  "url-into-selection",
-  "obsidian-hider",
-  "obsidian-kanban",
-  "heatmap-calendar",
-  "obsidian-read-it-later"
+  "darlal-switcher-plus"
 ]

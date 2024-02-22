@@ -19,8 +19,24 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "8d090906752af54a",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "001 Boards/Polski tematy.canvas",
+                "viewState": {
+                  "x": 270.4785643910027,
+                  "y": 789.7932439517733,
+                  "zoom": -2.0889736298222763
+                }
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -104,7 +120,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "001 Boards/czym-była-zasłona-mai-u-szchopenchauera.md",
+            "file": "001 Boards/Polski tematy.canvas",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -121,7 +137,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "001 Boards/czym-była-zasłona-mai-u-szchopenchauera.md",
+            "file": "001 Boards/Polski tematy.canvas",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -133,7 +149,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "001 Boards/czym-była-zasłona-mai-u-szchopenchauera.md"
+            "file": "001 Boards/Polski tematy.canvas"
           }
         }
       },
@@ -162,7 +178,7 @@
       "darlal-switcher-plus:Open Symbols for the active editor": false
     }
   },
-  "active": "4944a4058789dac5",
+  "active": "8d090906752af54a",
   "lastOpenFiles": [
     "001 Boards/czym-była-zasłona-mai-u-szchopenchauera.md",
     "Daily/2023-07-12.md",

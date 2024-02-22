@@ -4,33 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "4aabf1782af45b69",
+        "id": "f88f38280e71bdbb",
         "type": "tabs",
         "children": [
           {
-            "id": "448c3894b4eff79b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2024-02-21.md",
-                "mode": "preview",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3132b0adc25a2b3a",
+            "id": "a8ce69e269c24308",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
-                "file": "001 Boards/Polski tematy.canvas",
+                "file": "001 Boards/René Descartes.canvas",
                 "viewState": {
-                  "x": -60,
-                  "y": 509,
-                  "zoom": -0.7273263155616262
+                  "x": -302.25000000000045,
+                  "y": 52.08000000000002,
+                  "zoom": 0
                 }
               }
             }
@@ -113,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-02-21.md",
+                "file": "001 Boards/René Descartes.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024-02-21.md",
+                "file": "001 Boards/René Descartes.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024-02-21.md"
+                "file": "001 Boards/René Descartes.canvas"
               }
             }
           },
@@ -184,20 +171,31 @@
       "omnisearch:Omnisearch": false,
       "obsidian-omnivore:Omnivore": false,
       "zk-prefixer:Create new unique note": false,
-      "darlal-switcher-plus:Open in Headings Mode": false,
-      "darlal-switcher-plus:Open Symbols for the active editor": false
+      "obsidian-read-it-later:ReadItLater: Save clipboard": false
     }
   },
-  "active": "448c3894b4eff79b",
+  "active": "a8ce69e269c24308",
   "lastOpenFiles": [
-    "001 Boards/Polski tematy.canvas",
-    "2024-02-21.md",
+    "ReadItLater Inbox/René Descartes.md",
+    "001 Boards/René Descartes.canvas",
+    "001 Boards/Untitled Kanban.md",
+    "ReadItLater Inbox/ReadItLater.md",
+    "ReadItLater Inbox/Article.md",
+    "001 Boards/asdasdas.md",
     "001 Boards/omówienie-próbnej-matury.md",
+    "ReadItLater Inbox/Note Taking Methods The 11 Best Skills for Effectively Organizing Notes.md",
+    "001 Boards/Untitled 2.md",
+    "ReadItLater Inbox/assets/51gV3KaVM1L._SX331_BO1,204,203,200_.jpg",
+    "ReadItLater Inbox/assets",
+    "ReadItLater Inbox/Note 2024-02-21 20-41-10.md",
+    "ReadItLater Inbox",
+    "001 Boards/combinatorics.canvas",
+    "2024-02-21.md",
+    "001 Boards/Polski tematy.canvas",
     "Journal/000 Daily/2024-02-07.md",
     "001 Boards/utopia-thomas-moore-flashcards.md",
     "000 Zettelkasten/Mikrokontrolery/tyrystorowy-regulator-fazowy.md",
     "000 Zettelkasten/Mikrokontrolery/Mikrokontrolery - INDEX.md",
-    "001 Boards/combinatorics.canvas",
     "001 Boards/czym-była-zasłona-mai-u-szchopenchauera.md",
     "Readwise/Books/Dzieje Filozofii Zachodu I Jej Związki Z Rzeczywistością Społeczno-Polityczną Od Czasów Najdawniejszych Do Dnia Dzisiejszego.md",
     "000 Zettelkasten/Polski tematy/OK.md",
@@ -215,12 +213,7 @@
     "Omnivore/2024-02-01/Albert Camus (Stanford Encyclopedia of Philosophy).md",
     "Omnivore/2024-02-01",
     "001 Boards/Test Historycznoliteracki RENESANS.canvas",
-    "001 Boards/Synteza wiadomości - renesans.md",
-    "000 Zettelkasten/Mikrokontrolery/Układ detekcji przejścia przez zero.md",
-    "Smart home.md",
-    "999 Temporary/Słownik pojęć nieznanych.md",
     "001 Boards/Arystoteles-logika.canvas",
-    "Słownik pojęć - polski/Zblazowany.md",
     "002 Files/Papers/Euclid-Second-Proposition-Math-Intell.pdf",
     "002 Files/Papers/Marcin_Brzozowski_fun_czas_w_arduino.pdf",
     "002 Files/Paintings/Miasto_nad_morzem_Ambrogio_Lorenzetti.png",
@@ -230,20 +223,13 @@
     "002 Files/Images/DS18B20 - schemat.png",
     "002 Files/Images/atmega328p-schemat.png",
     "002 Files/Books/Logika_dla_studentow_filozofii.pdf",
-    "999 Temporary/Teoria czterech cnót.md",
-    "999 Temporary/Tako Rzecze Zaratustra.md",
-    "999 Temporary/Suma cyfr sześcianu równa 2004.md",
     "Glossary/English",
     "Glossary",
     "001 Boards/Arystoteles-zalążki-systemu.canvas",
-    "001 Boards/Postawy człowieka wobec zła.canvas",
     "rgb-rsstatus",
     "Media DB/manga",
-    "Media DB",
-    "Books",
     "Pasted image 20231215210554.png",
     "path2.svg",
-    "path5.svg",
     "path5.svg"
   ]
 }

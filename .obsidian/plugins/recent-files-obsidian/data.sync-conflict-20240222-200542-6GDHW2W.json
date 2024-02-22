@@ -1,68 +1,8 @@
 {
   "recentFiles": [
     {
-      "basename": "René Descartes",
-      "path": "001 Boards/René Descartes.canvas"
-    },
-    {
-      "basename": "René Descartes",
-      "path": "ReadItLater Inbox/René Descartes.md"
-    },
-    {
-      "basename": "Untitled Kanban",
-      "path": "001 Boards/Untitled Kanban.md"
-    },
-    {
-      "basename": "ReadItLater",
-      "path": "ReadItLater Inbox/ReadItLater.md"
-    },
-    {
-      "basename": "Article",
-      "path": "ReadItLater Inbox/Article.md"
-    },
-    {
-      "basename": "asdasdas",
-      "path": "001 Boards/asdasdas.md"
-    },
-    {
-      "basename": "omówienie-próbnej-matury",
-      "path": "001 Boards/omówienie-próbnej-matury.md"
-    },
-    {
-      "basename": "Note Taking Methods The 11 Best Skills for Effectively Organizing Notes",
-      "path": "ReadItLater Inbox/Note Taking Methods The 11 Best Skills for Effectively Organizing Notes.md"
-    },
-    {
-      "basename": "Untitled 2",
-      "path": "001 Boards/Untitled 2.md"
-    },
-    {
-      "basename": "Note 2024-02-21 20-41-10",
-      "path": "ReadItLater Inbox/Note 2024-02-21 20-41-10.md"
-    },
-    {
-      "basename": "combinatorics",
-      "path": "001 Boards/combinatorics.canvas"
-    },
-    {
-      "basename": "2024-02-21",
-      "path": "2024-02-21.md"
-    },
-    {
       "basename": "Polski tematy",
       "path": "001 Boards/Polski tematy.canvas"
-    },
-    {
-      "basename": "2024-02-07",
-      "path": "Journal/000 Daily/2024-02-07.md"
-    },
-    {
-      "basename": "tyrystorowy-regulator-fazowy",
-      "path": "000 Zettelkasten/Mikrokontrolery/tyrystorowy-regulator-fazowy.md"
-    },
-    {
-      "basename": "Mikrokontrolery - INDEX",
-      "path": "000 Zettelkasten/Mikrokontrolery/Mikrokontrolery - INDEX.md"
     },
     {
       "basename": "czym-była-zasłona-mai-u-szchopenchauera",
@@ -121,12 +61,20 @@
       "path": "001 Boards/Test historyczno-literacki.md"
     },
     {
+      "basename": "2024-02-07",
+      "path": "Journal/000 Daily/2024-02-07.md"
+    },
+    {
       "basename": "Test Historycznoliteracki RENESANS",
       "path": "001 Boards/Test Historycznoliteracki RENESANS.canvas"
     },
     {
       "basename": "Synteza wiadomości - renesans",
       "path": "001 Boards/Synteza wiadomości - renesans.md"
+    },
+    {
+      "basename": "Mikrokontrolery - INDEX",
+      "path": "000 Zettelkasten/Mikrokontrolery/Mikrokontrolery - INDEX.md"
     },
     {
       "basename": "Układ detekcji przejścia przez zero",
@@ -199,6 +147,58 @@
     {
       "basename": "Suma cyfr",
       "path": "999 Temporary/Suma cyfr.md"
+    },
+    {
+      "basename": "Sofizmat",
+      "path": "999 Temporary/Sofizmat.md"
+    },
+    {
+      "basename": "O miłości bliźniego - Tako Rzecze Zaratustra",
+      "path": "999 Temporary/O miłości bliźniego - Tako Rzecze Zaratustra.md"
+    },
+    {
+      "basename": "O drogach twórcy - Tako Rzecze Zaratustry",
+      "path": "999 Temporary/O drogach twórcy - Tako Rzecze Zaratustry.md"
+    },
+    {
+      "basename": "O Czystości - Tako Rzecze Zaratustra",
+      "path": "999 Temporary/O Czystości - Tako Rzecze Zaratustra.md"
+    },
+    {
+      "basename": "O cnotliwych - Tako Rzecze Zaratustra",
+      "path": "999 Temporary/O cnotliwych - Tako Rzecze Zaratustra.md"
+    },
+    {
+      "basename": "Antynomia",
+      "path": "999 Temporary/Antynomia.md"
+    },
+    {
+      "basename": "Glossary - en",
+      "path": "998 Templates/Glossary - en.md"
+    },
+    {
+      "basename": "Stoicyzm",
+      "path": "000 Zettelkasten/Stoicyzm.md"
+    },
+    {
+      "basename": "Henri Poincaré",
+      "path": "Readwise/Articles/Henri Poincaré.md"
+    },
+    {
+      "basename": "Form vs. Matter",
+      "path": "Readwise/Articles/Form vs. Matter.md"
+    },
+    {
+      "basename": "Historia Filozofii",
+      "path": "999 Temporary/Historia Filozofii.md"
+    },
+    {
+      "basename": "Arystoteles-zalążki-systemu",
+      "path": "001 Boards/Arystoteles-zalążki-systemu.canvas"
+    },
+    {
+      "basename": "Arystoteles-podział-filozofii",
+      "path": "001 Boards/Arystoteles-podział-filozofii.canvas"
     }
   ],
   "omittedPaths": [],
