@@ -1,6 +1,90 @@
 {
   "recentFiles": [
     {
+      "basename": "DLACZEGO",
+      "path": "000 Zettelkasten/DLACZEGO.md"
+    },
+    {
+      "basename": "CZY",
+      "path": "000 Zettelkasten/CZY.md"
+    },
+    {
+      "basename": "Audiatur et altera pars",
+      "path": "000 Zettelkasten/Audiatur et altera pars.md"
+    },
+    {
+      "basename": "Marcin",
+      "path": "Marcin.md"
+    },
+    {
+      "basename": "Susceptibility",
+      "path": "000 Zettelkasten/Susceptibility.md"
+    },
+    {
+      "basename": "Sorrow",
+      "path": "000 Zettelkasten/Sorrow.md"
+    },
+    {
+      "basename": "Solitude",
+      "path": "000 Zettelkasten/Solitude.md"
+    },
+    {
+      "basename": "How to Read a Book",
+      "path": "000 Zettelkasten/How to Read a Book.md"
+    },
+    {
+      "basename": "2023-11-08",
+      "path": "Journal/000 Daily/2023-11-08.md"
+    },
+    {
+      "basename": "Wiatr północny",
+      "path": "000 Zettelkasten/Wiatr północny.md"
+    },
+    {
+      "basename": "Nierówność trójkąta",
+      "path": "000 Zettelkasten/Nierówność trójkąta.md"
+    },
+    {
+      "basename": "Ciągłość funkcji",
+      "path": "000 Zettelkasten/Ciągłość funkcji.md"
+    },
+    {
+      "basename": "Allude",
+      "path": "000 Zettelkasten/Allude.md"
+    },
+    {
+      "basename": "Bakalaureat",
+      "path": "000 Zettelkasten/Bakalaureat.md"
+    },
+    {
+      "basename": "Bakałarz",
+      "path": "000 Zettelkasten/Bakałarz.md"
+    },
+    {
+      "basename": "Wichrzycielstwo",
+      "path": "000 Zettelkasten/Wichrzycielstwo.md"
+    },
+    {
+      "basename": "Agitacja",
+      "path": "000 Zettelkasten/Agitacja.md"
+    },
+    {
+      "basename": "Autobiografia",
+      "path": "000 Zettelkasten/Autobiografia.md"
+    },
+    {
+      "basename": "Atawizm",
+      "path": "000 Zettelkasten/Atawizm.md"
+    },
+    {
+      "basename": "Animizm",
+      "path": "000 Zettelkasten/Animizm.md"
+    },
+    {
+      "basename": "Ostracyzm",
+      "path": "000 Zettelkasten/Ostracyzm.md"
+    },
+    {
       "basename": "René Descartes",
       "path": "001 Boards/René Descartes.canvas"
     },
@@ -77,10 +161,6 @@
       "path": "000 Zettelkasten/Polski tematy/OK.md"
     },
     {
-      "basename": "202402162238",
-      "path": "000 Zettelkasten/202402162238.md"
-    },
-    {
       "basename": "Etos człowieka myślącego - Zbigniew Herbert Przesłanie Pana Cogito",
       "path": "000 Zettelkasten/Polski tematy/Etos człowieka myślącego - Zbigniew Herbert Przesłanie Pana Cogito.md"
     },
@@ -119,86 +199,6 @@
     {
       "basename": "Test historyczno-literacki",
       "path": "001 Boards/Test historyczno-literacki.md"
-    },
-    {
-      "basename": "Test Historycznoliteracki RENESANS",
-      "path": "001 Boards/Test Historycznoliteracki RENESANS.canvas"
-    },
-    {
-      "basename": "Synteza wiadomości - renesans",
-      "path": "001 Boards/Synteza wiadomości - renesans.md"
-    },
-    {
-      "basename": "Układ detekcji przejścia przez zero",
-      "path": "000 Zettelkasten/Mikrokontrolery/Układ detekcji przejścia przez zero.md"
-    },
-    {
-      "basename": "Smart home",
-      "path": "Smart home.md"
-    },
-    {
-      "basename": "Słownik pojęć nieznanych",
-      "path": "999 Temporary/Słownik pojęć nieznanych.md"
-    },
-    {
-      "basename": "Arystoteles-substancja",
-      "path": "001 Boards/Arystoteles-substancja.canvas"
-    },
-    {
-      "basename": "Arystoteles-logika",
-      "path": "001 Boards/Arystoteles-logika.canvas"
-    },
-    {
-      "basename": "Euclid-Second-Proposition-Math-Intell",
-      "path": "002 Files/Papers/Euclid-Second-Proposition-Math-Intell.pdf"
-    },
-    {
-      "basename": "Marcin_Brzozowski_fun_czas_w_arduino",
-      "path": "002 Files/Papers/Marcin_Brzozowski_fun_czas_w_arduino.pdf"
-    },
-    {
-      "basename": "Miasto_nad_morzem_Ambrogio_Lorenzetti",
-      "path": "002 Files/Paintings/Miasto_nad_morzem_Ambrogio_Lorenzetti.png"
-    },
-    {
-      "basename": "Madonna_z_książką_Sandra_Botticelli",
-      "path": "002 Files/Paintings/Madonna_z_książką_Sandra_Botticelli.png"
-    },
-    {
-      "basename": "Zdania złożone",
-      "path": "002 Files/Images/Zdania złożone.png"
-    },
-    {
-      "basename": "Wyświetlacze LCD alfanumeryczne",
-      "path": "002 Files/Images/Wyświetlacze LCD alfanumeryczne.png"
-    },
-    {
-      "basename": "DS18B20 - schemat",
-      "path": "002 Files/Images/DS18B20 - schemat.png"
-    },
-    {
-      "basename": "atmega328p-schemat",
-      "path": "002 Files/Images/atmega328p-schemat.png"
-    },
-    {
-      "basename": "Logika_dla_studentow_filozofii",
-      "path": "002 Files/Books/Logika_dla_studentow_filozofii.pdf"
-    },
-    {
-      "basename": "Teoria czterech cnót",
-      "path": "999 Temporary/Teoria czterech cnót.md"
-    },
-    {
-      "basename": "Tako Rzecze Zaratustra",
-      "path": "999 Temporary/Tako Rzecze Zaratustra.md"
-    },
-    {
-      "basename": "Suma cyfr sześcianu równa 2004",
-      "path": "999 Temporary/Suma cyfr sześcianu równa 2004.md"
-    },
-    {
-      "basename": "Suma cyfr",
-      "path": "999 Temporary/Suma cyfr.md"
     }
   ],
   "omittedPaths": [],

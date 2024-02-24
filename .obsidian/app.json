@@ -4,7 +4,7 @@
   "attachmentFolderPath": "Files",
   "livePreview": true,
   "defaultViewMode": "source",
-  "vimMode": false,
+  "vimMode": true,
   "showInlineTitle": false,
   "showFrontmatter": false,
   "focusNewTab": true,
