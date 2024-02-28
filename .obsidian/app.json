@@ -4,7 +4,7 @@
   "attachmentFolderPath": "Files",
   "livePreview": true,
   "defaultViewMode": "source",
-  "vimMode": true,
+  "vimMode": false,
   "showInlineTitle": false,
   "showFrontmatter": false,
   "focusNewTab": true,
@@ -24,5 +24,5 @@
     "margin": "0",
     "downscalePercent": 100
   },
-  "propertiesInDocument": "source"
+  "propertiesInDocument": "hidden"
 }

@@ -1,20 +1,56 @@
 {
   "recentFiles": [
     {
-      "basename": "DLACZEGO",
-      "path": "000 Zettelkasten/DLACZEGO.md"
+      "basename": "wesele-przypopmienie",
+      "path": "001 Boards/wesele-przypopmienie.md"
     },
     {
       "basename": "CZY",
       "path": "000 Zettelkasten/CZY.md"
     },
     {
-      "basename": "Audiatur et altera pars",
-      "path": "000 Zettelkasten/Audiatur et altera pars.md"
+      "basename": "Polski tematy",
+      "path": "001 Boards/Polski tematy.canvas"
+    },
+    {
+      "basename": "omówienie-próbnej-matury",
+      "path": "001 Boards/omówienie-próbnej-matury.md"
+    },
+    {
+      "basename": "Mikrokontrolery - INDEX",
+      "path": "000 Zettelkasten/Mikrokontrolery/Mikrokontrolery - INDEX.md"
+    },
+    {
+      "basename": "renesans",
+      "path": "001 Boards/renesans.canvas"
+    },
+    {
+      "basename": "tatarkiewicz-historia-filozofii-2",
+      "path": "000 Zettelkasten/tatarkiewicz-historia-filozofii-2/tatarkiewicz-historia-filozofii-2.md"
+    },
+    {
+      "basename": "don-kichot-z-la-manchy",
+      "path": "don-kichot-z-la-manchy.md"
     },
     {
       "basename": "Marcin",
       "path": "Marcin.md"
+    },
+    {
+      "basename": "Średniowiecze test",
+      "path": "Średniowiecze test.md"
+    },
+    {
+      "basename": "czym-jest-framework",
+      "path": "czym-jest-framework.md"
+    },
+    {
+      "basename": "DLACZEGO",
+      "path": "000 Zettelkasten/DLACZEGO.md"
+    },
+    {
+      "basename": "Audiatur et altera pars",
+      "path": "000 Zettelkasten/Audiatur et altera pars.md"
     },
     {
       "basename": "Susceptibility",
@@ -89,52 +125,20 @@
       "path": "001 Boards/René Descartes.canvas"
     },
     {
-      "basename": "René Descartes",
-      "path": "ReadItLater Inbox/René Descartes.md"
-    },
-    {
       "basename": "Untitled Kanban",
       "path": "001 Boards/Untitled Kanban.md"
-    },
-    {
-      "basename": "ReadItLater",
-      "path": "ReadItLater Inbox/ReadItLater.md"
-    },
-    {
-      "basename": "Article",
-      "path": "ReadItLater Inbox/Article.md"
     },
     {
       "basename": "asdasdas",
       "path": "001 Boards/asdasdas.md"
     },
     {
-      "basename": "omówienie-próbnej-matury",
-      "path": "001 Boards/omówienie-próbnej-matury.md"
-    },
-    {
-      "basename": "Note Taking Methods The 11 Best Skills for Effectively Organizing Notes",
-      "path": "ReadItLater Inbox/Note Taking Methods The 11 Best Skills for Effectively Organizing Notes.md"
-    },
-    {
       "basename": "Untitled 2",
       "path": "001 Boards/Untitled 2.md"
     },
     {
-      "basename": "Note 2024-02-21 20-41-10",
-      "path": "ReadItLater Inbox/Note 2024-02-21 20-41-10.md"
-    },
-    {
       "basename": "combinatorics",
       "path": "001 Boards/combinatorics.canvas"
-    },
-    {
-      "basename": "2024-02-21",
-      "path": "2024-02-21.md"
-    },
-    {
-      "basename": "Polski tematy",
-      "path": "001 Boards/Polski tematy.canvas"
     },
     {
       "basename": "2024-02-07",
@@ -143,10 +147,6 @@
     {
       "basename": "tyrystorowy-regulator-fazowy",
       "path": "000 Zettelkasten/Mikrokontrolery/tyrystorowy-regulator-fazowy.md"
-    },
-    {
-      "basename": "Mikrokontrolery - INDEX",
-      "path": "000 Zettelkasten/Mikrokontrolery/Mikrokontrolery - INDEX.md"
     },
     {
       "basename": "czym-była-zasłona-mai-u-szchopenchauera",
@@ -185,20 +185,8 @@
       "path": "001 Boards/Arystoteles-wstęp.canvas"
     },
     {
-      "basename": "Średniowiecze test",
-      "path": "Średniowiecze test.md"
-    },
-    {
-      "basename": "Porażenie prądem elektrycznym",
-      "path": "Porażenie prądem elektrycznym.md"
-    },
-    {
       "basename": "Untitled 3",
       "path": "001 Boards/Untitled 3.canvas"
-    },
-    {
-      "basename": "Test historyczno-literacki",
-      "path": "001 Boards/Test historyczno-literacki.md"
     }
   ],
   "omittedPaths": [],

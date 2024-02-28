@@ -1,11 +1,11 @@
 {
   "accentColor": "",
-  "cssTheme": "Catppuccin",
+  "cssTheme": "AnuPpuccin",
   "translucency": false,
   "theme": "obsidian",
   "baseFontSize": 20,
   "showViewHeader": true,
-  "textFontFamily": "Lexend,Bookerly",
+  "textFontFamily": "",
   "enabledCssSnippets": [
     "supercharged-links-gen",
     "column-size",

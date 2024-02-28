@@ -12,3 +12,5 @@ _Lista:_
 - [[Ciekłokrystaliczne wyświetlacze graficzne]]
 - [[Układ detekcji przejścia przez zero]]
 - [[tyrystorowy-regulator-fazowy|Tyrystorowy regulator fazowy]]
+
+Opisz budowę, zasadę działania, rodzaje i różnice w przemiennikach częstotliwości 

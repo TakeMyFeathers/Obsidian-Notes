@@ -166,6 +166,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-read-it-later:ReadItLater: Save clipboard": false,
       "zk-prefixer:Create new unique note": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
@@ -173,9 +174,7 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "omnisearch:Omnisearch": false,
-      "obsidian-omnivore:Omnivore": false,
-      "darlal-switcher-plus:Open in Headings Mode": false,
-      "darlal-switcher-plus:Open Symbols for the active editor": false
+      "obsidian-omnivore:Omnivore": false
     }
   },
   "active": "8d090906752af54a",
