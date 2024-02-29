@@ -1,17 +1,16 @@
 {
   "accentColor": "",
-  "cssTheme": "AnuPpuccin",
+  "cssTheme": "Typora-Vue",
   "translucency": false,
-  "theme": "obsidian",
+  "theme": "moonstone",
   "baseFontSize": 20,
   "showViewHeader": true,
-  "textFontFamily": "",
+  "textFontFamily": "Vollkorn,Calibri,iA Writer Duo S,Lexend",
   "enabledCssSnippets": [
     "supercharged-links-gen",
     "column-size",
     "theorem-callout",
-    "simple-callout",
-    "custom-inline-title-font"
+    "whitey"
   ],
   "nativeMenus": false,
   "monospaceFontFamily": "Lexend"

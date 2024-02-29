@@ -1,3 +1,9 @@
+---
+id: Sokrates
+aliases: []
+tags: []
+---
+
 #osoba #filozofia 
 
 _Lata życia._ 469 - 399 r. p.n.e
@@ -20,4 +26,4 @@ _Poglądy logiczne:_
 - **Metoda elenktyczna** (od gr. elenktikos – zbijający), czyli metoda zbijania, uważana przez Sokratesa za „największy i najskuteczniejszy sposób oczyszczenia umysłu“, polegała na doprowadzeniu do absurdu: fałszywą tezę przeciwnika Sokrates przyjmował poważnie („Ironia Sokratejska“) i pytaniami zmuszał do wyciągnięcia z tezy konsekwencji dopóty, aż doprowadziły do twierdzenia sprzecznego z twierdzeniami powszechnymi bądź z samą tezą pierwotną. Uważał się za uprawnionego do tej krytyki, gdyż inni ulegając złudzeniu, że wiedzę posiadają, **on miał świadomość swojej niewiedzy**.
 - **Metoda maieutyczna** - maieutyka, czyli sztuka położnicza. Opierała się na założeniu Sokratesa, że każdy człowiek nosi w sobie wiedzę prawdziwą, ale jej sobie nie uświadamia i trzeba mu w tym dopomóc.  Sokrates robił to za pomocą pytań. On jako kierownik musiał umiejętnie stawiać pytania, dzieląc pytania złożone na najprostsze i nadając im formę rozjemczą (tak czy nie), przyciskając pytanego do muru i wymuszając odpowiedź. Odpowiedź na proste pytania etyczne musiała być trafna, gdyż nie wymagała żadnych specjalnych wiadomości a wyłącznie rozsądku. Poszukiwania rozpoczynał od stwierdzenia faktów znanych i uznanych, sprawdzonych doświadczeniem i czynem. Fakty te dotyczyły czynności człowieka: rzemieślnika, artysty, polityka, wodza. Traktował je jako przesłanki do rozumowania. Do czynności zaś moralnych, bardziej złożonych dochodził drogą analogii. Założeniem rozumowania analogicznego była stałość struktury wszelkiej czynności. Dalej analogia uczy do zakresu znanych wciągać fakty nowe, np. wskazuje, że odwaga istnieje nie tylko na wojnie, ale i w pokoju. Analogia pozwala w określeniu zakresu pojęcia, lecz nie mówi nic o jego treści. W tym miejscu Sokrates posługiwał się indukcją i z faktów ogólnych wyciągał ich cechy wspólne.
 
-[^1]: „Od gór i drzew niczego się nie uczy, a tylko od ludzi w mieście.“
+[^1]: „Od gór i drzew niczego się nie uczy, a tylko od ludzi w mieście.“:

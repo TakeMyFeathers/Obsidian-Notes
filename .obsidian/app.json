@@ -15,7 +15,7 @@
   "foldHeading": true,
   "alwaysUpdateLinks": true,
   "promptDelete": false,
-  "spellcheck": true,
+  "spellcheck": false,
   "spellcheckLanguages": null,
   "pdfExportSettings": {
     "includeName": true,

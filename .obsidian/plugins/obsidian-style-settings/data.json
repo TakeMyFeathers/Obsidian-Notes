@@ -73,5 +73,6 @@
   "catppuccin-icon-styles@@ctp-icon-hide": true,
   "catppuccin-interface-styles@@ctp-bold-folder-title": false,
   "anuppuccin-theme-settings@@anuppuccin-theme-dark": "ctp-mocha",
-  "anuppuccin-theme-settings@@anuppuccin-theme-light": "ctp-rosepine-light"
+  "anuppuccin-theme-settings@@anuppuccin-theme-light": "ctp-rosepine-light",
+  "minimal-advanced@@hide-markdown": false
 }

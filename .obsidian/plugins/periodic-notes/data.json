@@ -5,17 +5,20 @@
   "daily": {
     "format": "",
     "template": "",
-    "folder": ""
+    "folder": "Journal/000 Daily",
+    "enabled": true
   },
   "weekly": {
     "format": "",
     "template": "",
-    "folder": ""
+    "folder": "Journal/001 Weekly",
+    "enabled": true
   },
   "monthly": {
     "format": "",
     "template": "",
-    "folder": ""
+    "folder": "Journal/002 Monthly",
+    "enabled": true
   },
   "quarterly": {
     "format": "",

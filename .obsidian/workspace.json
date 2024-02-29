@@ -4,40 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "7b1b42f725b62a4b",
+        "id": "19ec0ad036b40245",
         "type": "tabs",
         "children": [
           {
-            "id": "e8269bfd1b59dc14",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "001 Boards/Polski tematy.canvas",
-                "viewState": {
-                  "x": 1066.2261302365303,
-                  "y": 255.04971859425243,
-                  "zoom": -0.080849559270173
-                }
-              }
-            }
-          },
-          {
-            "id": "77d1e239e99f928e",
+            "id": "38f3f1152ff2ab64",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "001 Boards/wesele-przypopmienie.md",
-                "mode": "preview",
+                "file": "1709125919-XFSS.md",
+                "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1,
-        "stacked": true
+        ]
       }
     ],
     "direction": "vertical"
@@ -69,7 +52,7 @@
                 "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
-                "collapseAll": true,
+                "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
@@ -82,13 +65,23 @@
               "type": "recent-files",
               "state": {}
             }
+          },
+          {
+            "id": "0aa9ca36a4b7ac22",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "1709125919-XFSS.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 311.5,
-    "collapsed": true
+    "width": 285.5
   },
   "right": {
     "id": "68a4bbecffc25852",
@@ -115,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "001 Boards/wesele-przypopmienie.md",
+                "file": "1709125919-XFSS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "001 Boards/wesele-przypopmienie.md",
+                "file": "1709125919-XFSS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,16 +144,6 @@
             }
           },
           {
-            "id": "0aa9ca36a4b7ac22",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "001 Boards/wesele-przypopmienie.md"
-              }
-            }
-          },
-          {
             "id": "8aba4897d8a95f29",
             "type": "leaf",
             "state": {
@@ -174,16 +157,16 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "001 Boards/wesele-przypopmienie.md"
+                "file": "1709125919-XFSS.md"
               }
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 357.5,
+    "width": 374.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -196,14 +179,21 @@
       "omnisearch:Omnisearch": false,
       "obsidian-omnivore:Omnivore": false,
       "zk-prefixer:Create new unique note": false,
-      "obsidian-read-it-later:ReadItLater: Save clipboard": false
+      "obsidian-read-it-later:ReadItLater: Save clipboard": false,
+      "periodic-notes:Open today": false
     }
   },
-  "active": "77d1e239e99f928e",
+  "active": "38f3f1152ff2ab64",
   "lastOpenFiles": [
+    "1709125919-XFSS.md",
+    "001 Boards/Arystoteles-zalążki-systemu.canvas",
+    "001 Boards/Arystoteles.canvas",
+    "Journal/000 Daily/2024-02-29.md",
+    "1709030693-USPT.md",
+    "1709030693-USPT.md~",
     "001 Boards/Polski tematy.canvas",
-    "1708959306-USPT.md",
     "001 Boards/wesele-przypopmienie.md",
+    "1708959306-USPT.md",
     "000 Zettelkasten/Mikrokontrolery/Mikrokontrolery - INDEX.md",
     "001 Boards/renesans.canvas",
     "000 Zettelkasten/tatarkiewicz-historia-filozofii-2/tatarkiewicz-historia-filozofii-2.md",
@@ -226,21 +216,16 @@
     "Journal/000 Daily/2023-11-08.md",
     "000 Zettelkasten/Lista tagów i przykłady stosowania.md",
     "998 Templates/Glossary - en.md",
-    "000 Zettelkasten/Glosariusz - Angielski.md",
-    "000 Zettelkasten/Logika dla Informatyków - INDEX.md",
-    "000 Zettelkasten/Wiatr północny.md",
     "001 Boards/René Descartes.canvas",
     "ReadItLater Inbox/assets/51gV3KaVM1L._SX331_BO1,204,203,200_.jpg",
     "ReadItLater Inbox/assets",
     "ReadItLater Inbox",
     "001 Boards/combinatorics.canvas",
-    "001 Boards/Arystoteles.canvas",
     "001 Boards/Kartezjusz.canvas",
     "001 Boards/Arystoteles-wstęp.canvas",
     "001 Boards/Untitled 3.canvas",
     "Omnivore/2024-02-01",
     "001 Boards/Test Historycznoliteracki RENESANS.canvas",
-    "001 Boards/Arystoteles-logika.canvas",
     "002 Files/Papers/Euclid-Second-Proposition-Math-Intell.pdf",
     "002 Files/Papers/Marcin_Brzozowski_fun_czas_w_arduino.pdf",
     "002 Files/Paintings/Miasto_nad_morzem_Ambrogio_Lorenzetti.png",
@@ -252,7 +237,6 @@
     "002 Files/Books/Logika_dla_studentow_filozofii.pdf",
     "Glossary/English",
     "Glossary",
-    "rgb-rsstatus",
     "Pasted image 20231215210554.png",
     "path2.svg",
     "path5.svg"
