@@ -1,16 +1,15 @@
 {
   "accentColor": "",
-  "cssTheme": "Typora-Vue",
+  "cssTheme": "iA Writer",
   "translucency": false,
-  "theme": "moonstone",
-  "baseFontSize": 20,
+  "theme": "obsidian",
+  "baseFontSize": 30,
   "showViewHeader": true,
-  "textFontFamily": "Vollkorn,Calibri,iA Writer Duo S,Lexend",
+  "textFontFamily": "iA Writer Duo S,Vollkorn,Calibri,Lexend",
   "enabledCssSnippets": [
     "supercharged-links-gen",
     "column-size",
-    "theorem-callout",
-    "whitey"
+    "theorem-callout"
   ],
   "nativeMenus": false,
   "monospaceFontFamily": "Lexend"
