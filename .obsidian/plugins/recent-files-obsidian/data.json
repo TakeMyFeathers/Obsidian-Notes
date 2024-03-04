@@ -1,12 +1,64 @@
 {
   "recentFiles": [
     {
+      "basename": "Thomas More - Utopia",
+      "path": "Thomas More - Utopia.md"
+    },
+    {
+      "basename": "Albert Camus - Mit Syzyfa",
+      "path": "Albert Camus - Mit Syzyfa.md"
+    },
+    {
+      "basename": "Drawing 2024-03-03 12.30.46.excalidraw",
+      "path": "Excalidraw/Drawing 2024-03-03 12.30.46.excalidraw.md"
+    },
+    {
+      "basename": "ExcaliBrain Snapshot - Albert Camus - Mit Syzyfa.excalidraw",
+      "path": "Excalidraw/ExcaliBrain Snapshot - Albert Camus - Mit Syzyfa.excalidraw.md"
+    },
+    {
+      "basename": "excalibrain",
+      "path": "excalibrain.md"
+    },
+    {
+      "basename": "Średniowiecze test",
+      "path": "Średniowiecze test.md"
+    },
+    {
+      "basename": "miejsce-zmieniane-przez-czas",
+      "path": "miejsce-zmieniane-przez-czas.md"
+    },
+    {
+      "basename": "Marcin",
+      "path": "Marcin.md"
+    },
+    {
+      "basename": "lista-lektur-obowiazkowych",
+      "path": "lista-lektur-obowiazkowych.md"
+    },
+    {
       "basename": "jakie-decyzje-podejmuje-człowiek-w-przełomowych-momentach-zycia-i-czym-je-motywuje",
       "path": "jakie-decyzje-podejmuje-człowiek-w-przełomowych-momentach-zycia-i-czym-je-motywuje.md"
     },
     {
+      "basename": "czym-jest-framework",
+      "path": "czym-jest-framework.md"
+    },
+    {
+      "basename": "1709128016-XYOD",
+      "path": "1709128016-XYOD.md"
+    },
+    {
       "basename": "1709125919-XFSS",
       "path": "1709125919-XFSS.md"
+    },
+    {
+      "basename": "1709106897-USPT",
+      "path": "1709106897-USPT.md"
+    },
+    {
+      "basename": "1708959306-USPT",
+      "path": "1708959306-USPT.md"
     },
     {
       "basename": "Arystoteles-zalążki-systemu",
@@ -55,18 +107,6 @@
     {
       "basename": "don-kichot-z-la-manchy",
       "path": "don-kichot-z-la-manchy.md"
-    },
-    {
-      "basename": "Marcin",
-      "path": "Marcin.md"
-    },
-    {
-      "basename": "Średniowiecze test",
-      "path": "Średniowiecze test.md"
-    },
-    {
-      "basename": "czym-jest-framework",
-      "path": "czym-jest-framework.md"
     },
     {
       "basename": "DLACZEGO",
@@ -159,46 +199,6 @@
     {
       "basename": "Untitled 2",
       "path": "001 Boards/Untitled 2.md"
-    },
-    {
-      "basename": "combinatorics",
-      "path": "001 Boards/combinatorics.canvas"
-    },
-    {
-      "basename": "2024-02-07",
-      "path": "Journal/000 Daily/2024-02-07.md"
-    },
-    {
-      "basename": "tyrystorowy-regulator-fazowy",
-      "path": "000 Zettelkasten/Mikrokontrolery/tyrystorowy-regulator-fazowy.md"
-    },
-    {
-      "basename": "czym-była-zasłona-mai-u-szchopenchauera",
-      "path": "001 Boards/czym-była-zasłona-mai-u-szchopenchauera.md"
-    },
-    {
-      "basename": "Dzieje Filozofii Zachodu I Jej Związki Z Rzeczywistością Społeczno-Polityczną Od Czasów Najdawniejszych Do Dnia Dzisiejszego",
-      "path": "Readwise/Books/Dzieje Filozofii Zachodu I Jej Związki Z Rzeczywistością Społeczno-Polityczną Od Czasów Najdawniejszych Do Dnia Dzisiejszego.md"
-    },
-    {
-      "basename": "OK",
-      "path": "000 Zettelkasten/Polski tematy/OK.md"
-    },
-    {
-      "basename": "Etos człowieka myślącego - Zbigniew Herbert Przesłanie Pana Cogito",
-      "path": "000 Zettelkasten/Polski tematy/Etos człowieka myślącego - Zbigniew Herbert Przesłanie Pana Cogito.md"
-    },
-    {
-      "basename": "Początki kapitalizmu w Polsce. Górą Edek",
-      "path": "001 Boards/Początki kapitalizmu w Polsce. Górą Edek.md"
-    },
-    {
-      "basename": "Kartezjusz",
-      "path": "001 Boards/Kartezjusz.md"
-    },
-    {
-      "basename": "Kartezjusz",
-      "path": "001 Boards/Kartezjusz.canvas"
     }
   ],
   "omittedPaths": [],

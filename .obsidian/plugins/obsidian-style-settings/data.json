@@ -8,7 +8,7 @@
   "supercharged-links@@d7da-e877-after": "\"\"",
   "shiba-theme-settings@@shiba-colors-theme-dark": "warm-dark",
   "shiba-theme-settings@@shiba-colors-theme-light": "ivory-light",
-  "sanctum@@dark-mode-contrast-mode": "sanctum-default-dark",
+  "sanctum@@dark-mode-contrast-mode": "sanctum-black",
   "sanctum@@light-mode-contrast-mode": "sanctum-default-light",
   "ul-theme-settings@@ul-color-accent": "ul-cyan",
   "ul-theme-settings@@ul-theme-dark": "ul-obplus-dt",
@@ -69,10 +69,11 @@
   "sanctum@@tag-decoration": "none",
   "sanctum@@indentation-guide-active": "rgba(var(--mono-rgb-100), 0.3)",
   "sanctum@@heading-outline": "#",
-  "sanctum@@file-line-width": 40,
+  "sanctum@@file-line-width": 60,
   "catppuccin-icon-styles@@ctp-icon-hide": true,
   "catppuccin-interface-styles@@ctp-bold-folder-title": false,
   "anuppuccin-theme-settings@@anuppuccin-theme-dark": "ctp-mocha",
   "anuppuccin-theme-settings@@anuppuccin-theme-light": "ctp-rosepine-light",
-  "minimal-advanced@@hide-markdown": false
+  "minimal-advanced@@hide-markdown": false,
+  "sanctum@@color-accent-rgb-d": "236, 90, 118"
 }

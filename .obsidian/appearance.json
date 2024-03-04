@@ -1,11 +1,11 @@
 {
   "accentColor": "",
-  "cssTheme": "iA Writer",
+  "cssTheme": "Sanctum",
   "translucency": false,
   "theme": "obsidian",
   "baseFontSize": 30,
   "showViewHeader": true,
-  "textFontFamily": "iA Writer Duo S,Vollkorn,Calibri,Lexend",
+  "textFontFamily": "Vollkorn",
   "enabledCssSnippets": [
     "supercharged-links-gen",
     "column-size",
