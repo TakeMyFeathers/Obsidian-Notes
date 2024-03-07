@@ -1,20 +1,88 @@
 {
   "recentFiles": [
     {
-      "basename": "Thomas More - Utopia",
-      "path": "Thomas More - Utopia.md"
-    },
-    {
       "basename": "Albert Camus - Mit Syzyfa",
       "path": "Albert Camus - Mit Syzyfa.md"
     },
     {
-      "basename": "Drawing 2024-03-03 12.30.46.excalidraw",
-      "path": "Excalidraw/Drawing 2024-03-03 12.30.46.excalidraw.md"
+      "basename": "camus",
+      "path": "001 Boards/camus.canvas"
+    },
+    {
+      "basename": "Existentialist Aesthetics",
+      "path": "ReadItLater Inbox/Existentialist Aesthetics.md"
+    },
+    {
+      "basename": "Albert",
+      "path": "Albert.md"
+    },
+    {
+      "basename": "Albert Camus",
+      "path": "ReadItLater Inbox/Albert Camus.md"
+    },
+    {
+      "basename": "środki-poetyckie",
+      "path": "środki-poetyckie.md"
+    },
+    {
+      "basename": "Drawing 2024-03-05 16.40.23.excalidraw",
+      "path": "Excalidraw/Drawing 2024-03-05 16.40.23.excalidraw.md"
+    },
+    {
+      "basename": "Drawing 2024-03-06 09.55.26.excalidraw",
+      "path": "Excalidraw/Drawing 2024-03-06 09.55.26.excalidraw.md"
     },
     {
       "basename": "ExcaliBrain Snapshot - Albert Camus - Mit Syzyfa.excalidraw",
       "path": "Excalidraw/ExcaliBrain Snapshot - Albert Camus - Mit Syzyfa.excalidraw.md"
+    },
+    {
+      "basename": "lista-lektur-obowiazkowych",
+      "path": "lista-lektur-obowiazkowych.md"
+    },
+    {
+      "basename": "Sokrates",
+      "path": "000 Zettelkasten/Sokrates.md"
+    },
+    {
+      "basename": "Sofizm",
+      "path": "000 Zettelkasten/Sofizm.md"
+    },
+    {
+      "basename": "miejsce-zmieniane-przez-czas",
+      "path": "miejsce-zmieniane-przez-czas.md"
+    },
+    {
+      "basename": "Miejsca ważne w życiu człowieka. Omów zagadnienie na podstawie Miejsca Andrzeja Stasiuka. W swojej odpowiedzi uwzględnij również wybrany kontekst. - Miejsce - Pan Tadeusz",
+      "path": "ReadItLater Inbox/Miejsca ważne w życiu człowieka. Omów zagadnienie na podstawie Miejsca Andrzeja Stasiuka. W swojej odpowiedzi uwzględnij również wybrany kontekst. - Miejsce - Pan Tadeusz.md"
+    },
+    {
+      "basename": "1709125919-XFSS",
+      "path": "1709125919-XFSS.md"
+    },
+    {
+      "basename": "Schemat przerwania systemowego",
+      "path": "Excalidraw/Schemat przerwania systemowego.md"
+    },
+    {
+      "basename": "Przerwania mikrokontrolera",
+      "path": "000 Zettelkasten/Mikrokontrolery/Przerwania mikrokontrolera.md"
+    },
+    {
+      "basename": "Stoicyzm",
+      "path": "001 Boards/Stoicyzm.canvas"
+    },
+    {
+      "basename": "renesans",
+      "path": "001 Boards/renesans.canvas"
+    },
+    {
+      "basename": "Mikrokontrolery - INDEX",
+      "path": "000 Zettelkasten/Mikrokontrolery/Mikrokontrolery - INDEX.md"
+    },
+    {
+      "basename": "Thomas More - Utopia",
+      "path": "Thomas More - Utopia.md"
     },
     {
       "basename": "excalibrain",
@@ -25,16 +93,8 @@
       "path": "Średniowiecze test.md"
     },
     {
-      "basename": "miejsce-zmieniane-przez-czas",
-      "path": "miejsce-zmieniane-przez-czas.md"
-    },
-    {
       "basename": "Marcin",
       "path": "Marcin.md"
-    },
-    {
-      "basename": "lista-lektur-obowiazkowych",
-      "path": "lista-lektur-obowiazkowych.md"
     },
     {
       "basename": "jakie-decyzje-podejmuje-człowiek-w-przełomowych-momentach-zycia-i-czym-je-motywuje",
@@ -43,14 +103,6 @@
     {
       "basename": "czym-jest-framework",
       "path": "czym-jest-framework.md"
-    },
-    {
-      "basename": "1709128016-XYOD",
-      "path": "1709128016-XYOD.md"
-    },
-    {
-      "basename": "1709125919-XFSS",
-      "path": "1709125919-XFSS.md"
     },
     {
       "basename": "1709106897-USPT",
@@ -91,14 +143,6 @@
     {
       "basename": "omówienie-próbnej-matury",
       "path": "001 Boards/omówienie-próbnej-matury.md"
-    },
-    {
-      "basename": "Mikrokontrolery - INDEX",
-      "path": "000 Zettelkasten/Mikrokontrolery/Mikrokontrolery - INDEX.md"
-    },
-    {
-      "basename": "renesans",
-      "path": "001 Boards/renesans.canvas"
     },
     {
       "basename": "tatarkiewicz-historia-filozofii-2",
@@ -155,50 +199,6 @@
     {
       "basename": "Bakalaureat",
       "path": "000 Zettelkasten/Bakalaureat.md"
-    },
-    {
-      "basename": "Bakałarz",
-      "path": "000 Zettelkasten/Bakałarz.md"
-    },
-    {
-      "basename": "Wichrzycielstwo",
-      "path": "000 Zettelkasten/Wichrzycielstwo.md"
-    },
-    {
-      "basename": "Agitacja",
-      "path": "000 Zettelkasten/Agitacja.md"
-    },
-    {
-      "basename": "Autobiografia",
-      "path": "000 Zettelkasten/Autobiografia.md"
-    },
-    {
-      "basename": "Atawizm",
-      "path": "000 Zettelkasten/Atawizm.md"
-    },
-    {
-      "basename": "Animizm",
-      "path": "000 Zettelkasten/Animizm.md"
-    },
-    {
-      "basename": "Ostracyzm",
-      "path": "000 Zettelkasten/Ostracyzm.md"
-    },
-    {
-      "basename": "René Descartes",
-      "path": "001 Boards/René Descartes.canvas"
-    },
-    {
-      "basename": "Untitled Kanban",
-      "path": "001 Boards/Untitled Kanban.md"
-    },
-    {
-      "basename": "asdasdas",
-      "path": "001 Boards/asdasdas.md"
-    },
-    {
-      "basename": "Untitled 2",
-      "path": "001 Boards/Untitled 2.md"
     }
   ],
   "omittedPaths": [],

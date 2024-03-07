@@ -1,16 +1,17 @@
 {
   "accentColor": "",
-  "cssTheme": "Sanctum",
+  "cssTheme": "Solarized",
   "translucency": false,
-  "theme": "obsidian",
+  "theme": "moonstone",
   "baseFontSize": 30,
   "showViewHeader": true,
-  "textFontFamily": "Vollkorn",
+  "textFontFamily": "Iosevka,JetBrainsMono Nerd Font,Inter,Chalkboard,Vollkorn",
   "enabledCssSnippets": [
     "supercharged-links-gen",
     "column-size",
     "theorem-callout"
   ],
   "nativeMenus": false,
-  "monospaceFontFamily": "Lexend"
+  "monospaceFontFamily": "Lexend",
+  "baseFontSizeAction": true
 }

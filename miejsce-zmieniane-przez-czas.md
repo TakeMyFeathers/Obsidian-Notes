@@ -2,3 +2,7 @@
 
 Temat na ustną: Miejsca ważne w życiu człowieka. Omów zagadnienie na podstawie "Miejsca" Andrzeja Stasiuka i uwzględnij wybrany kontekst.
 
+Odyseusz i Itaka
+
+autochton - rdzenny mieszkaniec danego obszaru
+
