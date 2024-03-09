@@ -1,7 +1,0 @@
-{
-  "templates": [],
-  "excludedPaths": [],
-  "blockPrefix": "^",
-  "enableFileNameBlockLinks": true,
-  "enableAPI": true
-}
