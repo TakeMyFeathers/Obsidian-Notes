@@ -1,11 +1,11 @@
 {
   "accentColor": "",
-  "cssTheme": "Solarized",
+  "cssTheme": "Sanctum",
   "translucency": false,
-  "theme": "obsidian",
+  "theme": "moonstone",
   "baseFontSize": 30,
   "showViewHeader": true,
-  "textFontFamily": "Iosevka,JetBrainsMono Nerd Font,Inter,Chalkboard,Vollkorn",
+  "textFontFamily": "Iosevka Aile,Merriweather",
   "enabledCssSnippets": [
     "supercharged-links-gen",
     "column-size",

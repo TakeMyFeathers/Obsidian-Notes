@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "0729e0e7ccd2a646",
+        "id": "598b92f684a3681a",
         "type": "tabs",
         "children": [
           {
-            "id": "a802aaa4f3a03e7a",
+            "id": "3e66f091b7109f4f",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -73,8 +73,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 285.5,
-    "collapsed": true
+    "width": 285.5
   },
   "right": {
     "id": "68a4bbecffc25852",
@@ -163,8 +162,16 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "a802aaa4f3a03e7a",
+  "active": "3e66f091b7109f4f",
   "lastOpenFiles": [
+    "Oświecenie - epoka.md",
+    "środki-poetyckie.md",
+    "001 Boards/Arystoteles.canvas",
+    "001 Boards/Arystoteles-zalążki-systemu.canvas",
+    "1709106897-USPT.md",
+    "1708976637-USPT.md",
+    "ReadItLater Inbox/Existentialist Aesthetics.md",
+    "ReadItLater Inbox/Miejsca ważne w życiu człowieka. Omów zagadnienie na podstawie Miejsca Andrzeja Stasiuka. W swojej odpowiedzi uwzględnij również wybrany kontekst. - Miejsce - Pan Tadeusz.md",
     "Omnivore/2024-02-01/Albert Camus (Stanford Encyclopedia of Philosophy).md",
     "Albert Camus - Mit Syzyfa.md",
     "whiteboards/65ec574d-7bf1-4fef-8103-17137b4eec24.edn",
@@ -177,10 +184,8 @@
     "logseq/config.edn",
     "logseq",
     "001 Boards/camus.canvas",
-    "ReadItLater Inbox/Existentialist Aesthetics.md",
     "Albert.md",
     "ReadItLater Inbox/Albert Camus.md",
-    "środki-poetyckie.md",
     "Excalidraw/Drawing 2024-03-05 16.40.23.excalidraw.md",
     "Excalidraw/Drawing 2024-03-06 09.55.26.excalidraw.md",
     "Excalidraw/ExcaliBrain Snapshot - Albert Camus - Mit Syzyfa.excalidraw.md",
@@ -189,7 +194,6 @@
     "000 Zettelkasten/Sofizm.md",
     "ReadItLater Inbox/Suicide.md",
     "miejsce-zmieniane-przez-czas.md",
-    "ReadItLater Inbox/Miejsca ważne w życiu człowieka. Omów zagadnienie na podstawie Miejsca Andrzeja Stasiuka. W swojej odpowiedzi uwzględnij również wybrany kontekst. - Miejsce - Pan Tadeusz.md",
     "1709125919-XFSS.md",
     "Excalidraw/Schemat przerwania systemowego.md",
     "000 Zettelkasten/Mikrokontrolery/Przerwania mikrokontrolera.md",
@@ -200,12 +204,7 @@
     "Thomas More - Utopia.md",
     "excalibrain.md",
     "Excalidraw",
-    "Średniowiecze test.md",
-    "Marcin.md",
     "lista-lektur-obowiazkowych.pdf",
-    "jakie-decyzje-podejmuje-człowiek-w-przełomowych-momentach-zycia-i-czym-je-motywuje.md",
-    "001 Boards/Arystoteles-zalążki-systemu.canvas",
-    "001 Boards/Arystoteles.canvas",
     "001 Boards/Polski tematy.canvas",
     "001 Boards/René Descartes.canvas",
     "ReadItLater Inbox/assets/51gV3KaVM1L._SX331_BO1,204,203,200_.jpg",
