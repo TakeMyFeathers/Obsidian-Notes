@@ -22,8 +22,11 @@
   "number-headings-obsidian",
   "editor-width-slider",
   "typst",
-  "wypst",
   "obsidian-carry-forward",
   "obsidian-copy-block-link",
-  "better-word-count"
+  "better-word-count",
+  "wypst",
+  "obsidian-minimal-settings",
+  "obsidian-contextual-typography",
+  "obsidian-javascript-init"
 ]

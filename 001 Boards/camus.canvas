@@ -1,7 +1,10 @@
 {
 	"nodes":[
-		{"id":"52ecd52c3fba9949","type":"file","file":"Albert Camus - Mit Syzyfa.md","subpath":"#Albert Camus - \"Mit Syzyfa\"","x":-1530,"y":-800,"width":800,"height":740},
-		{"id":"153df7f9b1562ebb","type":"text","text":"# References:\n- [[Albert Camus]]\n- [[Suicide]]\n- [[Existentialist Aesthetics]]\n","x":-680,"y":-800,"width":540,"height":560}
+		{"id":"153df7f9b1562ebb","type":"text","text":"# References:\n- [[Albert Camus]]\n- [[Suicide]]\n- [[Existentialist Aesthetics]]\n","x":-680,"y":-800,"width":540,"height":560},
+		{"id":"781c439d0519d526","type":"text","text":"# Albert Camus - Mit Syzyfa","x":-4461,"y":-1304,"width":747,"height":88},
+		{"id":"cc7bf23b1390fce3","type":"text","text":"# Absurd i samobójstwo\n\n**Czy życie warte jest trudu?** - pierwszy postulat, który musimy przyjąć, bądź odrzucić, aby wyruszyć w swoją drogą.\n  \n  *Def.* problem zasadniczy - problemy, które grożą śmiercią lub zwielokratniają pasję życia\n  \n  \"istnieją prawdopodobnie tylko dwie metody myślenia; myśl La Palisse'a i Don Kichota.\" - [What does Albert Camus mean by two methods of thought, \"of La Palisse and Don Quixote\"?](https://philosophy.stackexchange.com/questions/85955/what-does-albert-camus-mean-by-two-methods-of-thought-of-la-palisse-and-don-qu)\n","x":-5406,"y":-902,"width":578,"height":487}
 	],
-	"edges":[]
+	"edges":[
+		{"id":"c495b4dbaf8059e5","fromNode":"781c439d0519d526","fromSide":"bottom","toNode":"cc7bf23b1390fce3","toSide":"top"}
+	]
 }

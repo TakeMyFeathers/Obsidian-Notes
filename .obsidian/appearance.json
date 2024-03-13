@@ -1,11 +1,11 @@
 {
   "accentColor": "",
-  "cssTheme": "Sanctum",
+  "cssTheme": "Minimal",
   "translucency": false,
-  "theme": "moonstone",
-  "baseFontSize": 30,
+  "theme": "obsidian",
+  "baseFontSize": 16,
   "showViewHeader": true,
-  "textFontFamily": "Iosevka Aile,Merriweather",
+  "textFontFamily": "IBM Plex Sans,Iosevka Aile,Merriweather",
   "enabledCssSnippets": [
     "supercharged-links-gen",
     "column-size",

@@ -4,15 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "598b92f684a3681a",
+        "id": "20bab25c38e4bcf6",
         "type": "tabs",
         "children": [
           {
-            "id": "3e66f091b7109f4f",
+            "id": "c4d6568a2f80faa2",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Albert Camus - Mit Syzyfa.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ]
@@ -66,14 +71,17 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Albert Camus - Mit Syzyfa.md"
+              }
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 285.5
+    "width": 285.5,
+    "collapsed": true
   },
   "right": {
     "id": "68a4bbecffc25852",
@@ -120,6 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Albert Camus - Mit Syzyfa.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,6 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Albert Camus - Mit Syzyfa.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,11 +169,18 @@
       "obsidian-omnivore:Omnivore": false,
       "obsidian-read-it-later:ReadItLater: Save clipboard": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-javascript-init:Run Init JavaScript": false,
       "periodic-notes:Open today": false
     }
   },
-  "active": "3e66f091b7109f4f",
+  "active": "c4d6568a2f80faa2",
   "lastOpenFiles": [
+    "001 Boards/camus.canvas",
+    "Albert Camus - Mit Syzyfa.md",
+    "001 Boards/heniu.canvas",
+    "001 Boards/Immanuel Kant.canvas",
+    "ReadItLater Inbox/Miejsca ważne w życiu człowieka. Omów zagadnienie na podstawie Miejsca Andrzeja Stasiuka. W swojej odpowiedzi uwzględnij również wybrany kontekst. - Miejsce - Pan Tadeusz.md",
+    "Omnivore/2024-02-01/Albert Camus (Stanford Encyclopedia of Philosophy).md",
     "Oświecenie - epoka.md",
     "środki-poetyckie.md",
     "001 Boards/Arystoteles.canvas",
@@ -171,9 +188,6 @@
     "1709106897-USPT.md",
     "1708976637-USPT.md",
     "ReadItLater Inbox/Existentialist Aesthetics.md",
-    "ReadItLater Inbox/Miejsca ważne w życiu człowieka. Omów zagadnienie na podstawie Miejsca Andrzeja Stasiuka. W swojej odpowiedzi uwzględnij również wybrany kontekst. - Miejsce - Pan Tadeusz.md",
-    "Omnivore/2024-02-01/Albert Camus (Stanford Encyclopedia of Philosophy).md",
-    "Albert Camus - Mit Syzyfa.md",
     "whiteboards/65ec574d-7bf1-4fef-8103-17137b4eec24.edn",
     "whiteboards",
     "journals/2024_03_09.md",
@@ -183,7 +197,6 @@
     "journals",
     "logseq/config.edn",
     "logseq",
-    "001 Boards/camus.canvas",
     "Albert.md",
     "ReadItLater Inbox/Albert Camus.md",
     "Excalidraw/Drawing 2024-03-05 16.40.23.excalidraw.md",
@@ -202,15 +215,12 @@
     "001 Boards/renesans.canvas",
     "000 Zettelkasten/Mikrokontrolery/Mikrokontrolery - INDEX.md",
     "Thomas More - Utopia.md",
-    "excalibrain.md",
     "Excalidraw",
     "lista-lektur-obowiazkowych.pdf",
     "001 Boards/Polski tematy.canvas",
     "001 Boards/René Descartes.canvas",
     "ReadItLater Inbox/assets/51gV3KaVM1L._SX331_BO1,204,203,200_.jpg",
     "001 Boards/combinatorics.canvas",
-    "001 Boards/Kartezjusz.canvas",
-    "001 Boards/Arystoteles-wstęp.canvas",
     "002 Files/Paintings/Miasto_nad_morzem_Ambrogio_Lorenzetti.png",
     "002 Files/Paintings/Madonna_z_książką_Sandra_Botticelli.png",
     "002 Files/Images/Zdania złożone.png",
