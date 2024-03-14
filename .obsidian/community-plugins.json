@@ -18,7 +18,6 @@
   "obsidian-hider",
   "obsidian-read-it-later",
   "obsidian-excalidraw-plugin",
-  "typewriter-mode",
   "number-headings-obsidian",
   "editor-width-slider",
   "typst",
@@ -26,7 +25,9 @@
   "obsidian-copy-block-link",
   "better-word-count",
   "wypst",
-  "obsidian-minimal-settings",
   "obsidian-contextual-typography",
-  "obsidian-javascript-init"
+  "typewriter-mode",
+  "obsidian-tasks-plugin",
+  "mysnippets-plugin",
+  "obsidian-full-calendar"
 ]

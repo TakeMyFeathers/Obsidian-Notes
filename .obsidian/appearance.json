@@ -2,16 +2,17 @@
   "accentColor": "",
   "cssTheme": "Minimal",
   "translucency": false,
-  "theme": "obsidian",
-  "baseFontSize": 16,
+  "theme": "moonstone",
+  "baseFontSize": 18,
   "showViewHeader": true,
-  "textFontFamily": "IBM Plex Sans,Iosevka Aile,Merriweather",
+  "textFontFamily": "Iosevka Aile,Merriweather,Bookerly,IBM Plex Sans",
   "enabledCssSnippets": [
     "supercharged-links-gen",
     "column-size",
-    "theorem-callout"
+    "theorem-callout",
+    "MySnippets"
   ],
   "nativeMenus": false,
-  "monospaceFontFamily": "Lexend",
+  "monospaceFontFamily": "Iosevka",
   "baseFontSizeAction": true
 }

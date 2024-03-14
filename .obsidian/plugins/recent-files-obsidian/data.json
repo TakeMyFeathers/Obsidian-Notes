@@ -5,16 +5,44 @@
       "path": "Albert Camus - Mit Syzyfa.md"
     },
     {
-      "basename": "camus",
-      "path": "001 Boards/camus.canvas"
+      "basename": "Niezgoda na zło w poezji Zbigniewa Herberta",
+      "path": "000 Zettelkasten/Niezgoda na zło w poezji Zbigniewa Herberta.md"
     },
     {
-      "basename": "heniu",
-      "path": "001 Boards/heniu.canvas"
+      "basename": "Allude",
+      "path": "000 Zettelkasten/Allude.md"
     },
     {
-      "basename": "Immanuel Kant",
-      "path": "001 Boards/Immanuel Kant.canvas"
+      "basename": "Granica » Ciąg stały",
+      "path": "000 Zettelkasten/Granica » Ciąg stały.md"
+    },
+    {
+      "basename": "Algebra i Teoria Liczb - 2.B4",
+      "path": "000 Zettelkasten/Algebra i Teoria Liczb - 2.B4.md"
+    },
+    {
+      "basename": "O starej i młodej kobiecie - Tako Rzecze Zaratustra",
+      "path": "999 Temporary/O starej i młodej kobiecie - Tako Rzecze Zaratustra.md"
+    },
+    {
+      "basename": "Nierówność trójkąta",
+      "path": "000 Zettelkasten/Nierówność trójkąta.md"
+    },
+    {
+      "basename": "Algebra i Teoria Liczb",
+      "path": "000 Zettelkasten/Algebra i Teoria Liczb.md"
+    },
+    {
+      "basename": "Audiatur et altera pars",
+      "path": "000 Zettelkasten/Audiatur et altera pars.md"
+    },
+    {
+      "basename": "Demokryt z Abdery",
+      "path": "000 Zettelkasten/Demokryt z Abdery.md"
+    },
+    {
+      "basename": "Marcin_Brzozowski_fun_czas_w_arduino",
+      "path": "002 Files/Papers/Marcin_Brzozowski_fun_czas_w_arduino.pdf"
     },
     {
       "basename": "Miejsca ważne w życiu człowieka. Omów zagadnienie na podstawie Miejsca Andrzeja Stasiuka. W swojej odpowiedzi uwzględnij również wybrany kontekst. - Miejsce - Pan Tadeusz",
@@ -23,6 +51,18 @@
     {
       "basename": "Albert Camus (Stanford Encyclopedia of Philosophy)",
       "path": "Omnivore/2024-02-01/Albert Camus (Stanford Encyclopedia of Philosophy).md"
+    },
+    {
+      "basename": "heniu",
+      "path": "001 Boards/heniu.canvas"
+    },
+    {
+      "basename": "camus",
+      "path": "001 Boards/camus.canvas"
+    },
+    {
+      "basename": "Immanuel Kant",
+      "path": "001 Boards/Immanuel Kant.canvas"
     },
     {
       "basename": "Oświecenie - epoka",
@@ -159,46 +199,6 @@
     {
       "basename": "CZY",
       "path": "000 Zettelkasten/CZY.md"
-    },
-    {
-      "basename": "omówienie-próbnej-matury",
-      "path": "001 Boards/omówienie-próbnej-matury.md"
-    },
-    {
-      "basename": "tatarkiewicz-historia-filozofii-2",
-      "path": "000 Zettelkasten/tatarkiewicz-historia-filozofii-2/tatarkiewicz-historia-filozofii-2.md"
-    },
-    {
-      "basename": "don-kichot-z-la-manchy",
-      "path": "don-kichot-z-la-manchy.md"
-    },
-    {
-      "basename": "DLACZEGO",
-      "path": "000 Zettelkasten/DLACZEGO.md"
-    },
-    {
-      "basename": "Audiatur et altera pars",
-      "path": "000 Zettelkasten/Audiatur et altera pars.md"
-    },
-    {
-      "basename": "Susceptibility",
-      "path": "000 Zettelkasten/Susceptibility.md"
-    },
-    {
-      "basename": "Sorrow",
-      "path": "000 Zettelkasten/Sorrow.md"
-    },
-    {
-      "basename": "Solitude",
-      "path": "000 Zettelkasten/Solitude.md"
-    },
-    {
-      "basename": "How to Read a Book",
-      "path": "000 Zettelkasten/How to Read a Book.md"
-    },
-    {
-      "basename": "2023-11-08",
-      "path": "Journal/000 Daily/2023-11-08.md"
     }
   ],
   "omittedPaths": [],

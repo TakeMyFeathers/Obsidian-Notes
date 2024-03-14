@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "20bab25c38e4bcf6",
+        "id": "03f87527294ccb03",
         "type": "tabs",
         "children": [
           {
-            "id": "c4d6568a2f80faa2",
+            "id": "05060d4fbd3fa47f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Albert Camus - Mit Syzyfa.md",
-                "mode": "source",
+                "mode": "preview",
                 "backlinks": false,
                 "source": false
               }
@@ -75,12 +75,20 @@
                 "file": "Albert Camus - Mit Syzyfa.md"
               }
             }
+          },
+          {
+            "id": "8034ad892a10581d",
+            "type": "leaf",
+            "state": {
+              "type": "mk-path-view",
+              "state": {}
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 285.5,
+    "width": 299.5,
     "collapsed": true
   },
   "right": {
@@ -91,25 +99,6 @@
         "id": "98eda2aa5fedb5d9",
         "type": "tabs",
         "children": [
-          {
-            "id": "85d3501659327737",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
-              }
-            }
-          },
-          {
-            "id": "8aba4897d8a95f29",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
-            }
-          },
           {
             "id": "a8f06d834f3acadc",
             "type": "leaf",
@@ -150,13 +139,73 @@
                 "unlinkedCollapsed": true
               }
             }
+          },
+          {
+            "id": "bdbce823af73e2d0",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "ca0879222fd94ec6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
+      },
+      {
+        "id": "aaab41443e6fb235",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bcd46ecb56bbb348",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Albert Camus - Mit Syzyfa.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.7787721107503607,
+                  "close": true
+                }
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 374.5,
+    "width": 388.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -166,21 +215,35 @@
       "command-palette:Open command palette": true,
       "graph:Open graph view": true,
       "omnisearch:Omnisearch": false,
-      "obsidian-omnivore:Omnivore": false,
-      "obsidian-read-it-later:ReadItLater: Save clipboard": false,
+      "obsidian-omnivore:Omnivore": true,
+      "obsidian-read-it-later:ReadItLater: Save clipboard": true,
       "obsidian-excalidraw-plugin:Create new drawing": false,
-      "obsidian-javascript-init:Run Init JavaScript": false,
+      "obsidian-full-calendar:Open Full Calendar": false,
       "periodic-notes:Open today": false
     }
   },
-  "active": "c4d6568a2f80faa2",
+  "active": "05060d4fbd3fa47f",
   "lastOpenFiles": [
-    "001 Boards/camus.canvas",
+    "Albert Camus - Mit Syzyfa.md~",
+    "000 Zettelkasten/Niezgoda na zło w poezji Zbigniewa Herberta.md",
+    "000 Zettelkasten/Allude.md",
     "Albert Camus - Mit Syzyfa.md",
-    "001 Boards/heniu.canvas",
-    "001 Boards/Immanuel Kant.canvas",
+    "000 Zettelkasten/Granica » Ciąg stały.md",
+    "000 Zettelkasten/Algebra i Teoria Liczb - 2.B4.md",
+    "999 Temporary/O starej i młodej kobiecie - Tako Rzecze Zaratustra.md",
+    "000 Zettelkasten/Nierówność trójkąta.md",
+    "000 Zettelkasten/Algebra i Teoria Liczb.md",
+    "000 Zettelkasten/Audiatur et altera pars.md",
+    "000 Zettelkasten/Demokryt z Abdery.md",
+    "002 Files/Papers/Marcin_Brzozowski_fun_czas_w_arduino.pdf",
+    "Spaces/Home",
+    "Spaces",
     "ReadItLater Inbox/Miejsca ważne w życiu człowieka. Omów zagadnienie na podstawie Miejsca Andrzeja Stasiuka. W swojej odpowiedzi uwzględnij również wybrany kontekst. - Miejsce - Pan Tadeusz.md",
     "Omnivore/2024-02-01/Albert Camus (Stanford Encyclopedia of Philosophy).md",
+    "001 Boards/heniu.canvas",
+    "ReadItLater Inbox/Note 2024-03-13 21-38-19.md",
+    "001 Boards/camus.canvas",
+    "001 Boards/Immanuel Kant.canvas",
     "Oświecenie - epoka.md",
     "środki-poetyckie.md",
     "001 Boards/Arystoteles.canvas",
@@ -202,21 +265,8 @@
     "Excalidraw/Drawing 2024-03-05 16.40.23.excalidraw.md",
     "Excalidraw/Drawing 2024-03-06 09.55.26.excalidraw.md",
     "Excalidraw/ExcaliBrain Snapshot - Albert Camus - Mit Syzyfa.excalidraw.md",
-    "lista-lektur-obowiazkowych.md",
-    "000 Zettelkasten/Sokrates.md",
-    "000 Zettelkasten/Sofizm.md",
-    "ReadItLater Inbox/Suicide.md",
-    "miejsce-zmieniane-przez-czas.md",
-    "1709125919-XFSS.md",
-    "Excalidraw/Schemat przerwania systemowego.md",
-    "000 Zettelkasten/Mikrokontrolery/Przerwania mikrokontrolera.md",
-    "ReadItLater Inbox",
     "001 Boards/Stoicyzm.canvas",
     "001 Boards/renesans.canvas",
-    "000 Zettelkasten/Mikrokontrolery/Mikrokontrolery - INDEX.md",
-    "Thomas More - Utopia.md",
-    "Excalidraw",
-    "lista-lektur-obowiazkowych.pdf",
     "001 Boards/Polski tematy.canvas",
     "001 Boards/René Descartes.canvas",
     "ReadItLater Inbox/assets/51gV3KaVM1L._SX331_BO1,204,203,200_.jpg",
