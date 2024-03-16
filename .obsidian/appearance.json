@@ -5,7 +5,7 @@
   "theme": "moonstone",
   "baseFontSize": 18,
   "showViewHeader": true,
-  "textFontFamily": "Iosevka Aile,Merriweather,Bookerly,IBM Plex Sans",
+  "textFontFamily": "GuardianTextEgyptian,Iosevka Aile,Merriweather,Bookerly,IBM Plex Sans",
   "enabledCssSnippets": [
     "supercharged-links-gen",
     "column-size",
@@ -13,6 +13,6 @@
     "MySnippets"
   ],
   "nativeMenus": false,
-  "monospaceFontFamily": "Iosevka",
+  "monospaceFontFamily": "GuardianTextSans,Iosevka",
   "baseFontSizeAction": true
 }

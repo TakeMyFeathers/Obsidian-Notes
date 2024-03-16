@@ -1,6 +1,7 @@
 # Albert Camus - "Mit Syzyfa"
 
 ## Absurd i samobójstwo
+tak samo 
 
 **Czy życie warte jest trudu?** - pierwszy postulat, który musimy przyjąć, bądź odrzucić, aby wyruszyć w swoją drogą.
 

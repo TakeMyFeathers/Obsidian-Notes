@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "Angielski matura",
+      "path": "Angielski matura.md"
+    },
+    {
+      "basename": "środki-poetyckie",
+      "path": "środki-poetyckie.md"
+    },
+    {
+      "basename": "Untitled",
+      "path": "Untitled.md"
+    },
+    {
       "basename": "Albert Camus - Mit Syzyfa",
       "path": "Albert Camus - Mit Syzyfa.md"
     },
@@ -67,10 +79,6 @@
     {
       "basename": "Oświecenie - epoka",
       "path": "Oświecenie - epoka.md"
-    },
-    {
-      "basename": "środki-poetyckie",
-      "path": "środki-poetyckie.md"
     },
     {
       "basename": "Arystoteles",
@@ -191,14 +199,6 @@
     {
       "basename": "Polski tematy",
       "path": "001 Boards/Polski tematy.canvas"
-    },
-    {
-      "basename": "wesele-przypopmienie",
-      "path": "001 Boards/wesele-przypopmienie.md"
-    },
-    {
-      "basename": "CZY",
-      "path": "000 Zettelkasten/CZY.md"
     }
   ],
   "omittedPaths": [],

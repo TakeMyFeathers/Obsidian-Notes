@@ -13,14 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Albert Camus - Mit Syzyfa.md",
+                "file": "środki-poetyckie.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "49abe440b183615a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Angielski matura.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -72,7 +86,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Albert Camus - Mit Syzyfa.md"
+                "file": "Angielski matura.md"
               }
             }
           },
@@ -117,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Albert Camus - Mit Syzyfa.md",
+                "file": "Angielski matura.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Albert Camus - Mit Syzyfa.md",
+                "file": "Angielski matura.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,7 +186,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Albert Camus - Mit Syzyfa.md",
+                "file": "Angielski matura.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -219,15 +233,19 @@
       "obsidian-read-it-later:ReadItLater: Save clipboard": true,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "obsidian-full-calendar:Open Full Calendar": false,
+      "zk-prefixer:Create new unique note": false,
       "periodic-notes:Open today": false
     }
   },
-  "active": "05060d4fbd3fa47f",
+  "active": "49abe440b183615a",
   "lastOpenFiles": [
+    "środki-poetyckie.md",
+    "Angielski matura.md",
+    "Untitled.md",
+    "Albert Camus - Mit Syzyfa.md",
     "Albert Camus - Mit Syzyfa.md~",
     "000 Zettelkasten/Niezgoda na zło w poezji Zbigniewa Herberta.md",
     "000 Zettelkasten/Allude.md",
-    "Albert Camus - Mit Syzyfa.md",
     "000 Zettelkasten/Granica » Ciąg stały.md",
     "000 Zettelkasten/Algebra i Teoria Liczb - 2.B4.md",
     "999 Temporary/O starej i młodej kobiecie - Tako Rzecze Zaratustra.md",
@@ -245,7 +263,6 @@
     "001 Boards/camus.canvas",
     "001 Boards/Immanuel Kant.canvas",
     "Oświecenie - epoka.md",
-    "środki-poetyckie.md",
     "001 Boards/Arystoteles.canvas",
     "001 Boards/Arystoteles-zalążki-systemu.canvas",
     "1709106897-USPT.md",
@@ -259,12 +276,10 @@
     "pages",
     "journals",
     "logseq/config.edn",
-    "logseq",
     "Albert.md",
     "ReadItLater Inbox/Albert Camus.md",
     "Excalidraw/Drawing 2024-03-05 16.40.23.excalidraw.md",
     "Excalidraw/Drawing 2024-03-06 09.55.26.excalidraw.md",
-    "Excalidraw/ExcaliBrain Snapshot - Albert Camus - Mit Syzyfa.excalidraw.md",
     "001 Boards/Stoicyzm.canvas",
     "001 Boards/renesans.canvas",
     "001 Boards/Polski tematy.canvas",
