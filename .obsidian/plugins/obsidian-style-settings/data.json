@@ -70,7 +70,7 @@
   "catppuccin-interface-styles@@ctp-bold-folder-title": false,
   "anuppuccin-theme-settings@@anuppuccin-theme-dark": "ctp-mocha",
   "anuppuccin-theme-settings@@anuppuccin-theme-light": "ctp-rosepine-light",
-  "minimal-advanced@@hide-markdown": true,
+  "minimal-advanced@@hide-markdown": false,
   "sanctum@@color-accent-rgb-d": "236, 90, 118",
   "minimal-style@@inline-title-font": "Open Sans",
   "minimal-style@@h1-font": "GH Guardian Headline",

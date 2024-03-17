@@ -26,9 +26,10 @@
   "better-word-count",
   "wypst",
   "obsidian-contextual-typography",
-  "typewriter-mode",
   "obsidian-tasks-plugin",
   "mysnippets-plugin",
   "obsidian-full-calendar",
-  "obsidian-minimal-settings"
+  "obsidian-minimal-settings",
+  "obsidian-admonition",
+  "typewriter-mode"
 ]
