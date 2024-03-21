@@ -4,37 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "155743372e98ad2e",
+        "id": "b06023d8a72f6a4f",
         "type": "tabs",
         "children": [
           {
-            "id": "3ef45dca3269b72f",
+            "id": "8491994d1eba8815",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Albert Camus - Mit Syzyfa.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "79d1eb6ea3b66cd3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Fizyka - matura.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -63,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "alegoria",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -86,7 +72,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fizyka - matura.md"
+                "file": "Albert Camus - Mit Syzyfa.md"
               }
             }
           },
@@ -98,7 +84,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -131,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fizyka - matura.md",
+                "file": "Albert Camus - Mit Syzyfa.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fizyka - matura.md",
+                "file": "Albert Camus - Mit Syzyfa.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -186,7 +173,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Fizyka - matura.md",
+                "file": "Albert Camus - Mit Syzyfa.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -237,9 +224,14 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "79d1eb6ea3b66cd3",
+  "active": "8491994d1eba8815",
   "lastOpenFiles": [
+    "Prawo międzynarodowe.md",
     "Albert Camus - Mit Syzyfa.md",
+    "001 Boards/heniu.canvas",
+    "Journal/000 Daily/2024-03-19.md",
+    "Pytania niejawne.md",
+    "001 Boards/camus.canvas",
     "Fizyka - matura.md",
     "Untitled.md",
     "środki-poetyckie.md",
@@ -260,9 +252,7 @@
     "Spaces/Home",
     "Spaces",
     "ReadItLater Inbox/Miejsca ważne w życiu człowieka. Omów zagadnienie na podstawie Miejsca Andrzeja Stasiuka. W swojej odpowiedzi uwzględnij również wybrany kontekst. - Miejsce - Pan Tadeusz.md",
-    "001 Boards/heniu.canvas",
     "ReadItLater Inbox/Note 2024-03-13 21-38-19.md",
-    "001 Boards/camus.canvas",
     "001 Boards/Immanuel Kant.canvas",
     "Oświecenie - epoka.md",
     "001 Boards/Arystoteles.canvas",
@@ -274,12 +264,9 @@
     "whiteboards",
     "journals/2024_03_09.md",
     "logseq/custom.css",
-    "pages/contents.md",
     "pages",
     "journals",
     "logseq/config.edn",
-    "Albert.md",
-    "ReadItLater Inbox/Albert Camus.md",
     "001 Boards/Stoicyzm.canvas",
     "001 Boards/renesans.canvas",
     "001 Boards/Polski tematy.canvas",

@@ -6,3 +6,4 @@
 - zadanie 9 - pole elektryczne
 - zadanie 10 - elektrostatyka
 
+
