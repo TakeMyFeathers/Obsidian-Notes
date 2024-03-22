@@ -3,8 +3,8 @@
   "dateSavedFormat": "yyyy-MM-dd HH:mm:ss",
   "apiKey": "8cada5a5-ccd5-4b79-b446-4936e2fd0302",
   "filter": "HIGHLIGHTS",
-  "syncAt": "2024-02-07T09:22:17",
-  "customQuery": "",
+  "syncAt": "2024-03-22T19:53:45",
+  "customQuery": "in:all has:highlights",
   "template": "# {{{title}}}\n#Omnivore\n\n[Read on Omnivore]({{{omnivoreUrl}}})\n[Read Original]({{{originalUrl}}})\n\n{{#highlights.length}}\n## Highlights\n\n{{#highlights}}\n> {{{text}}} [⤴️]({{{highlightUrl}}}) {{#labels}} #{{name}} {{/labels}} ^{{{highlightID}}}\n{{#note}}\n\n{{{note}}}\n{{/note}}\n\n{{/highlights}}\n{{/highlights.length}}",
   "highlightOrder": "LOCATION",
   "syncing": false,
@@ -14,10 +14,11 @@
   "filename": "{{{title}}}",
   "filenameDateFormat": "yyyy-MM-dd",
   "attachmentFolder": "Omnivore/attachments",
-  "version": "1.9.3",
+  "version": "1.9.4",
   "isSingleFile": false,
   "frequency": 0,
   "intervalId": 0,
   "frontMatterVariables": [],
-  "frontMatterTemplate": ""
+  "frontMatterTemplate": "",
+  "syncOnStart": true
 }

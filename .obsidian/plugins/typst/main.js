@@ -171,8 +171,8 @@ var _TypstRenderElement = class _TypstRenderElement extends HTMLElement {
     this.abortController = new AbortController();
     try {
       await navigator.locks.request(this.id, { signal: this.abortController.signal }, async () => {
-        let fontSize = parseFloat(document.body.getCssPropertyValue("--font-text-size"));
-        this.size = this.display ? this.clientWidth : parseFloat(document.body.getCssPropertyValue("--line-height-normal")) * fontSize;
+        let fontSize = parseFloat(getComputedStyle(this).fontSize);
+        this.size = this.display ? this.clientWidth : parseFloat(getComputedStyle(this).lineHeight);
         if (!(this.size > 0)) {
           return;
         }
@@ -182,8 +182,11 @@ var _TypstRenderElement = class _TypstRenderElement extends HTMLElement {
             this.drawToCanvas(result);
           } else if (typeof result == "string" && this.format == "svg") {
             this.innerHTML = result;
-            this.firstElementChild.setAttribute("width", `${this.firstElementChild.clientWidth / fontSize}em`);
-            this.firstElementChild.setAttribute("height", `${this.firstElementChild.clientHeight / fontSize}em`);
+            let child = this.firstElementChild;
+            child.setAttribute("width", child.getAttribute("width").replace("pt", ""));
+            child.setAttribute("height", child.getAttribute("height").replace("pt", ""));
+            child.setAttribute("width", `${this.firstElementChild.clientWidth / fontSize}em`);
+            child.setAttribute("height", `${this.firstElementChild.clientHeight / fontSize}em`);
           }
         } catch (error) {
           error = error.slice(9);
@@ -630,7 +633,7 @@ var DEFAULT_SETTINGS = {
     math: "#set page(margin: 0pt)\n#set align(horizon)",
     code: "#set page(margin: (y: 1em, x: 0pt))"
   },
-  plugin_version: "0.9.0",
+  plugin_version: "0.10.0",
   autoDownloadPackages: true
 };
 var TypstPlugin = class extends import_obsidian.Plugin {
@@ -646,7 +649,7 @@ var TypstPlugin = class extends import_obsidian.Plugin {
     this.packagePath = this.pluginPath + "packages/";
     this.wasmPath = this.pluginPath + "obsidian_typst_bg.wasm";
     this.compilerWorker = new inlineWorker();
-    if (!await this.app.vault.adapter.exists(this.wasmPath) || this.settings.plugin_version != "0.9.0") {
+    if (!await this.app.vault.adapter.exists(this.wasmPath) || this.settings.plugin_version != "0.10.0") {
       new import_obsidian.Notice("Typst Renderer: Downloading required web assembly component!", 5e3);
       try {
         await this.fetchWasm();
@@ -708,7 +711,7 @@ ${source}`, true, false));
   async fetchWasm() {
     let response;
     let data;
-    response = (0, import_obsidian.requestUrl)(`https://api.github.com/repos/fenjalien/obsidian-typst/releases/tags/${"0.9.0"}`);
+    response = (0, import_obsidian.requestUrl)(`https://api.github.com/repos/fenjalien/obsidian-typst/releases/tags/${"0.10.0"}`);
     data = await response.json;
     let asset = data.assets.find((a) => a.name == "obsidian_typst_bg.wasm");
     if (asset == void 0) {
@@ -720,7 +723,7 @@ ${source}`, true, false));
       this.wasmPath,
       data
     );
-    this.settings.plugin_version = "0.9.0";
+    this.settings.plugin_version = "0.10.0";
     await this.saveSettings();
   }
   async getPackageList() {
