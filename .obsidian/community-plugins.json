@@ -17,7 +17,6 @@
   "url-into-selection",
   "obsidian-hider",
   "obsidian-read-it-later",
-  "obsidian-excalidraw-plugin",
   "number-headings-obsidian",
   "editor-width-slider",
   "typst",
@@ -28,8 +27,7 @@
   "obsidian-contextual-typography",
   "obsidian-tasks-plugin",
   "mysnippets-plugin",
-  "obsidian-full-calendar",
   "obsidian-minimal-settings",
-  "obsidian-admonition",
-  "typewriter-mode"
+  "typewriter-mode",
+  "canvas-mindmap"
 ]

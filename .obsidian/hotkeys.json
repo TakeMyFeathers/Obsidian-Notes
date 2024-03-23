@@ -51,5 +51,21 @@
       ],
       "key": "2"
     }
+  ],
+  "canvas-mindmap-helper:new-node": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "\\"
+    }
+  ],
+  "canvas-mindmap-helper:new-child-node": [
+    {
+      "modifiers": [
+        "Shift"
+      ],
+      "key": "Enter"
+    }
   ]
 }

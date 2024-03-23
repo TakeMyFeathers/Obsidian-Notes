@@ -5,7 +5,7 @@
   "theme": "obsidian",
   "baseFontSize": 18,
   "showViewHeader": true,
-  "textFontFamily": "GuardianTextEgyptian,Iosevka Aile,Merriweather,Bookerly,IBM Plex Sans",
+  "textFontFamily": "GuardianTextSans,GuardianTextEgyptian,Iosevka Aile,Merriweather,Bookerly,IBM Plex Sans",
   "enabledCssSnippets": [
     "supercharged-links-gen",
     "column-size",

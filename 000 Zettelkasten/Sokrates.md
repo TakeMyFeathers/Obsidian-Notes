@@ -1,14 +1,15 @@
 ---
 id: Sokrates
-aliases: []
-tags: []
+aliases: 
+tags:
+  - osoba
+  - filozofia
 ---
-
-#osoba #filozofia 
+# Sokrates
 
 _Lata życia._ 469 - 399 r. p.n.e
 
-_Zarys._ Urodził się w Atenach i w Atenach spędził całe swoje życie[^1]. Był myślicielem a także działaczem, gdy tego wymagały potrzeby kraju, służył jako żołnierz i jako urzędnik. Na ogół jednak nie brał udziału w sprawach państwowych. Przypominał w swej działalności (i takim był postrzegany przez społeczeństwo Aten) [[Sofizm|sofistów]], lecz różniło go nie tylko, iż uczył bezinteresownie, ale też innych rzeczy nauczał. Żył z rodziną w niedostatku, lecz zupełnie na to nie zważał, interesowała go jedynie cnota. Mądrość Sokratesa polegała zatem na tym, że – w odróżnieniu od innych ludzi – wiedział, że nic nie wie o tym, co dobre i piękne.
+Zarys. Urodził się w Atenach i w Atenach spędził całe swoje życie[^1]. Był myślicielem a także działaczem, gdy tego wymagały potrzeby kraju, służył jako żołnierz i jako urzędnik. Na ogół jednak nie brał udziału w sprawach państwowych. Przypominał w swej działalności (i takim był postrzegany przez społeczeństwo Aten) [[Sofizm|sofistów]], lecz różniło go nie tylko, iż uczył bezinteresownie, ale też innych rzeczy nauczał. Żył z rodziną w niedostatku, lecz zupełnie na to nie zważał, interesowała go jedynie cnota. Mądrość Sokratesa polegała zatem na tym, że – w odróżnieniu od innych ludzi – wiedział, że nic nie wie o tym, co dobre i piękne.
 
 _Pisma._ Podobnie jak Budda czy Jezus, Sokrates niczego nie pisał. To, czego nauczał w trakcie niezliczonych rozmów, znamy z relacji spisanych przez innych, w większości po jego śmierci. W przypadku tego rodzaju tekstów nigdy nie wiadomo, na ile autorzy zrozumieli treść nauczania, jak wierne były ich wspomnienia, na ile zakłócały je własne poglądy lub emocje.
 
