@@ -29,5 +29,7 @@
   "mysnippets-plugin",
   "obsidian-minimal-settings",
   "typewriter-mode",
-  "canvas-mindmap"
+  "canvas-mindmap",
+  "obsidian-outliner",
+  "slash-commander"
 ]

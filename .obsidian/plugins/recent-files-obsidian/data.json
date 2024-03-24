@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "2024-03-23",
-      "path": "Journal/000 Daily/2024-03-23.md"
+      "basename": "camus",
+      "path": "001 Boards/camus.canvas"
+    },
+    {
+      "basename": "Albert Camus - Mit Syzyfa",
+      "path": "Albert Camus - Mit Syzyfa.md"
+    },
+    {
+      "basename": "2024-03-24",
+      "path": "Journal/000 Daily/2024-03-24.md"
     },
     {
       "basename": "Sokrates",
@@ -13,12 +21,8 @@
       "path": "000 Zettelkasten/Sofizm.md"
     },
     {
-      "basename": "Albert Camus - Mit Syzyfa",
-      "path": "Albert Camus - Mit Syzyfa.md"
-    },
-    {
-      "basename": "camus",
-      "path": "001 Boards/camus.canvas"
+      "basename": "2024-03-23",
+      "path": "Journal/000 Daily/2024-03-23.md"
     },
     {
       "basename": "Test Historycznoliteracki RENESANS",
@@ -195,10 +199,6 @@
     {
       "basename": "renesans",
       "path": "001 Boards/renesans.canvas"
-    },
-    {
-      "basename": "Mikrokontrolery - INDEX",
-      "path": "000 Zettelkasten/Mikrokontrolery/Mikrokontrolery - INDEX.md"
     }
   ],
   "omittedPaths": [],

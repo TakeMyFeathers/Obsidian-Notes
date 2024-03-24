@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/000 Daily/2024-03-23.md",
-                "mode": "preview",
+                "file": "Journal/000 Daily/2024-03-24.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
               }
@@ -37,16 +37,19 @@
             "id": "5efdd91ca149e543",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "000 Zettelkasten/Sofizm.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": false
+                "file": "001 Boards/camus.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -133,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/000 Daily/2024-03-23.md",
+                "file": "001 Boards/camus.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journal/000 Daily/2024-03-23.md",
+                "file": "001 Boards/camus.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +177,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journal/000 Daily/2024-03-23.md"
+                "file": "001 Boards/camus.canvas"
               }
             }
           }
@@ -182,7 +185,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 349.5
+    "width": 349.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -197,12 +201,13 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "2289af57408f3264",
+  "active": "5efdd91ca149e543",
   "lastOpenFiles": [
-    "000 Zettelkasten/Sokrates.md",
-    "000 Zettelkasten/Sofizm.md",
     "Albert Camus - Mit Syzyfa.md",
     "001 Boards/camus.canvas",
+    "Journal/000 Daily/2024-03-24.md",
+    "000 Zettelkasten/Sokrates.md",
+    "000 Zettelkasten/Sofizm.md",
     "Journal/000 Daily/2024-03-23.md",
     "001 Boards/Test Historycznoliteracki RENESANS.canvas",
     "000 Zettelkasten/202403232039.md",
@@ -230,7 +235,6 @@
     "000 Zettelkasten/Algebra i Teoria Liczb - 2.B4.md",
     "999 Temporary/O starej i młodej kobiecie - Tako Rzecze Zaratustra.md",
     "000 Zettelkasten/Nierówność trójkąta.md",
-    "000 Zettelkasten/Algebra i Teoria Liczb.md",
     "002 Files/Papers/Marcin_Brzozowski_fun_czas_w_arduino.pdf",
     "Spaces/Home",
     "Spaces",

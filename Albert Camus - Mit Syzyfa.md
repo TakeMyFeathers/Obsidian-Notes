@@ -14,3 +14,6 @@
 
 >[!quote]
 >Wolno mi tedy powiedzieć, że poczucie absurdu nie powstaje z prostego zbadania faktu albo doznania, ale wybłyska z porównania stanu faktycznego i pewnej realności, aktu i świat, który go przekracza. 
+
+asdasdasdas
+bardzo mi z tego powodu wszystko jedno nic nie ma do dodanie w tej sprawie

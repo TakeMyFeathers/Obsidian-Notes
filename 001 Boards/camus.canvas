@@ -1,8 +1,9 @@
 {
 	"nodes":[
-		{"id":"781c439d0519d526","type":"text","text":"# Albert Camus - Mit Syzyfa","x":-6053,"y":-1273,"width":747,"height":88},
-		{"id":"cc7bf23b1390fce3","type":"text","text":"# Absurd i samobójstwo\n\n**Czy życie warte jest trudu?** - pierwszy postulat, który musimy przyjąć, bądź odrzucić, aby wyruszyć w swoją drogą.\n  \n  *Def.* problem zasadniczy - problemy, które grożą śmiercią lub zwielokratniają pasję życia\n  \n  \"istnieją prawdopodobnie tylko dwie metody myślenia; myśl La Palisse'a i Don Kichota.\" - [What does Albert Camus mean by two methods of thought, \"of La Palisse and Don Quixote\"?](https://philosophy.stackexchange.com/questions/85955/what-does-albert-camus-mean-by-two-methods-of-thought-of-la-palisse-and-don-qu)\n","x":-6152,"y":-1082,"width":609,"height":409},
-		{"id":"153df7f9b1562ebb","type":"text","text":"# References:\n- [[Albert Camus]]\n- [[Suicide]]\n- [[Existentialist Aesthetics]]\n","x":-5023,"y":-1003,"width":540,"height":560}
+		{"id":"781c439d0519d526","type":"text","text":"# Albert Camus - Mit Syzyfa","x":-6053,"y":-1264,"width":554,"height":62},
+		{"id":"cc7bf23b1390fce3","type":"text","text":"# Absurd i samobójstwo\n\n**Czy życie warte jest trudu?** - pierwszy postulat, który musimy przyjąć, bądź odrzucić, aby wyruszyć w swoją drogą.\n  \n  *Def.* problem zasadniczy - problemy, które grożą śmiercią lub zwielokratniają pasję życia\n  \n  \"istnieją prawdopodobnie tylko dwie metody myślenia; myśl La Palisse'a i Don Kichota.\" - [What does Albert Camus mean by two methods of thought, \"of La Palisse and Don Quixote\"?](https://philosophy.stackexchange.com/questions/85955/what-does-albert-camus-mean-by-two-methods-of-thought-of-la-palisse-and-don-qu)\n","x":-7092,"y":-1177,"width":609,"height":763},
+		{"id":"153df7f9b1562ebb","type":"text","text":"# References:\n- [[Albert Camus]]\n- [[Suicide]]\n- [[Existentialist Aesthetics]]\n","x":-4210,"y":-1100,"width":540,"height":560},
+		{"id":"dbc99adff516e9bc","x":-6350,"y":-935,"width":400,"height":1096,"type":"file","file":"Albert Camus - Mit Syzyfa.md"}
 	],
 	"edges":[
 		{"id":"c495b4dbaf8059e5","fromNode":"781c439d0519d526","fromSide":"bottom","toNode":"cc7bf23b1390fce3","toSide":"top"}
