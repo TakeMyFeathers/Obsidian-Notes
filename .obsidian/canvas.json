@@ -1,6 +1,7 @@
 {
-  "snapToObjects": false,
+  "snapToObjects": true,
   "snapToGrid": false,
   "newFileLocation": "folder",
-  "newFileFolderPath": "001 Boards"
+  "newFileFolderPath": "001 Boards",
+  "cardLabelVisibility": "hover"
 }

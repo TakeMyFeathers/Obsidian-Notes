@@ -1,4 +1,7 @@
 ## Wesele akt 1
+
+^d60762
+
 Chłopi i inteligencja nie potrafią się ze sobą porozumieć
 „Wyście sobie a my sobie, każdy sobie rzepkę skrobie“
 

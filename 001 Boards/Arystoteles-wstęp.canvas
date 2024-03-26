@@ -1,15 +1,80 @@
 {
-	"nodes":[
-		{"id":"56217f56e2d1795f","type":"text","text":"__Życie__\n\nLata życia: 384 do 322\n\nPochodził z rodziny, w której zawód lekarza był dziedziczny. Ze środowiska, w którym wyrósł, wyniósł pewien zasób wiedzy empirycznej, przyrodniczo-lekarskiej. Wstąpił do Akademii Platońskiej, pierwej jako uczeń, później przyjął rolę nauczyciela. Opuścił ją po śmierci Platona. Później założył własną szkołę na wzór Akademii, ale ta miała ją przerosnąć swą wszechstronnością. Od Arystotelesa powzięła duch empiryzmu i uczyniona została instytutem badań zarówno humanistycznych, jak i przyrodniczych. Otrzymała nazwę „perypatetyckiej“. ","x":-1005,"y":-292,"width":1070,"height":340},
-		{"id":"e3b58c0faf389a17","type":"text","text":"__Orientacja__\n\n![[Historia filozofii. T. 1, Filozofia starożytna i średniowieczna#^acf8b1]]","x":-1005,"y":188,"width":1070,"height":278},
-		{"id":"9e8716fb298fe8d8","type":"text","text":"__„Etymologia“ nazwy__\n\n![[Historia filozofii. T. 1, Filozofia starożytna i średniowieczna#^c26855]]","x":292,"y":48,"width":712,"height":232},
-		{"id":"be592ef0d341ffbe","type":"text","text":"__Szkoła__\n\n![[Historia filozofii. T. 1, Filozofia starożytna i średniowieczna#^d01ee8]]","x":292,"y":-264,"width":713,"height":292},
-		{"id":"8ce512b281db9174","type":"text","text":"__Geneza empiryzmu__\n\n![[Historia filozofii. T. 1, Filozofia starożytna i średniowieczna#^f687da]]","x":292,"y":-466,"width":713,"height":182}
-	],
-	"edges":[
-		{"id":"5cdf093466dede38","fromNode":"56217f56e2d1795f","fromSide":"right","toNode":"8ce512b281db9174","toSide":"left"},
-		{"id":"41a86a917e0b8d4b","fromNode":"56217f56e2d1795f","fromSide":"right","toNode":"be592ef0d341ffbe","toSide":"left"},
-		{"id":"9eb397008694d1a9","fromNode":"56217f56e2d1795f","fromSide":"bottom","toNode":"e3b58c0faf389a17","toSide":"top"},
-		{"id":"3b16e02ef24c07e6","fromNode":"56217f56e2d1795f","fromSide":"right","toNode":"9e8716fb298fe8d8","toSide":"left"}
-	]
+  "nodes": [
+    {
+      "id": "56217f56e2d1795f",
+      "type": "text",
+      "text": "__Życie__\n\nLata życia: 384 do 322\n\nPochodził z rodziny, w której zawód lekarza był dziedziczny. Ze środowiska, w którym wyrósł, wyniósł pewien zasób wiedzy empirycznej, przyrodniczo-lekarskiej. Wstąpił do Akademii Platońskiej, pierwej jako uczeń, później przyjął rolę nauczyciela. Opuścił ją po śmierci Platona. Później założył własną szkołę na wzór Akademii, ale ta miała ją przerosnąć swą wszechstronnością. Od Arystotelesa powzięła duch empiryzmu i uczyniona została instytutem badań zarówno humanistycznych, jak i przyrodniczych. Otrzymała nazwę „perypatetyckiej“. ",
+      "x": -1005,
+      "y": -292,
+      "width": 1070,
+      "height": 340
+    },
+    {
+      "id": "e3b58c0faf389a17",
+      "type": "text",
+      "text": "__Orientacja__\n\n![[Historia filozofii. T. 1, Filozofia starożytna i średniowieczna#^acf8b1]]",
+      "x": -1005,
+      "y": 188,
+      "width": 1070,
+      "height": 278
+    },
+    {
+      "id": "9e8716fb298fe8d8",
+      "type": "text",
+      "text": "__„Etymologia“ nazwy__\n\n![[Historia filozofii. T. 1, Filozofia starożytna i średniowieczna#^c26855]]",
+      "x": 292,
+      "y": 48,
+      "width": 712,
+      "height": 232
+    },
+    {
+      "id": "be592ef0d341ffbe",
+      "type": "text",
+      "text": "__Szkoła__\n\n![[Historia filozofii. T. 1, Filozofia starożytna i średniowieczna#^d01ee8]]",
+      "x": 292,
+      "y": -264,
+      "width": 713,
+      "height": 292
+    },
+    {
+      "id": "8ce512b281db9174",
+      "type": "text",
+      "text": "__Geneza empiryzmu__\n\n![[Historia filozofii. T. 1, Filozofia starożytna i średniowieczna#^f687da]]",
+      "x": 292,
+      "y": -466,
+      "width": 713,
+      "height": 182
+    }
+  ],
+  "edges": [
+    {
+      "id": "5cdf093466dede38",
+      "fromNode": "56217f56e2d1795f",
+      "fromSide": "right",
+      "toNode": "8ce512b281db9174",
+      "toSide": "left"
+    },
+    {
+      "id": "41a86a917e0b8d4b",
+      "fromNode": "56217f56e2d1795f",
+      "fromSide": "right",
+      "toNode": "be592ef0d341ffbe",
+      "toSide": "left"
+    },
+    {
+      "id": "9eb397008694d1a9",
+      "fromNode": "56217f56e2d1795f",
+      "fromSide": "bottom",
+      "toNode": "e3b58c0faf389a17",
+      "toSide": "top"
+    },
+    {
+      "id": "3b16e02ef24c07e6",
+      "fromNode": "56217f56e2d1795f",
+      "fromSide": "right",
+      "toNode": "9e8716fb298fe8d8",
+      "toSide": "left"
+    }
+  ],
+  "metadata": {}
 }

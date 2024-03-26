@@ -14,7 +14,6 @@
   "calendar",
   "obsidian-git",
   "periodic-notes",
-  "url-into-selection",
   "obsidian-hider",
   "obsidian-read-it-later",
   "number-headings-obsidian",
@@ -28,8 +27,14 @@
   "obsidian-tasks-plugin",
   "mysnippets-plugin",
   "obsidian-minimal-settings",
-  "typewriter-mode",
   "canvas-mindmap",
   "obsidian-outliner",
-  "slash-commander"
+  "slash-commander",
+  "advanced-canvas",
+  "obsidian-excalidraw-plugin",
+  "canvas-card-bg-remover",
+  "cardify",
+  "url-into-selection",
+  "obsidian-rollover-daily-todos",
+  "sample-plugin"
 ]

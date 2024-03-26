@@ -1,11 +1,11 @@
 {
-  "accentColor": "",
+  "accentColor": "#ff5924",
   "cssTheme": "Minimal",
   "translucency": false,
   "theme": "obsidian",
-  "baseFontSize": 18,
+  "baseFontSize": 20,
   "showViewHeader": true,
-  "textFontFamily": "GuardianTextSans,GuardianTextEgyptian,Iosevka Aile,Merriweather,Bookerly,IBM Plex Sans",
+  "textFontFamily": "Nunito,GuardianTextSans,Self Modern",
   "enabledCssSnippets": [
     "supercharged-links-gen",
     "column-size",

@@ -11,4 +11,3 @@ Tak specjalizacja profesora w psychologia odegrała wpływ na jego odbiór wydar
 	- 
 - Ucieczka
 	- zagubiony
-	- 

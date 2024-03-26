@@ -1,26 +1,172 @@
 {
-	"nodes":[
-		{"id":"24785d6a1546561a","type":"group","x":-1586,"y":164,"width":1646,"height":592,"label":"Cechy materii"},
-		{"id":"9ca5a4b90868040c","type":"text","text":"__Definicja__\n\n![[Historia Filozofii 1#^0fbpu5]]\n\n![[Historia Filozofii 1#^gtrw1o]]","x":-1558,"y":184,"width":772,"height":548},
-		{"id":"b791362f3e581887","type":"text","text":"__Czysta materia__\n\n![[Historia Filozofii 1#^rhq3x5]]\n\nTwory takie jak brąz czy marmur nie są czystą materią, lecz uformowaną.","x":-760,"y":184,"width":772,"height":256},
-		{"id":"362d1dd35d5fa632","type":"text","text":"__Dopełnienie Formy__\n\n![[Historia Filozofii 1#^b15o1o]]","x":-760,"y":476,"width":772,"height":256},
-		{"id":"bacf2448fbd84592","type":"text","text":"__Materia__\n\n_Def._ Właściwości jednostkowe, nie-stałe","x":-1152,"y":-136,"width":794,"height":170},
-		{"id":"795ebb70e1806213","type":"text","text":"__Forma__\n\n_Def._ Właściwości pojęciowe, ogólne, gatunkowe\n\nObie składowe są równie niezbędne, lecz forma jest ważniejsze, była realnym odpowiednikiem _pojęcia_.","x":-300,"y":-136,"width":794,"height":170},
-		{"id":"cc16d829262ddb3c","type":"text","text":"__Prawdziwe poznanie__\n\nPoznajemy jedynie rzeczy zawarte w pojęciach, czyli jedynie formę. Stąd pierwotna materia jest niepoznawalna.","x":814,"y":-316,"width":772,"height":160},
-		{"id":"5a9a7022508baba6","type":"text","text":"__Istota rzeczy__\n\n![[Historia Filozofii 1#^ce40yt]]","x":814,"y":-136,"width":772,"height":264},
-		{"id":"5f2c542f4a96ca57","type":"text","text":"__Składowe substancji__","x":-520,"y":-356,"width":381,"height":62},
-		{"id":"822060b164363c9b","type":"text","text":"__Przyczynek dualizmu__\n\n![[Historia Filozofii 1#^3eglvy]]","x":-1527,"y":-756,"width":772,"height":260},
-		{"id":"defd204985e565b7","type":"text","text":"__Dawniejsza substancja__\n\n![[Historia Filozofii 1#^to6dyd]]","x":-715,"y":-756,"width":772,"height":260},
-		{"id":"be26af828de1bcfa","type":"text","text":"__Hilemorfizm__\n\n![[Historia Filozofii 1#^ubkssl]]\n\nWszystko składa się zarówno z materii jak i formy.","x":97,"y":-756,"width":772,"height":260}
-	],
-	"edges":[
-		{"id":"3e99d5303b9ed8f8","fromNode":"bacf2448fbd84592","fromSide":"bottom","toNode":"24785d6a1546561a","toSide":"top"},
-		{"id":"bebe88804dbe1857","fromNode":"5f2c542f4a96ca57","fromSide":"bottom","toNode":"bacf2448fbd84592","toSide":"top"},
-		{"id":"5de87b37d2122397","fromNode":"795ebb70e1806213","fromSide":"right","toNode":"cc16d829262ddb3c","toSide":"left"},
-		{"id":"7371636dfa7f1e72","fromNode":"795ebb70e1806213","fromSide":"right","toNode":"5a9a7022508baba6","toSide":"left"},
-		{"id":"065ecbe475304f3b","fromNode":"5f2c542f4a96ca57","fromSide":"bottom","toNode":"795ebb70e1806213","toSide":"top"},
-		{"id":"ee4026334ef2362e","fromNode":"822060b164363c9b","fromSide":"bottom","toNode":"5f2c542f4a96ca57","toSide":"top"},
-		{"id":"249f2eede3c13daf","fromNode":"defd204985e565b7","fromSide":"bottom","toNode":"5f2c542f4a96ca57","toSide":"top"},
-		{"id":"d1e8da603960ca5e","fromNode":"be26af828de1bcfa","fromSide":"bottom","toNode":"5f2c542f4a96ca57","toSide":"top"}
-	]
+  "nodes": [
+    {
+      "id": "24785d6a1546561a",
+      "type": "group",
+      "x": -1586,
+      "y": 164,
+      "width": 1646,
+      "height": 592,
+      "label": "Cechy materii"
+    },
+    {
+      "id": "795ebb70e1806213",
+      "type": "text",
+      "text": "__Forma__\n\n_Def._ Właściwości pojęciowe, ogólne, gatunkowe\n\nObie składowe są równie niezbędne, lecz forma jest ważniejsze, była realnym odpowiednikiem _pojęcia_.",
+      "x": -300,
+      "y": -136,
+      "width": 794,
+      "height": 215
+    },
+    {
+      "id": "9ca5a4b90868040c",
+      "type": "text",
+      "text": "__Definicja__\n\n![[Historia Filozofii 1#^0fbpu5]]\n\n![[Historia Filozofii 1#^gtrw1o]]",
+      "x": -1558,
+      "y": 184,
+      "width": 772,
+      "height": 548
+    },
+    {
+      "id": "b791362f3e581887",
+      "type": "text",
+      "text": "__Czysta materia__\n\n![[Historia Filozofii 1#^rhq3x5]]\n\nTwory takie jak brąz czy marmur nie są czystą materią, lecz uformowaną.",
+      "x": -760,
+      "y": 184,
+      "width": 772,
+      "height": 256
+    },
+    {
+      "id": "362d1dd35d5fa632",
+      "type": "text",
+      "text": "__Dopełnienie Formy__\n\n![[Historia Filozofii 1#^b15o1o]]",
+      "x": -760,
+      "y": 476,
+      "width": 772,
+      "height": 256
+    },
+    {
+      "id": "bacf2448fbd84592",
+      "type": "text",
+      "text": "__Materia__\n\n_Def._ Właściwości jednostkowe, nie-stałe",
+      "x": -1152,
+      "y": -136,
+      "width": 794,
+      "height": 170,
+      "color": "1"
+    },
+    {
+      "id": "cc16d829262ddb3c",
+      "type": "text",
+      "text": "__Prawdziwe poznanie__\n\nPoznajemy jedynie rzeczy zawarte w pojęciach, czyli jedynie formę. Stąd pierwotna materia jest niepoznawalna.",
+      "x": 814,
+      "y": -316,
+      "width": 772,
+      "height": 160
+    },
+    {
+      "id": "5a9a7022508baba6",
+      "type": "text",
+      "text": "__Istota rzeczy__\n\n![[Historia Filozofii 1#^ce40yt]]",
+      "x": 814,
+      "y": -136,
+      "width": 772,
+      "height": 264
+    },
+    {
+      "id": "5f2c542f4a96ca57",
+      "type": "text",
+      "text": "__Składowe substancji__",
+      "x": -520,
+      "y": -356,
+      "width": 381,
+      "height": 62
+    },
+    {
+      "id": "822060b164363c9b",
+      "type": "text",
+      "text": "__Przyczynek dualizmu__\n\n![[Historia Filozofii 1#^3eglvy]]",
+      "x": -1527,
+      "y": -756,
+      "width": 772,
+      "height": 260
+    },
+    {
+      "id": "defd204985e565b7",
+      "type": "text",
+      "text": "__Dawniejsza substancja__\n\n![[Historia Filozofii 1#^to6dyd]]",
+      "x": -715,
+      "y": -756,
+      "width": 772,
+      "height": 260
+    },
+    {
+      "id": "be26af828de1bcfa",
+      "type": "text",
+      "text": "__Hilemorfizm__\n\n![[Historia Filozofii 1#^ubkssl]]\n\nWszystko składa się zarówno z materii jak i formy.",
+      "x": 97,
+      "y": -756,
+      "width": 772,
+      "height": 260
+    }
+  ],
+  "edges": [
+    {
+      "id": "3e99d5303b9ed8f8",
+      "fromNode": "bacf2448fbd84592",
+      "fromSide": "bottom",
+      "toNode": "24785d6a1546561a",
+      "toSide": "top"
+    },
+    {
+      "id": "bebe88804dbe1857",
+      "fromNode": "5f2c542f4a96ca57",
+      "fromSide": "bottom",
+      "toNode": "bacf2448fbd84592",
+      "toSide": "top"
+    },
+    {
+      "id": "5de87b37d2122397",
+      "fromNode": "795ebb70e1806213",
+      "fromSide": "right",
+      "toNode": "cc16d829262ddb3c",
+      "toSide": "left"
+    },
+    {
+      "id": "7371636dfa7f1e72",
+      "fromNode": "795ebb70e1806213",
+      "fromSide": "right",
+      "toNode": "5a9a7022508baba6",
+      "toSide": "left"
+    },
+    {
+      "id": "065ecbe475304f3b",
+      "fromNode": "5f2c542f4a96ca57",
+      "fromSide": "bottom",
+      "toNode": "795ebb70e1806213",
+      "toSide": "top"
+    },
+    {
+      "id": "ee4026334ef2362e",
+      "fromNode": "822060b164363c9b",
+      "fromSide": "bottom",
+      "toNode": "5f2c542f4a96ca57",
+      "toSide": "top"
+    },
+    {
+      "id": "249f2eede3c13daf",
+      "fromNode": "defd204985e565b7",
+      "fromSide": "bottom",
+      "toNode": "5f2c542f4a96ca57",
+      "toSide": "top"
+    },
+    {
+      "id": "d1e8da603960ca5e",
+      "fromNode": "be26af828de1bcfa",
+      "fromSide": "bottom",
+      "toNode": "5f2c542f4a96ca57",
+      "toSide": "top"
+    }
+  ],
+  "metadata": {}
 }
