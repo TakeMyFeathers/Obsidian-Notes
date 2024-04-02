@@ -1,0 +1,28 @@
+{
+  "newFileLocation": "current",
+  "newFileFolderPath": "000 Zettelkasten",
+  "attachmentFolderPath": "Files",
+  "livePreview": true,
+  "defaultViewMode": "source",
+  "vimMode": false,
+  "showInlineTitle": false,
+  "showFrontmatter": false,
+  "focusNewTab": true,
+  "showLineNumber": false,
+  "showIndentGuide": false,
+  "readableLineLength": true,
+  "strictLineBreaks": false,
+  "foldHeading": true,
+  "alwaysUpdateLinks": true,
+  "promptDelete": false,
+  "spellcheck": false,
+  "spellcheckLanguages": null,
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  },
+  "propertiesInDocument": "hidden"
+}

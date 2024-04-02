@@ -4,39 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "19ba0cc8c25cc2c0",
+        "id": "0579559fa6ed6b78",
         "type": "tabs",
         "children": [
           {
-            "id": "e8509e1a35d1ae96",
+            "id": "9fde6cfc29510a80",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/000 Daily/2024-03-25.md",
+                "file": "Omnivore/2024-02-01/Albert Camus (Stanford Encyclopedia of Philosophy).md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
-          },
-          {
-            "id": "de15c78b3c2aec59",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "001 Boards/Satyry - Ignacy Krasicki.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
-                }
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -93,8 +77,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -123,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "001 Boards/Satyry - Ignacy Krasicki.canvas",
+                "file": "Omnivore/2024-02-01/Albert Camus (Stanford Encyclopedia of Philosophy).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "001 Boards/Satyry - Ignacy Krasicki.canvas"
+                "file": "Omnivore/2024-02-01/Albert Camus (Stanford Encyclopedia of Philosophy).md"
               }
             }
           },
@@ -157,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "001 Boards/Satyry - Ignacy Krasicki.canvas",
+                "file": "Omnivore/2024-02-01/Albert Camus (Stanford Encyclopedia of Philosophy).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,16 +173,19 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "de15c78b3c2aec59",
+  "active": "9fde6cfc29510a80",
   "lastOpenFiles": [
+    "002 Files/Papers/Euclid-Second-Proposition-Math-Intell.pdf",
+    "Albert Camus - Mit Syzyfa.md",
+    "001 Boards/camus.canvas",
     "Journal/000 Daily/2024-03-25.md",
+    "Omnivore/2024-02-01/Albert Camus (Stanford Encyclopedia of Philosophy).md",
+    "lista-lektur-obowiazkowych.md",
     "001 Boards/Satyry - Ignacy Krasicki.canvas",
     "Pasted image 20240325184514.png",
     "Pasted image 20240325184450.png",
     "001 Boards/Arystoteles-substancja.canvas",
     "001 Boards/Arystoteles.canvas",
-    "Albert Camus - Mit Syzyfa.md",
-    "001 Boards/camus.canvas",
     "001 Boards/Polski tematy.canvas",
     "001 Boards/Arystoteles-zalążki-systemu.canvas",
     "001 Boards/Arystoteles-wstęp.canvas",
@@ -226,12 +212,10 @@
     "Untitled.md",
     "środki-poetyckie.md",
     "Referat - Danio.md",
-    "Omnivore/2024-02-01/Albert Camus (Stanford Encyclopedia of Philosophy).md",
     "Angielski matura.md",
     "Albert Camus - Mit Syzyfa.md~",
     "000 Zettelkasten/Niezgoda na zło w poezji Zbigniewa Herberta.md",
     "000 Zettelkasten/Allude.md",
-    "000 Zettelkasten/Granica » Ciąg stały.md",
     "002 Files/Papers/Marcin_Brzozowski_fun_czas_w_arduino.pdf",
     "Spaces/Home",
     "Spaces",

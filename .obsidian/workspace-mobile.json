@@ -28,15 +28,14 @@
               "state": {
                 "file": "001 Boards/Polski tematy.canvas",
                 "viewState": {
-                  "x": 270.4785643910027,
-                  "y": 789.7932439517733,
+                  "x": 177.65396576316,
+                  "y": 1268.6130427003818,
                   "zoom": -2.0889736298222763
                 }
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -95,7 +94,9 @@
         "state": {
           "type": "all-properties",
           "state": {
-            "sortOrder": "frequency"
+            "sortOrder": "frequency",
+            "showSearch": false,
+            "searchQuery": ""
           }
         }
       },
@@ -120,7 +121,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "001 Boards/Polski tematy.canvas",
+            "file": "001 Boards/czym-była-zasłona-mai-u-szchopenchauera.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -137,7 +138,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "001 Boards/Polski tematy.canvas",
+            "file": "001 Boards/czym-była-zasłona-mai-u-szchopenchauera.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -149,7 +150,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "001 Boards/Polski tematy.canvas"
+            "file": "001 Boards/czym-była-zasłona-mai-u-szchopenchauera.md"
           }
         }
       },
@@ -166,19 +167,22 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-full-calendar:Open Full Calendar": false,
       "obsidian-read-it-later:ReadItLater: Save clipboard": false,
       "zk-prefixer:Create new unique note": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
-      "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "omnisearch:Omnisearch": false,
-      "obsidian-omnivore:Omnivore": false
+      "obsidian-omnivore:Omnivore": false,
+      "periodic-notes:Open today": false
     }
   },
-  "active": "8d090906752af54a",
+  "active": "4944a4058789dac5",
   "lastOpenFiles": [
+    "001 Boards/Polski tematy.canvas",
     "001 Boards/czym-była-zasłona-mai-u-szchopenchauera.md",
     "Daily/2023-07-12.md",
     "Zettelkasten/Twierdzenie Sylvestra.canvas",
