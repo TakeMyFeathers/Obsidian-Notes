@@ -4,20 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "0579559fa6ed6b78",
+        "id": "f4fc24fb53934d6c",
         "type": "tabs",
         "children": [
           {
-            "id": "9fde6cfc29510a80",
+            "id": "315e452186b624dd",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Omnivore/2024-02-01/Albert Camus (Stanford Encyclopedia of Philosophy).md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -106,7 +101,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Omnivore/2024-02-01/Albert Camus (Stanford Encyclopedia of Philosophy).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,9 +123,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Omnivore/2024-02-01/Albert Camus (Stanford Encyclopedia of Philosophy).md"
-              }
+              "state": {}
             }
           },
           {
@@ -140,7 +132,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Omnivore/2024-02-01/Albert Camus (Stanford Encyclopedia of Philosophy).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,13 +164,20 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "9fde6cfc29510a80",
+  "active": "315e452186b624dd",
   "lastOpenFiles": [
+    "Romantyzm.pdf",
+    "001 Boards/Untitled 6.canvas",
+    "czym-jest-framework.md",
+    "Omnivore/2024-02-01/Albert Camus (Stanford Encyclopedia of Philosophy).md",
+    "001 Boards/Untitled 5.canvas",
+    "Untitled 1.md",
+    "Journal/000 Daily/2024-04-02.md",
+    "001 Boards/camus.canvas",
+    "Central Topic.png",
     "002 Files/Papers/Euclid-Second-Proposition-Math-Intell.pdf",
     "Albert Camus - Mit Syzyfa.md",
-    "001 Boards/camus.canvas",
     "Journal/000 Daily/2024-03-25.md",
-    "Omnivore/2024-02-01/Albert Camus (Stanford Encyclopedia of Philosophy).md",
     "lista-lektur-obowiazkowych.md",
     "001 Boards/Satyry - Ignacy Krasicki.canvas",
     "Pasted image 20240325184514.png",
@@ -199,37 +197,29 @@
     "000 Zettelkasten/202403232039.md",
     "Readwise/Articles/Nietzsche’s Thus Spoke Zarathustra - Before Sunrise.pdf.md",
     "000 Zettelkasten/202403231927.md",
-    "001 Boards/Untitled 4.canvas",
     "Omnivore/2024-03-12/Immanuel Kant (Stanford Encyclopedia of Philosophy).md",
     "Omnivore/2024-03-12",
     "Omnivore/2024-02-11/René Descartes (Stanford Encyclopedia of Philosophy).md",
     "Omnivore/2024-02-11",
     "Prawo międzynarodowe.md",
-    "001 Boards/heniu.canvas",
     "Journal/000 Daily/2024-03-19.md",
     "Pytania niejawne.md",
     "Fizyka - matura.md",
     "Untitled.md",
     "środki-poetyckie.md",
     "Referat - Danio.md",
-    "Angielski matura.md",
     "Albert Camus - Mit Syzyfa.md~",
-    "000 Zettelkasten/Niezgoda na zło w poezji Zbigniewa Herberta.md",
-    "000 Zettelkasten/Allude.md",
     "002 Files/Papers/Marcin_Brzozowski_fun_czas_w_arduino.pdf",
     "Spaces/Home",
     "Spaces",
     "whiteboards/65ec574d-7bf1-4fef-8103-17137b4eec24.edn",
     "whiteboards",
-    "logseq/custom.css",
-    "pages",
     "ReadItLater Inbox/assets/51gV3KaVM1L._SX331_BO1,204,203,200_.jpg",
     "002 Files/Paintings/Miasto_nad_morzem_Ambrogio_Lorenzetti.png",
     "002 Files/Paintings/Madonna_z_książką_Sandra_Botticelli.png",
     "002 Files/Images/Zdania złożone.png",
     "002 Files/Images/Wyświetlacze LCD alfanumeryczne.png",
     "002 Files/Images/DS18B20 - schemat.png",
-    "002 Files/Images/atmega328p-schemat.png",
-    "Pasted image 20231215210554.png"
+    "002 Files/Images/atmega328p-schemat.png"
   ]
 }
