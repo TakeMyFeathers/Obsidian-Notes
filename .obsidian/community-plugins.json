@@ -3,7 +3,6 @@
   "omnisearch",
   "text-extractor",
   "keyshots",
-  "obsidian-omnivore",
   "settings-search",
   "obsidian-smart-typography",
   "cm-editor-syntax-highlight-obsidian",
@@ -36,5 +35,6 @@
   "cardify",
   "url-into-selection",
   "obsidian-rollover-daily-todos",
-  "sample-plugin"
+  "sample-plugin",
+  "obsidian-omnivore"
 ]

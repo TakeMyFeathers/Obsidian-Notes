@@ -1,6 +1,30 @@
 {
   "recentFiles": [
     {
+      "basename": "camus",
+      "path": "001 Boards/camus.canvas"
+    },
+    {
+      "basename": "Albert Camus (Stanford Encyclopedia of Philosophy)",
+      "path": "Omnivore/Albert Camus (Stanford Encyclopedia of Philosophy).md"
+    },
+    {
+      "basename": "Nietzsche's Cave of Tarantulas - Benjamin McEvoy",
+      "path": "Omnivore/Nietzsche's Cave of Tarantulas - Benjamin McEvoy.md"
+    },
+    {
+      "basename": "LaTeX-Template-Note-master.tex at 995342b1bdaa571e393f1164933420466b5e1ad2 · sleepymalc-LaTeX-Tem...",
+      "path": "Omnivore/LaTeX-Template-Note-master.tex at 995342b1bdaa571e393f1164933420466b5e1ad2 · sleepymalc-LaTeX-Tem....md"
+    },
+    {
+      "basename": "Doskonała Próżnia",
+      "path": "Readwise/Books/Doskonała Próżnia.md"
+    },
+    {
+      "basename": "Euclid-Second-Proposition-Math-Intell",
+      "path": "002 Files/Papers/Euclid-Second-Proposition-Math-Intell.pdf"
+    },
+    {
       "basename": "Romantyzm",
       "path": "Romantyzm.pdf"
     },
@@ -11,10 +35,6 @@
     {
       "basename": "czym-jest-framework",
       "path": "czym-jest-framework.md"
-    },
-    {
-      "basename": "Albert Camus (Stanford Encyclopedia of Philosophy)",
-      "path": "Omnivore/2024-02-01/Albert Camus (Stanford Encyclopedia of Philosophy).md"
     },
     {
       "basename": "Untitled 5",
@@ -31,14 +51,6 @@
     {
       "basename": "2024-04-02",
       "path": "Journal/000 Daily/2024-04-02.md"
-    },
-    {
-      "basename": "camus",
-      "path": "001 Boards/camus.canvas"
-    },
-    {
-      "basename": "Euclid-Second-Proposition-Math-Intell",
-      "path": "002 Files/Papers/Euclid-Second-Proposition-Math-Intell.pdf"
     },
     {
       "basename": "Albert Camus - Mit Syzyfa",
@@ -167,38 +179,6 @@
     {
       "basename": "Untitled",
       "path": "Untitled.md"
-    },
-    {
-      "basename": "środki-poetyckie",
-      "path": "środki-poetyckie.md"
-    },
-    {
-      "basename": "Referat - Danio",
-      "path": "Referat - Danio.md"
-    },
-    {
-      "basename": "Angielski matura",
-      "path": "Angielski matura.md"
-    },
-    {
-      "basename": "Niezgoda na zło w poezji Zbigniewa Herberta",
-      "path": "000 Zettelkasten/Niezgoda na zło w poezji Zbigniewa Herberta.md"
-    },
-    {
-      "basename": "Allude",
-      "path": "000 Zettelkasten/Allude.md"
-    },
-    {
-      "basename": "Granica » Ciąg stały",
-      "path": "000 Zettelkasten/Granica » Ciąg stały.md"
-    },
-    {
-      "basename": "Algebra i Teoria Liczb - 2.B4",
-      "path": "000 Zettelkasten/Algebra i Teoria Liczb - 2.B4.md"
-    },
-    {
-      "basename": "O starej i młodej kobiecie - Tako Rzecze Zaratustra",
-      "path": "999 Temporary/O starej i młodej kobiecie - Tako Rzecze Zaratustra.md"
     }
   ],
   "omittedPaths": [],

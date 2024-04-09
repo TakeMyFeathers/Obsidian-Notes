@@ -4,15 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "f4fc24fb53934d6c",
+        "id": "6178fdd7f737c108",
         "type": "tabs",
         "children": [
           {
-            "id": "315e452186b624dd",
+            "id": "d858900a3025fe19",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "canvas",
+              "state": {
+                "file": "001 Boards/camus.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
+              }
             }
           }
         ]
@@ -101,6 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "001 Boards/camus.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +131,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "001 Boards/camus.canvas"
+              }
             }
           },
           {
@@ -132,6 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "001 Boards/camus.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,27 +169,54 @@
       "omnisearch:Omnisearch": false,
       "obsidian-read-it-later:ReadItLater: Save clipboard": true,
       "zk-prefixer:Create new unique note": false,
-      "obsidian-omnivore:Omnivore": false,
       "obsidian-excalidraw-plugin:Create new drawing": true,
       "cardify:Cardify": false,
+      "obsidian-omnivore:Omnivore": false,
       "periodic-notes:Open today": false
     }
   },
-  "active": "315e452186b624dd",
+  "active": "d858900a3025fe19",
   "lastOpenFiles": [
-    "Romantyzm.pdf",
-    "001 Boards/Untitled 6.canvas",
-    "czym-jest-framework.md",
-    "Omnivore/2024-02-01/Albert Camus (Stanford Encyclopedia of Philosophy).md",
-    "001 Boards/Untitled 5.canvas",
-    "Untitled 1.md",
-    "Journal/000 Daily/2024-04-02.md",
+    "Omnivore/Albert Camus (Stanford Encyclopedia of Philosophy).md",
+    "Omnivore/Nietzsche's Cave of Tarantulas - Benjamin McEvoy.md",
+    "Omnivore/LaTeX-Template-Note-master.tex at 995342b1bdaa571e393f1164933420466b5e1ad2 · sleepymalc-LaTeX-Tem....md",
+    "Omnivore/calculus - Kepler's Wine Barrel Problem (Applied Optimization) - Mathematics Stack Exchange.md",
+    "Omnivore/Romanticism - Wikipedia.md",
+    "Omnivore/Romanticism - Essay - The Metropolitan Museum of Art - Heilbrunn Timeline of Art History.md",
+    "Omnivore/GitHub - Aidoku-Aidoku- Free and open source manga reader for iOS and iPadOS.md",
+    "Omnivore/Seven Greek tragedies, seven simple overviews - Classical Inquiries.md",
+    "Omnivore/Encyklopedia ENCENC - Polskie encyklopedie humanistyczne.md",
+    "Omnivore/A Chronology of Nietzsche's Books, with Descriptions of Each Work's Contents & Background - Nietz....md",
+    "Omnivore/Meaning of 'by' when combined with year - English Language & Usage Stack Exchange.md",
+    "Omnivore/[2403.16341] NonlinearSolve.jl- High-Performance and Robust Solvers for Systems of Nonlinear Equa....md",
+    "Omnivore/Aesthetic Experience (Stanford Encyclopedia of Philosophy).md",
+    "Omnivore/Bretagne – Self Modern Regular.md",
+    "Omnivore/Blocked.md",
+    "Omnivore/Heptabase- A beginners tutorial for visual note taking (personal knowledge management tool).md",
+    "Omnivore/Select instance - Invidious.md",
+    "Omnivore/Welcome to Omnivore.md",
+    "Omnivore/Prolegomena- What is Prolegomena- - Westminster Theological SeminaryWestminster Theological Seminary.md",
+    "Omnivore/Immanuel Kant (Stanford Encyclopedia of Philosophy).md",
+    "Omnivore/Elliptic Curve ‘Murmurations’ Found With AI Take Flight - Quanta Magazine.md",
+    "Omnivore/existentialism - What does Albert Camus mean by two methods of thought, -of La Palisse and Don Qu....md",
+    "Omnivore/Polskie filtry do AdBlocka, uBlocka Origin i AdGuarda.md",
+    "Omnivore/René Descartes (Stanford Encyclopedia of Philosophy).md",
+    "Omnivore/Argument and Argumentation (Stanford Encyclopedia of Philosophy).md",
+    "Omnivore/Henri Poincaré (Stanford Encyclopedia of Philosophy).md",
+    "Omnivore",
+    "Omnivore/2024-04-04",
+    "Omnivore/2024-04-03",
+    "Omnivore/2024-04-01",
+    "Omnivore/2024-03-27",
+    "Omnivore/2024-03-26",
+    "Omnivore/2024-03-24",
+    "Omnivore/2024-03-23",
+    "Omnivore/2024-03-14",
+    "Omnivore/2024-03-12",
     "001 Boards/camus.canvas",
+    "001 Boards/Untitled 6.canvas",
+    "001 Boards/Untitled 5.canvas",
     "Central Topic.png",
-    "002 Files/Papers/Euclid-Second-Proposition-Math-Intell.pdf",
-    "Albert Camus - Mit Syzyfa.md",
-    "Journal/000 Daily/2024-03-25.md",
-    "lista-lektur-obowiazkowych.md",
     "001 Boards/Satyry - Ignacy Krasicki.canvas",
     "Pasted image 20240325184514.png",
     "Pasted image 20240325184450.png",
@@ -187,33 +225,7 @@
     "001 Boards/Polski tematy.canvas",
     "001 Boards/Arystoteles-zalążki-systemu.canvas",
     "001 Boards/Arystoteles-wstęp.canvas",
-    "niemiecki.md",
-    "Journal/000 Daily/2024-03-24.md",
-    "Excalidraw/Drawing 2024-03-25 00.14.57.excalidraw.md",
-    "000 Zettelkasten/Sokrates.md",
-    "000 Zettelkasten/Sofizm.md",
-    "Journal/000 Daily/2024-03-23.md",
     "001 Boards/Test Historycznoliteracki RENESANS.canvas",
-    "000 Zettelkasten/202403232039.md",
-    "Readwise/Articles/Nietzsche’s Thus Spoke Zarathustra - Before Sunrise.pdf.md",
-    "000 Zettelkasten/202403231927.md",
-    "Omnivore/2024-03-12/Immanuel Kant (Stanford Encyclopedia of Philosophy).md",
-    "Omnivore/2024-03-12",
-    "Omnivore/2024-02-11/René Descartes (Stanford Encyclopedia of Philosophy).md",
-    "Omnivore/2024-02-11",
-    "Prawo międzynarodowe.md",
-    "Journal/000 Daily/2024-03-19.md",
-    "Pytania niejawne.md",
-    "Fizyka - matura.md",
-    "Untitled.md",
-    "środki-poetyckie.md",
-    "Referat - Danio.md",
-    "Albert Camus - Mit Syzyfa.md~",
-    "002 Files/Papers/Marcin_Brzozowski_fun_czas_w_arduino.pdf",
-    "Spaces/Home",
-    "Spaces",
-    "whiteboards/65ec574d-7bf1-4fef-8103-17137b4eec24.edn",
-    "whiteboards",
     "ReadItLater Inbox/assets/51gV3KaVM1L._SX331_BO1,204,203,200_.jpg",
     "002 Files/Paintings/Miasto_nad_morzem_Ambrogio_Lorenzetti.png",
     "002 Files/Paintings/Madonna_z_książką_Sandra_Botticelli.png",
