@@ -5,7 +5,7 @@
   "theme": "moonstone",
   "baseFontSize": 20,
   "showViewHeader": true,
-  "textFontFamily": "Atkinson Hyperlegible,Nunito,GuardianTextSans,Self Modern",
+  "textFontFamily": "Nunito,Atkinson Hyperlegible,GuardianTextSans,Self Modern",
   "enabledCssSnippets": [
     "supercharged-links-gen",
     "column-size",

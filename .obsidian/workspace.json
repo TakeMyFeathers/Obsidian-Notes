@@ -4,21 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "6178fdd7f737c108",
+        "id": "fe6d71f561b2275e",
         "type": "tabs",
         "children": [
           {
-            "id": "d858900a3025fe19",
+            "id": "d3fe8f552616b850",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "001 Boards/camus.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
-                }
+                "file": "Dziady cz. II.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": false
               }
             }
           }
@@ -108,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "001 Boards/camus.canvas",
+                "file": "Dziady cz. II.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "001 Boards/camus.canvas"
+                "file": "Dziady cz. II.md"
               }
             }
           },
@@ -142,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "001 Boards/camus.canvas",
+                "file": "Dziady cz. II.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,8 +173,14 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "d858900a3025fe19",
+  "active": "d3fe8f552616b850",
   "lastOpenFiles": [
+    "Dziady cz. II.md",
+    "001 Boards/camus.canvas",
+    "Omnivore/Existentialism (Stanford Encyclopedia of Philosophy).md",
+    "Omnivore/Merging Fields, Mathematicians Go the Distance on Old Problem - Quanta Magazine.md",
+    "Omnivore/Spherical cow - Wikipedia.md",
+    "Omnivore/Loxias - Facts, Information, and Mythology.md",
     "Omnivore/Albert Camus (Stanford Encyclopedia of Philosophy).md",
     "Omnivore/Nietzsche's Cave of Tarantulas - Benjamin McEvoy.md",
     "Omnivore/LaTeX-Template-Note-master.tex at 995342b1bdaa571e393f1164933420466b5e1ad2 · sleepymalc-LaTeX-Tem....md",
@@ -198,11 +202,6 @@
     "Omnivore/Prolegomena- What is Prolegomena- - Westminster Theological SeminaryWestminster Theological Seminary.md",
     "Omnivore/Immanuel Kant (Stanford Encyclopedia of Philosophy).md",
     "Omnivore/Elliptic Curve ‘Murmurations’ Found With AI Take Flight - Quanta Magazine.md",
-    "Omnivore/existentialism - What does Albert Camus mean by two methods of thought, -of La Palisse and Don Qu....md",
-    "Omnivore/Polskie filtry do AdBlocka, uBlocka Origin i AdGuarda.md",
-    "Omnivore/René Descartes (Stanford Encyclopedia of Philosophy).md",
-    "Omnivore/Argument and Argumentation (Stanford Encyclopedia of Philosophy).md",
-    "Omnivore/Henri Poincaré (Stanford Encyclopedia of Philosophy).md",
     "Omnivore",
     "Omnivore/2024-04-04",
     "Omnivore/2024-04-03",
@@ -213,7 +212,6 @@
     "Omnivore/2024-03-23",
     "Omnivore/2024-03-14",
     "Omnivore/2024-03-12",
-    "001 Boards/camus.canvas",
     "001 Boards/Untitled 6.canvas",
     "001 Boards/Untitled 5.canvas",
     "Central Topic.png",
