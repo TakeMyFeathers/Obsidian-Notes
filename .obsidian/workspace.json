@@ -11,12 +11,14 @@
             "id": "d3fe8f552616b850",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Dziady cz. II.md",
-                "mode": "preview",
-                "backlinks": false,
-                "source": false
+                "file": "001 Boards/camus.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
               }
             }
           }
@@ -106,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dziady cz. II.md",
+                "file": "001 Boards/camus.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +132,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dziady cz. II.md"
+                "file": "001 Boards/camus.canvas"
               }
             }
           },
@@ -140,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dziady cz. II.md",
+                "file": "001 Boards/camus.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -176,6 +178,10 @@
   "active": "d3fe8f552616b850",
   "lastOpenFiles": [
     "Dziady cz. II.md",
+    "Omnivore/Just How Helpful is Knowing Your Multiplication Facts-.md",
+    "Omnivore/A Neighborhood of Infinity- You Could Have Invented Monads! (And Maybe You Already Have.).md",
+    "Omnivore/Structuralism - by Joel David Hamkins - Infinitely More.md",
+    "Omnivore/Shell History Is Your Best Productivity Tool - Martin Heinz - Personal Website & Blog.md",
     "001 Boards/camus.canvas",
     "Omnivore/Existentialism (Stanford Encyclopedia of Philosophy).md",
     "Omnivore/Merging Fields, Mathematicians Go the Distance on Old Problem - Quanta Magazine.md",
@@ -198,10 +204,6 @@
     "Omnivore/Blocked.md",
     "Omnivore/Heptabase- A beginners tutorial for visual note taking (personal knowledge management tool).md",
     "Omnivore/Select instance - Invidious.md",
-    "Omnivore/Welcome to Omnivore.md",
-    "Omnivore/Prolegomena- What is Prolegomena- - Westminster Theological SeminaryWestminster Theological Seminary.md",
-    "Omnivore/Immanuel Kant (Stanford Encyclopedia of Philosophy).md",
-    "Omnivore/Elliptic Curve ‘Murmurations’ Found With AI Take Flight - Quanta Magazine.md",
     "Omnivore",
     "Omnivore/2024-04-04",
     "Omnivore/2024-04-03",

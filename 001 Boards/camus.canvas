@@ -12,7 +12,7 @@
     {
       "id": "cc7bf23b1390fce3",
       "type": "text",
-      "text": "# Absurd i samobójstwo\n\n**Czy życie warte jest trudu?** - pierwszy postulat, który musimy przyjąć, bądź odrzucić, aby wyruszyć w swoją drogą.\n  \n  *Def.* problem zasadniczy - problemy, które grożą śmiercią lub zwielokratniają pasję życia\n  \n  \"istnieją prawdopodobnie tylko dwie metody myślenia; myśl La Palisse'a i Don Kichota.\" - [What does Albert Camus mean by two methods of thought, \"of La Palisse and Don Quixote\"?](https://philosophy.stackexchange.com/questions/85955/what-does-albert-camus-mean-by-two-methods-of-thought-of-la-palisse-and-don-qu)\n\n\n\n\n",
+      "text": "# Absurd i samobójstwo\n\n**Czy życie warte jest trudu?** - pierwszy postulat, który musimy przyjąć, bądź odrzucić, aby wyruszyć w swoją drogą.\n  \n  *Def.* problem zasadniczy - problemy, które grożą śmiercią lub zwielokratniają pasję życia\n  \n  \"istnieją prawdopodobnie tylko dwie metody myślenia; myśl La Palisse'a i Don Kichota.\" - [What does Albert Camus mean by two methods of thought, \"of La Palisse and Don Quixote\"?](https://philosophy.stackexchange.com/questions/85955/what-does-albert-camus-mean-by-two-methods-of-thought-of-la-palisse-and-don-qu)\n\n\n",
       "x": -6927,
       "y": -1799,
       "width": 609,
@@ -26,6 +26,15 @@
       "y": -1932,
       "width": 540,
       "height": 560
+    },
+    {
+      "id": "64333bfeb95b3326",
+      "type": "text",
+      "text": "asdasdasd\nas\nasdasd\n\na\nsdasdas\ndas\ndasd",
+      "x": -8667,
+      "y": -1634,
+      "width": 660,
+      "height": 288
     }
   ],
   "edges": [],
