@@ -35,8 +35,50 @@
       "y": -1634,
       "width": 660,
       "height": 288
+    },
+    {
+      "id": "58580e8e2d0f4d67",
+      "type": "text",
+      "text": "# asdaasdasdad\nasdasdasda\nsd\nas\ndas\nd\nasdasdasdasdad\nas\nd\nasd\nasd\nasd\nas",
+      "x": -9232,
+      "y": -2353,
+      "width": 598,
+      "height": 498
+    },
+    {
+      "id": "c136cb39c0aabd19",
+      "x": -8468,
+      "y": -2396,
+      "width": 660,
+      "height": 120,
+      "type": "text",
+      "text": "asdasdasdasdas"
+    },
+    {
+      "id": "3ecbf58b0826b0d5",
+      "x": -8468,
+      "y": -2250,
+      "width": 660,
+      "height": 120,
+      "type": "text",
+      "text": ""
     }
   ],
-  "edges": [],
+  "edges": [
+    {
+      "id": "1019792ee6348e21",
+      "fromNode": "58580e8e2d0f4d67",
+      "fromSide": "right",
+      "toNode": "c136cb39c0aabd19",
+      "toSide": "left"
+    },
+    {
+      "id": "2e33fbc2a0940c3c",
+      "fromNode": "58580e8e2d0f4d67",
+      "fromSide": "right",
+      "toNode": "3ecbf58b0826b0d5",
+      "toSide": "left"
+    }
+  ],
   "metadata": {}
 }
