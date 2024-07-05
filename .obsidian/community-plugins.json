@@ -32,9 +32,11 @@
   "advanced-canvas",
   "obsidian-excalidraw-plugin",
   "canvas-card-bg-remover",
-  "cardify",
   "url-into-selection",
   "obsidian-rollover-daily-todos",
   "sample-plugin",
-  "obsidian-omnivore"
+  "obsidian-omnivore",
+  "obsidian-koreader-plugin",
+  "callout-manager",
+  "callout-integrator"
 ]

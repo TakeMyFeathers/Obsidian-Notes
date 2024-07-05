@@ -118,5 +118,7 @@
   "minimal-style@@blockquote-color@@light": "#232A35",
   "minimal-style@@tx1@@light": "#232A35",
   "minimal-style@@tx1@@dark": "#A7B4C6",
-  "minimal-style@@blockquote-color@@dark": "#A7B4C6"
+  "minimal-style@@blockquote-color@@dark": "#A7B4C6",
+  "custom-diegoeis-simple@@eis-sidebar-dark": false,
+  "custom-diegoeis-simple@@eis-font-type": "eis-font-default"
 }

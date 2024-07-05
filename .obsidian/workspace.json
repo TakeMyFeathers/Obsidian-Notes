@@ -4,16 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "fe6d71f561b2275e",
+        "id": "8c297c3ce2ed491d",
         "type": "tabs",
         "children": [
           {
-            "id": "d3fe8f552616b850",
+            "id": "7da03aef969b1624",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "excalibrain.md"
+                "file": "000 Zettelkasten/Zmierzch bożyszcz.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": false
               }
             }
           }
@@ -74,11 +77,13 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 299.5
+    "width": 299.5,
+    "collapsed": true
   },
   "right": {
     "id": "68a4bbecffc25852",
@@ -102,7 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "excalibrain.md",
+                "file": "000 Zettelkasten/Zmierzch bożyszcz.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "excalibrain.md"
+                "file": "000 Zettelkasten/Zmierzch bożyszcz.md"
               }
             }
           },
@@ -136,7 +141,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "excalibrain.md",
+                "file": "000 Zettelkasten/Zmierzch bożyszcz.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,42 +167,43 @@
       "graph:Open graph view": true,
       "obsidian-read-it-later:ReadItLater: Save clipboard": true,
       "zk-prefixer:Create new unique note": false,
-      "cardify:Cardify": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
       "omnisearch:Omnisearch": false,
       "obsidian-omnivore:Omnivore": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-koreader-plugin:Sync your KOReader highlights": false,
+      "callout-manager:Insert Callout": false,
       "periodic-notes:Open today": false
     }
   },
-  "active": "d3fe8f552616b850",
+  "active": "7da03aef969b1624",
   "lastOpenFiles": [
+    "000 Zettelkasten/Zmierzch bożyszcz.md",
+    "000 Zettelkasten/Atomizm.md",
+    "001 Boards/Untitled 7.canvas",
+    "000 Zettelkasten/Parmenidas.md",
+    "000 Zettelkasten/Arystofanes.md",
+    "000 Zettelkasten/Allude.md",
+    "000 Zettelkasten/Algebra i Teoria Liczb.md",
+    "don-kichot-z-la-manchy.md",
+    "1708976637-USPT.md",
+    "Omnivore/Encyklopedia ENCENC - Polskie encyklopedie humanistyczne.md",
+    "Omnivore/r-unixporn - the home for -NIX customization!.md",
+    "excalibrain.md",
     "czym-jest-framework.md",
     "Albert.md",
     "1709106897-USPT.md",
     "miejsce-zmieniane-przez-czas.md",
     "Omnivore/Science and Math News - Quanta Magazine.md",
-    "Omnivore/Encyklopedia ENCENC - Polskie encyklopedie humanistyczne.md",
     "Omnivore/Elliptic Curve ‘Murmurations’ Found With AI Take Flight - Quanta Magazine.md",
     "Omnivore/calculus - Kepler's Wine Barrel Problem (Applied Optimization) - Mathematics Stack Exchange.md",
     "Omnivore/Existentialism (Stanford Encyclopedia of Philosophy).md",
     "Omnivore/Aristotle’s Logic (Stanford Encyclopedia of Philosophy-Winter 2022 Edition).md",
     "Omnivore/Albert Camus (Stanford Encyclopedia of Philosophy).md",
     "001 Boards/camus.canvas",
-    "Omnivore/r-unixporn - the home for -NIX customization!.md",
     "Omnivore/Taming Floating-Point Sums - orlp.net.md",
     "Omnivore/Czego fantasy powinno nauczyć się od Frieren- - Fanboj i Życie.md",
     "Omnivore/In medias res - Wikipedia.md",
     "Omnivore/Continuous Social Media Scrolling Negatively Impacts Eye Movement - Optometry Advisor.md",
-    "Omnivore/Heschel on the Joys of Slowness - Cal Newport.md",
-    "Omnivore/Metaphysics (Stanford Encyclopedia of Philosophy-Summer 2023 Edition).md",
-    "Dziady cz. II.md",
-    "Omnivore/Just How Helpful is Knowing Your Multiplication Facts-.md",
-    "Omnivore/A Neighborhood of Infinity- You Could Have Invented Monads! (And Maybe You Already Have.).md",
-    "Omnivore/Structuralism - by Joel David Hamkins - Infinitely More.md",
-    "Omnivore/Shell History Is Your Best Productivity Tool - Martin Heinz - Personal Website & Blog.md",
-    "Omnivore/Merging Fields, Mathematicians Go the Distance on Old Problem - Quanta Magazine.md",
-    "Omnivore/Spherical cow - Wikipedia.md",
-    "Omnivore/Loxias - Facts, Information, and Mythology.md",
     "Omnivore",
     "Omnivore/2024-04-04",
     "Omnivore/2024-04-03",
@@ -219,7 +225,6 @@
     "001 Boards/Polski tematy.canvas",
     "001 Boards/Arystoteles-zalążki-systemu.canvas",
     "001 Boards/Arystoteles-wstęp.canvas",
-    "001 Boards/Test Historycznoliteracki RENESANS.canvas",
     "ReadItLater Inbox/assets/51gV3KaVM1L._SX331_BO1,204,203,200_.jpg",
     "002 Files/Paintings/Miasto_nad_morzem_Ambrogio_Lorenzetti.png",
     "002 Files/Paintings/Madonna_z_książką_Sandra_Botticelli.png",

@@ -1,11 +1,11 @@
 {
   "accentColor": "#ff5924",
-  "cssTheme": "Minimal",
+  "cssTheme": "Simple",
   "translucency": false,
-  "theme": "obsidian",
-  "baseFontSize": 20,
+  "theme": "system",
+  "baseFontSize": 16,
   "showViewHeader": true,
-  "textFontFamily": "Nunito,Atkinson Hyperlegible,GuardianTextSans,Self Modern",
+  "textFontFamily": "",
   "enabledCssSnippets": [
     "supercharged-links-gen",
     "column-size",
@@ -13,6 +13,6 @@
     "MySnippets"
   ],
   "nativeMenus": false,
-  "monospaceFontFamily": "GuardianTextSans,Iosevka",
+  "monospaceFontFamily": "",
   "baseFontSizeAction": true
 }
