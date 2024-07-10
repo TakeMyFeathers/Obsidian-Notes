@@ -1,6 +1,0 @@
-{
-	"nodes":[
-		{"id":"0a35390afbf636fc","x":-400,"y":-300,"width":603,"height":125,"type":"text","text":"_Treść._ Wyznaczyć wszystkie takie pary (a,b) liczb naturalnych, że liczba $ab^2+b+7$ jest dzielnikiem liczby $a^2b+a+b$"}
-	],
-	"edges":[]
-}

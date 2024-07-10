@@ -1,7 +1,0 @@
-_Zarys._ Kuzyn matki Platona, przeprowadzał proces demitologizacji religii do końca: bogowie są ludzkimi wymysłami, wprowadzonymi po to, by lękiem przed ich gniewem poskramiać nasze skłonności do czynienia zła. Innym instrumentem poskramiania naszych destruktywnych społecznie skłonności jest prawo. Protagoras był jeszcze zwolennikiem reguł postępowania uświęconych przez tradycję. Jednak jego tezy nieubłaganie prowadziły do moralnego relatywizmu: to, co dobre lub słuszne dla jednego, nie musi być takie dla innych. Nie istnieją „prawa naturalne”, są jedynie „prawa stanowione”, które zmieniane są wraz ze zmianą okoliczności. O ustanowieniu danego zbioru praw decydują nie wola bogów bądź jakieś uniwersalne racje, ale w pewnych warunkach siła perswazji (ten, kto jest bardziej przebiegłym dyskutantem, narzuca innym swoje poglądy), w innych siła fizyczna (ten, kto ma władzę, może zmusić innych do uznania własnych twierdzeń i zasad). 
-Takie wnioski miał wyciągnąć Kalikles: _racja jest po stronie silniejszego, a moc jest jedynym prawem_. Jedni ludzie są silni, drudzy słabi. Słabi we własnej obronie starają się narzucić społeczeństwu normy moralne, mające poskromić dążenia silnych. Jest jednak zgodne z naturą, aby silni posiadali więcej, rządzili słabymi. (Po cytaty sięgnij do [[#^d94e1f|(1)]])
-
-_Źródła:_
-- https://sady.up.krakow.pl/sady.dzieje.02.htm ^d94e1f
-
-_Tagi:_ #osoba #filozofia #sofizm 

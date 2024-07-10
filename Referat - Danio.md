@@ -1,1 +1,0 @@
-# Rezonatory kwarcowe, budowa,  zasada działania

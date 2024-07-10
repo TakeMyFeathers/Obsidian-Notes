@@ -11,15 +11,8 @@
             "id": "7062335f36531375",
             "type": "leaf",
             "state": {
-              "type": "canvas",
-              "state": {
-                "file": "001 Boards/camus.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
-                }
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -79,13 +72,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 299.5,
-    "collapsed": true
+    "width": 299.5
   },
   "right": {
     "id": "68a4bbecffc25852",
@@ -96,20 +87,11 @@
         "type": "tabs",
         "children": [
           {
-            "id": "158732b39b5d0266",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
-            }
-          },
-          {
             "id": "4c2134c2365f5f67",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "001 Boards/camus.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,9 +114,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "001 Boards/camus.canvas"
-              }
+              "state": {}
             }
           },
           {
@@ -143,7 +123,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "001 Boards/camus.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,18 +146,15 @@
       "canvas:Create new canvas": true,
       "command-palette:Open command palette": true,
       "graph:Open graph view": true,
-      "obsidian-read-it-later:ReadItLater: Save clipboard": true,
       "zk-prefixer:Create new unique note": false,
-      "omnisearch:Omnisearch": false,
-      "obsidian-omnivore:Omnivore": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "obsidian-koreader-plugin:Sync your KOReader highlights": false,
-      "callout-manager:Insert Callout": false,
-      "periodic-notes:Open today": false
+      "webpage-html-export:Export Vault to HTML": false
     }
   },
   "active": "7062335f36531375",
   "lastOpenFiles": [
+    "000 Zettelkasten/Untitled.md",
+    "000 Zettelkasten/Wykładniki p-adyczne - NWW.md",
+    "001 Boards/camus.canvas",
     "000 Zettelkasten/Zmierzch bożyszcz.md",
     "000 Zettelkasten/Atomizm.md",
     "001 Boards/Untitled 7.canvas",
@@ -201,11 +177,9 @@
     "Omnivore/Existentialism (Stanford Encyclopedia of Philosophy).md",
     "Omnivore/Aristotle’s Logic (Stanford Encyclopedia of Philosophy-Winter 2022 Edition).md",
     "Omnivore/Albert Camus (Stanford Encyclopedia of Philosophy).md",
-    "001 Boards/camus.canvas",
     "Omnivore/Taming Floating-Point Sums - orlp.net.md",
     "Omnivore/Czego fantasy powinno nauczyć się od Frieren- - Fanboj i Życie.md",
     "Omnivore/In medias res - Wikipedia.md",
-    "Omnivore/Continuous Social Media Scrolling Negatively Impacts Eye Movement - Optometry Advisor.md",
     "Omnivore",
     "Omnivore/2024-04-04",
     "Omnivore/2024-04-03",

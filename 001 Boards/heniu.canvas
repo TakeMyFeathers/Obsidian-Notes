@@ -1,6 +1,0 @@
-{
-	"nodes":[
-		{"id":"2d1e5c34ee14bcb2","type":"text","text":"$Z_s_m=2.8 Omega$\n$U_0=230V \"AC\" (225V)$\nMCB - B10\nklasy MCB:\n- B - $k=3 div 5$\n- C - $k=5 div 10$\n- D - $k=10 div 20$\n\n$$\nZ_s_m lt.eq U_0/I_a lt.eq U_0/(I_B k) lt.eq 225 / (10  dot 5) lt.eq 225/50 lt.eq 4.41 Omega\n$$\nWynik to największa dopuszczalna wartość impendancji pętli zwarcia\n\n$$\nZ_s_m lt.eq Z_s\\\n2.8 Omega lt.eq 4.41 Omega\n$$\nWarunek spełniony, instalacja nadaje się do użytku\n\n$$\nZ_s_m lt.eq Z_s\\\n6.75 Omega lt.eq.not 4.41 Omega\n$$\nInstalacja nie nadaje się do użytku\n\n$$ P=U_(\"nf\") dot I_n dot cos phi $$\n$I_n=16 A$\nDla odbiorników rezystancyjnych: $cos phi = 0.95$\nMCB → B16\n\nDla odbiorników indukcyjnych: $cos phi = 0.98$\nMCB → C16\n\nSprawdzenie jaką moc można przyłączyć do gniazda 1-fazowego przy założeniu, że w obwodzie zabezpieczenie jest klasy B i drugi przypadek klasy C. Impedancja pętli zwarcia w instalacji TN-S wynosi $Z_s_m = 1.2$","x":-1986,"y":-1104,"width":889,"height":1050}
-	],
-	"edges":[]
-}

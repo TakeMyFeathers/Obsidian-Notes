@@ -1,3 +1,0 @@
-_Liczniki zdarzeń wewnętrznych_
-_Liczniki zdarzeń zewnętrznych_
-_Liczniki zdarzeń systemowych_

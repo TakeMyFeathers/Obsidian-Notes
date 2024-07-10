@@ -2,15 +2,14 @@
   "accentColor": "#ff5924",
   "cssTheme": "Simple",
   "translucency": false,
-  "theme": "system",
+  "theme": "obsidian",
   "baseFontSize": 16,
   "showViewHeader": true,
   "textFontFamily": "",
   "enabledCssSnippets": [
     "supercharged-links-gen",
     "column-size",
-    "theorem-callout",
-    "MySnippets"
+    "theorem-callout"
   ],
   "nativeMenus": false,
   "monospaceFontFamily": "",
