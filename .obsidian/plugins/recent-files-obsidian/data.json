@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "camus",
+      "path": "001 Boards/camus.canvas"
+    },
+    {
       "basename": "Zmierzch bożyszcz",
       "path": "000 Zettelkasten/Zmierzch bożyszcz.md"
     },
@@ -87,10 +91,6 @@
     {
       "basename": "Albert Camus (Stanford Encyclopedia of Philosophy)",
       "path": "Omnivore/Albert Camus (Stanford Encyclopedia of Philosophy).md"
-    },
-    {
-      "basename": "camus",
-      "path": "001 Boards/camus.canvas"
     },
     {
       "basename": "Dziady cz. II",
