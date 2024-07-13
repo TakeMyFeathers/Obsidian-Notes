@@ -4,15 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "523ac3b12acd37d7",
+        "id": "682aeda1ee0ced52",
         "type": "tabs",
         "children": [
           {
-            "id": "7062335f36531375",
+            "id": "11929afd49e73a84",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "canvas",
+              "state": {
+                "file": "Antychryst.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
+              }
             }
           }
         ]
@@ -76,7 +83,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 299.5
+    "width": 299.5,
+    "collapsed": true
   },
   "right": {
     "id": "68a4bbecffc25852",
@@ -92,6 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Antychryst.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -114,7 +123,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Antychryst.canvas"
+              }
             }
           },
           {
@@ -123,6 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Antychryst.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,8 +162,10 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "7062335f36531375",
+  "active": "11929afd49e73a84",
   "lastOpenFiles": [
+    "Antychryst.canvas",
+    "Historia FIlozofii I.canvas",
     "000 Zettelkasten/Untitled.md",
     "000 Zettelkasten/Wykładniki p-adyczne - NWW.md",
     "001 Boards/camus.canvas",
@@ -179,7 +193,6 @@
     "Omnivore/Albert Camus (Stanford Encyclopedia of Philosophy).md",
     "Omnivore/Taming Floating-Point Sums - orlp.net.md",
     "Omnivore/Czego fantasy powinno nauczyć się od Frieren- - Fanboj i Życie.md",
-    "Omnivore/In medias res - Wikipedia.md",
     "Omnivore",
     "Omnivore/2024-04-04",
     "Omnivore/2024-04-03",
@@ -200,7 +213,6 @@
     "001 Boards/Arystoteles.canvas",
     "001 Boards/Polski tematy.canvas",
     "001 Boards/Arystoteles-zalążki-systemu.canvas",
-    "001 Boards/Arystoteles-wstęp.canvas",
     "ReadItLater Inbox/assets/51gV3KaVM1L._SX331_BO1,204,203,200_.jpg",
     "002 Files/Paintings/Miasto_nad_morzem_Ambrogio_Lorenzetti.png",
     "002 Files/Paintings/Madonna_z_książką_Sandra_Botticelli.png",
